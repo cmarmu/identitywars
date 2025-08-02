@@ -1,0 +1,311 @@
+{
+  "category": "captcha",
+  "questions": [
+    {
+      "question": "What is CAPTCHA in cybersecurity?",
+      "choices": [
+        "A test to differentiate between humans and bots",
+        "Font checker",
+        "Theme generator",
+        "VPN diagnostic"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "captcha"
+      ]
+    },
+    {
+      "question": "What does CAPTCHA stand for?",
+      "choices": [
+        "Completely Automated Public Turing test to tell Computers and Humans Apart",
+        "Font Applied Public Check",
+        "Theme Adjustment Protocol",
+        "VPN Access Control"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "captcha"
+      ]
+    },
+    {
+      "question": "What is the main purpose of CAPTCHA?",
+      "choices": [
+        "Prevent automated abuse of online services",
+        "Verify fonts",
+        "Manage themes",
+        "Optimize VPNs"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "captcha"
+      ]
+    },
+    {
+      "question": "How do image recognition CAPTCHAs work?",
+      "choices": [
+        "Users identify specific images to prove they are human",
+        "Users select fonts",
+        "Users adjust themes",
+        "Users select VPNs"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "captcha"
+      ]
+    },
+    {
+      "question": "What is reCAPTCHA?",
+      "choices": [
+        "A Google service that protects sites from bots",
+        "Font reset tool",
+        "Theme plugin",
+        "VPN routing"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "captcha"
+      ]
+    },
+    {
+      "question": "What is a fun but ineffective CAPTCHA?",
+      "choices": [
+        "Asking users to 'prove they are cool'",
+        "Image identification",
+        "Checkbox challenges",
+        "Audio CAPTCHA"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "captcha"
+      ]
+    },
+    {
+      "question": "What is the role of CAPTCHA in protecting login flows?",
+      "choices": [
+        "Prevents automated login attempts like credential stuffing",
+        "Fonts correction",
+        "Theme switching",
+        "VPN resets"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "captcha"
+      ]
+    },
+    {
+      "question": "What can advanced bots sometimes do with simple CAPTCHA?",
+      "choices": [
+        "Bypass it using AI or automation",
+        "Fix fonts",
+        "Repair themes",
+        "Speed up WiFi"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "captcha"
+      ]
+    },
+    {
+      "question": "How can Auth0 integrate CAPTCHA into authentication?",
+      "choices": [
+        "By embedding CAPTCHA in login flows to block bots",
+        "Font embedding",
+        "Theme syncing",
+        "VPN encryption"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "captcha",
+        "Auth0"
+      ]
+    },
+    {
+      "question": "How can Okta improve login security with CAPTCHA?",
+      "choices": [
+        "By triggering CAPTCHA on suspicious login patterns",
+        "By refreshing fonts",
+        "By upgrading themes",
+        "By compressing VPNs"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "captcha",
+        "Okta"
+      ]
+    },
+    {
+      "question": "What is an audio CAPTCHA?",
+      "choices": [
+        "A test where users identify spoken words or numbers",
+        "Font sound tests",
+        "Theme soundtracks",
+        "VPN audio routing"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "captcha"
+      ]
+    },
+    {
+      "question": "What is an advantage of invisible CAPTCHA?",
+      "choices": [
+        "It works in the background without disrupting UX",
+        "It fixes fonts silently",
+        "It hides themes",
+        "It secures VPNs invisibly"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "captcha"
+      ]
+    },
+    {
+      "question": "What is CAPTCHA resistance?",
+      "choices": [
+        "Techniques bots use to solve CAPTCHA",
+        "Font resistance",
+        "Theme locking",
+        "VPN hardening"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "captcha"
+      ]
+    },
+    {
+      "question": "What type of sites commonly use CAPTCHA?",
+      "choices": [
+        "Login pages, contact forms, registration portals",
+        "Font sites",
+        "Theme marketplaces",
+        "VPN sites"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "captcha"
+      ]
+    },
+    {
+      "question": "What is CAPTCHA fatigue?",
+      "choices": [
+        "User annoyance from frequent CAPTCHA challenges",
+        "Font fatigue",
+        "Theme fatigue",
+        "WiFi fatigue"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "captcha"
+      ]
+    },
+    {
+      "question": "What is a behavioral CAPTCHA?",
+      "choices": [
+        "Analyzes user behavior to detect bots",
+        "Font styling",
+        "Theme customization",
+        "VPN analysis"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "captcha"
+      ]
+    },
+    {
+      "question": "How can CAPTCHA impact accessibility?",
+      "choices": [
+        "It can be difficult for visually impaired users",
+        "Fonts may shrink",
+        "Themes may break",
+        "VPNs may slow"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "captcha"
+      ]
+    },
+    {
+      "question": "What is a good practice to balance CAPTCHA and UX?",
+      "choices": [
+        "Use invisible or behavior-based CAPTCHA",
+        "Update fonts",
+        "Adjust themes",
+        "Speed up VPNs"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "captcha"
+      ]
+    },
+    {
+      "question": "What is the best practice for CAPTCHA deployment?",
+      "choices": [
+        "Deploy on sensitive actions, use invisible methods when possible",
+        "Change fonts",
+        "Switch themes",
+        "Encrypt colors"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "captcha"
+      ]
+    }
+  ]
+}

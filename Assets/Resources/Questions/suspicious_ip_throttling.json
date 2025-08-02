@@ -1,0 +1,311 @@
+{
+  "category": "suspicious_ip_throttling",
+  "questions": [
+    {
+      "question": "What is suspicious IP throttling in cybersecurity?",
+      "choices": [
+        "Limiting access speed for IPs showing suspicious behavior",
+        "Font size control",
+        "Theme speed regulation",
+        "VPN bandwidth limiting"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "suspicious_ip_throttling"
+      ]
+    },
+    {
+      "question": "Why is suspicious IP throttling important?",
+      "choices": [
+        "To mitigate potential attacks like credential stuffing",
+        "To manage font rendering",
+        "To optimize themes",
+        "To balance VPN loads"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "suspicious_ip_throttling"
+      ]
+    },
+    {
+      "question": "What type of attacks can IP throttling help prevent?",
+      "choices": [
+        "Brute force attacks",
+        "Font duplication",
+        "Theme hijacking",
+        "VPN overload"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "suspicious_ip_throttling"
+      ]
+    },
+    {
+      "question": "What is a fun but ineffective way to handle suspicious IPs?",
+      "choices": [
+        "Send them a friendly 'stop that' meme",
+        "Throttle request rates",
+        "Block them",
+        "Challenge with CAPTCHA"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "suspicious_ip_throttling"
+      ]
+    },
+    {
+      "question": "What metric is often used to identify suspicious IP behavior?",
+      "choices": [
+        "Number of failed login attempts",
+        "Font change frequency",
+        "Theme color edits",
+        "VPN connection counts"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "suspicious_ip_throttling"
+      ]
+    },
+    {
+      "question": "How does Okta implement suspicious IP protections?",
+      "choices": [
+        "Through risk engines that detect and throttle risky IPs",
+        "By blocking fonts",
+        "By restricting themes",
+        "By logging VPNs"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "suspicious_ip_throttling",
+        "Okta"
+      ]
+    },
+    {
+      "question": "What is rate limiting in cybersecurity?",
+      "choices": [
+        "Controlling the number of requests from an IP over time",
+        "Font caching",
+        "Theme sampling",
+        "VPN speed testing"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "suspicious_ip_throttling"
+      ]
+    },
+    {
+      "question": "What is IP reputation analysis?",
+      "choices": [
+        "Evaluating IPs based on historical behavior and threats",
+        "Checking font sources",
+        "Tracking theme versions",
+        "Mapping VPN usage"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "suspicious_ip_throttling"
+      ]
+    },
+    {
+      "question": "How can Auth0 assist with suspicious IP detection?",
+      "choices": [
+        "By flagging IPs with unusual login attempts",
+        "By updating fonts",
+        "By refreshing themes",
+        "By pinging VPN servers"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "suspicious_ip_throttling",
+        "Auth0"
+      ]
+    },
+    {
+      "question": "What is an IP whitelist?",
+      "choices": [
+        "A list of trusted IPs exempt from throttling",
+        "Preferred fonts",
+        "Saved themes",
+        "Trusted VPNs"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "suspicious_ip_throttling"
+      ]
+    },
+    {
+      "question": "What is a blacklist in IP throttling?",
+      "choices": [
+        "IPs permanently blocked due to malicious behavior",
+        "Blocked fonts",
+        "Hidden themes",
+        "Disabled VPNs"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "suspicious_ip_throttling"
+      ]
+    },
+    {
+      "question": "What does geo-IP data assist with in throttling?",
+      "choices": [
+        "Identifying IPs from high-risk regions",
+        "Font localization",
+        "Theme localization",
+        "VPN location tagging"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "suspicious_ip_throttling"
+      ]
+    },
+    {
+      "question": "What is dynamic throttling?",
+      "choices": [
+        "Adjusting throttling thresholds based on live behavior",
+        "Dynamic fonts",
+        "Adaptive themes",
+        "Elastic VPNs"
+      ],
+      "correct": 0,
+      "level": "hard",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "suspicious_ip_throttling"
+      ]
+    },
+    {
+      "question": "What is the purpose of audit logs in IP monitoring?",
+      "choices": [
+        "Track access patterns and throttling events",
+        "Font logs",
+        "Theme changes",
+        "VPN logs"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "suspicious_ip_throttling"
+      ]
+    },
+    {
+      "question": "What is credential stuffing?",
+      "choices": [
+        "Using leaked credentials on multiple sites",
+        "Stuffing fonts into themes",
+        "Layering themes",
+        "Packing VPN protocols"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "suspicious_ip_throttling"
+      ]
+    },
+    {
+      "question": "What tool can complement IP throttling for defense?",
+      "choices": [
+        "WAF (Web Application Firewall)",
+        "Font optimizer",
+        "Theme booster",
+        "VPN enhancer"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "suspicious_ip_throttling"
+      ]
+    },
+    {
+      "question": "What is a honeypot in IP monitoring?",
+      "choices": [
+        "A decoy system to attract and log malicious IPs",
+        "A sweet font",
+        "A decorative theme",
+        "A stealth VPN"
+      ],
+      "correct": 0,
+      "level": "hard",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "suspicious_ip_throttling"
+      ]
+    },
+    {
+      "question": "What is the best practice for IP throttling thresholds?",
+      "choices": [
+        "Set dynamic limits based on typical usage patterns",
+        "Standard font limits",
+        "Theme restrictions",
+        "Fixed VPN speeds"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "suspicious_ip_throttling"
+      ]
+    },
+    {
+      "question": "What is the ultimate goal of suspicious IP throttling?",
+      "choices": [
+        "Prevent automated abuse and reduce attack surface",
+        "Improve font rendering",
+        "Enhance themes",
+        "Speed up VPN"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "suspicious_ip_throttling"
+      ]
+    }
+  ]
+}

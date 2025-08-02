@@ -1,0 +1,326 @@
+{
+  "category": "clickjacking",
+  "questions": [
+    {
+      "question": "What is clickjacking?",
+      "choices": [
+        "Tricking users into clicking hidden elements",
+        "Speeding up webpage clicks",
+        "Changing button colors",
+        "Boosting website SEO"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "web security"
+      ]
+    },
+    {
+      "question": "What is a typical outcome of a clickjacking attack?",
+      "choices": [
+        "Unauthorized actions on behalf of a user",
+        "Faster page loads",
+        "Improved UI design",
+        "Better password security"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "web security"
+      ]
+    },
+    {
+      "question": "Which HTTP header helps prevent clickjacking?",
+      "choices": [
+        "X-Frame-Options",
+        "Content-Type",
+        "X-Powered-By",
+        "X-Click-Prevention"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "web security"
+      ]
+    },
+    {
+      "question": "What value can you set for X-Frame-Options to block framing entirely?",
+      "choices": [
+        "DENY",
+        "ALLOW-FROM",
+        "SAMEORIGIN",
+        "BLOCK-ALL"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "web security"
+      ]
+    },
+    {
+      "question": "Which other header besides X-Frame-Options can help mitigate clickjacking?",
+      "choices": [
+        "Content-Security-Policy frame-ancestors",
+        "X-Click-Handler",
+        "X-UI-Policy",
+        "X-Theme-Color"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "web security"
+      ]
+    },
+    {
+      "question": "What is a common method used in clickjacking attacks?",
+      "choices": [
+        "Invisible iframes",
+        "Multiple captchas",
+        "Browser extensions",
+        "LocalStorage manipulation"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "web security"
+      ]
+    },
+    {
+      "question": "Why is clickjacking dangerous?",
+      "choices": [
+        "Users can unknowingly perform actions like liking pages, changing settings",
+        "It speeds up page rendering",
+        "It enables MFA silently",
+        "It improves site animations"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "web security"
+      ]
+    },
+    {
+      "question": "How does SAMEORIGIN value in X-Frame-Options help?",
+      "choices": [
+        "Allows framing only from the same origin",
+        "Blocks all framing",
+        "Allows framing from any site",
+        "Encrypts data"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "web security"
+      ]
+    },
+    {
+      "question": "What is frame-ancestors in Content-Security-Policy?",
+      "choices": [
+        "Controls which domains can embed the page in a frame",
+        "Defines page color scheme",
+        "Specifies login timeouts",
+        "Monitors click rates"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "web security"
+      ]
+    },
+    {
+      "question": "What type of user action is exploited in clickjacking?",
+      "choices": [
+        "Clicks",
+        "Mouse hovers",
+        "Keyboard input",
+        "Voice commands"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "web security"
+      ]
+    },
+    {
+      "question": "What is a fun but ineffective way to prevent clickjacking?",
+      "choices": [
+        "Naming buttons 'Don\u2019t Click Me!'",
+        "Setting X-Frame-Options header",
+        "Implementing frame-ancestors policy",
+        "Using CSP"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "web security"
+      ]
+    },
+    {
+      "question": "Why is clickjacking relevant to identity providers like Okta or Auth0?",
+      "choices": [
+        "Could trick users into unwanted consent or settings changes",
+        "It makes logins faster",
+        "It disables MFA",
+        "It optimizes tokens"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "Okta",
+        "Auth0",
+        "cybersecurity"
+      ]
+    },
+    {
+      "question": "Which of these is NOT a defense against clickjacking?",
+      "choices": [
+        "X-Frame-Options",
+        "Content-Security-Policy",
+        "Captcha",
+        "Frame busting JavaScript"
+      ],
+      "correct": 2,
+      "level": "medium",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "web security"
+      ]
+    },
+    {
+      "question": "What does 'frame busting' refer to?",
+      "choices": [
+        "JavaScript that prevents embedding in iframes",
+        "Breaking login pages",
+        "Removing cookies",
+        "Encrypting HTML"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "web security"
+      ]
+    },
+    {
+      "question": "Which users are particularly at risk from clickjacking?",
+      "choices": [
+        "Admin users",
+        "Casual web surfers",
+        "Gamers",
+        "None"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "web security"
+      ]
+    },
+    {
+      "question": "How can developers visually mitigate clickjacking?",
+      "choices": [
+        "Ensure critical buttons aren't overlapped by frames",
+        "Color buttons red",
+        "Increase font sizes",
+        "Add spinning animations"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "web security"
+      ]
+    },
+    {
+      "question": "Which type of application is most vulnerable to clickjacking?",
+      "choices": [
+        "Web applications with sensitive actions",
+        "Offline desktop apps",
+        "CLI utilities",
+        "Mobile games"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "web security"
+      ]
+    },
+    {
+      "question": "How does CSP 'frame-ancestors' policy differ from X-Frame-Options?",
+      "choices": [
+        "More flexible and supports multiple origins",
+        "Less secure",
+        "Obsolete",
+        "Only used for cookies"
+      ],
+      "correct": 0,
+      "level": "hard",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "web security"
+      ]
+    },
+    {
+      "question": "What is the browser's role in preventing clickjacking?",
+      "choices": [
+        "Respecting security headers like X-Frame-Options",
+        "Coloring frames",
+        "Increasing window size",
+        "Changing themes"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "web security"
+      ]
+    },
+    {
+      "question": "What is a clickjacking variant called 'likejacking'?",
+      "choices": [
+        "Tricking users into liking a page via hidden frames",
+        "Speeding up likes",
+        "Encrypting likes",
+        "Removing ads"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "web security"
+      ]
+    }
+  ]
+}

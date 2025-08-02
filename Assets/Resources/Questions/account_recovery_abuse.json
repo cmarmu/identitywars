@@ -1,0 +1,329 @@
+{
+  "category": "account_recovery_abuse",
+  "questions": [
+    {
+      "question": "What is account recovery abuse?",
+      "choices": [
+        "Exploiting recovery processes to gain unauthorized account access",
+        "Speeding up password resets",
+        "Changing UI themes",
+        "Font optimizations"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "account_recovery_abuse"
+      ]
+    },
+    {
+      "question": "Which method is commonly exploited in account recovery abuse?",
+      "choices": [
+        "Password reset mechanisms",
+        "VPN upgrades",
+        "Font rendering",
+        "MFA theming"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "account_recovery_abuse"
+      ]
+    },
+    {
+      "question": "How can attackers abuse account recovery?",
+      "choices": [
+        "By answering weak security questions",
+        "Color coding buttons",
+        "Encrypting fonts",
+        "Enhancing WiFi"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "account_recovery_abuse"
+      ]
+    },
+    {
+      "question": "What is a strong defense against account recovery abuse?",
+      "choices": [
+        "Implementing secure MFA in recovery",
+        "Disabling themes",
+        "Boosting font size",
+        "Optimizing cookies"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "account_recovery_abuse",
+        "MFA"
+      ]
+    },
+    {
+      "question": "What is a fun but ineffective way to protect recovery processes?",
+      "choices": [
+        "Naming recovery questions 'Secret123'",
+        "Implementing MFA",
+        "Using secure links",
+        "Monitoring recovery requests"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "account_recovery_abuse"
+      ]
+    },
+    {
+      "question": "What can Okta or Auth0 do to reduce account recovery abuse?",
+      "choices": [
+        "Enforce secure recovery workflows",
+        "Enhance fonts",
+        "Enable dark mode",
+        "Increase token length"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "account_recovery_abuse",
+        "Okta",
+        "Auth0"
+      ]
+    },
+    {
+      "question": "Why are security questions weak for recovery?",
+      "choices": [
+        "Easily guessed or found on social media",
+        "They boost UI",
+        "They encrypt passwords",
+        "They speed up MFA"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "account_recovery_abuse"
+      ]
+    },
+    {
+      "question": "What is recovery code phishing?",
+      "choices": [
+        "Tricking users into sharing recovery codes",
+        "Speeding up network access",
+        "Encrypting fonts",
+        "Changing UI"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "account_recovery_abuse"
+      ]
+    },
+    {
+      "question": "What is a critical recovery process best practice?",
+      "choices": [
+        "Require re-verification via multiple channels",
+        "Enable font management",
+        "Boost VPN speed",
+        "Allow password reuse"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "account_recovery_abuse"
+      ]
+    },
+    {
+      "question": "What is account lockout policy's role in abuse prevention?",
+      "choices": [
+        "Limits repeated recovery attempts",
+        "Disables fonts",
+        "Encrypts cookies",
+        "Changes UI"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "account_recovery_abuse"
+      ]
+    },
+    {
+      "question": "What is session hijacking during recovery?",
+      "choices": [
+        "Taking over an active session during recovery",
+        "Encrypting passwords",
+        "Changing themes",
+        "Speeding up logins"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "account_recovery_abuse"
+      ]
+    },
+    {
+      "question": "What is an important user education point to prevent recovery abuse?",
+      "choices": [
+        "Don't share recovery codes or links",
+        "Change fonts often",
+        "Boost UI themes",
+        "Enable VPNs"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "account_recovery_abuse"
+      ]
+    },
+    {
+      "question": "What is a secure channel for account recovery?",
+      "choices": [
+        "Verified email or phone number",
+        "Social media DMs",
+        "Unverified apps",
+        "Public forums"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "account_recovery_abuse"
+      ]
+    },
+    {
+      "question": "What is a common phishing method related to recovery?",
+      "choices": [
+        "Sending fake recovery emails",
+        "Changing font styles",
+        "Enhancing VPN speed",
+        "Coloring UI"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "account_recovery_abuse"
+      ]
+    },
+    {
+      "question": "Why is device binding useful in recovery protection?",
+      "choices": [
+        "Ties recovery to trusted devices",
+        "Boosts font rendering",
+        "Enhances VPN",
+        "Adds dark mode"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "account_recovery_abuse"
+      ]
+    },
+    {
+      "question": "What is the role of anomaly detection in recovery abuse defense?",
+      "choices": [
+        "Identify suspicious recovery attempts",
+        "Boost UI speed",
+        "Encrypt fonts",
+        "Change passwords automatically"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "account_recovery_abuse"
+      ]
+    },
+    {
+      "question": "How does rate limiting help prevent abuse of recovery?",
+      "choices": [
+        "Prevents automated recovery abuse",
+        "Speeds up fonts",
+        "Optimizes UI",
+        "Encrypts cookies"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "account_recovery_abuse"
+      ]
+    },
+    {
+      "question": "What is a recovery code?",
+      "choices": [
+        "Backup code for regaining account access",
+        "Font size enhancer",
+        "Color theme code",
+        "VPN password"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "account_recovery_abuse"
+      ]
+    },
+    {
+      "question": "What does MFA provide in the recovery process?",
+      "choices": [
+        "An extra security layer",
+        "Font rendering",
+        "VPN optimization",
+        "Captcha skipping"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "account_recovery_abuse",
+        "MFA"
+      ]
+    },
+    {
+      "question": "What is a complete strategy to prevent account recovery abuse?",
+      "choices": [
+        "MFA, secure recovery channels, anomaly detection, user education",
+        "Change themes",
+        "Optimize fonts",
+        "Boost WiFi"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "account_recovery_abuse"
+      ]
+    }
+  ]
+}

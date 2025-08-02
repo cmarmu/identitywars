@@ -1,0 +1,314 @@
+{
+  "category": "device_fingerprinting",
+  "questions": [
+    {
+      "question": "What is device fingerprinting in cybersecurity?",
+      "choices": [
+        "A technique to identify devices based on unique attributes",
+        "A font styling method",
+        "A theme color filter",
+        "A VPN configuration"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "device_fingerprinting"
+      ]
+    },
+    {
+      "question": "What data is used in device fingerprinting?",
+      "choices": [
+        "Browser type, OS, screen resolution, plugins",
+        "Font name, size, weight",
+        "Theme palette",
+        "VPN IP address"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "device_fingerprinting"
+      ]
+    },
+    {
+      "question": "Why is device fingerprinting important for security?",
+      "choices": [
+        "It helps detect suspicious or unfamiliar devices",
+        "It enhances fonts",
+        "It customizes themes",
+        "It secures VPNs"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "device_fingerprinting"
+      ]
+    },
+    {
+      "question": "What is a fun but ineffective fingerprinting method?",
+      "choices": [
+        "Asking users to describe their device by emoji",
+        "Collecting device attributes",
+        "Analyzing browser data",
+        "Using advanced scripts"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "device_fingerprinting"
+      ]
+    },
+    {
+      "question": "How does Okta utilize device fingerprinting?",
+      "choices": [
+        "To enhance risk-based authentication",
+        "To adjust fonts",
+        "To style themes",
+        "To balance VPN"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "device_fingerprinting",
+        "Okta"
+      ]
+    },
+    {
+      "question": "How does Auth0 support device fingerprinting?",
+      "choices": [
+        "Via anomaly detection and login monitoring",
+        "Via font tracking",
+        "Via theme logs",
+        "Via VPN monitoring"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "device_fingerprinting",
+        "Auth0"
+      ]
+    },
+    {
+      "question": "What is the primary use of device fingerprinting in fraud prevention?",
+      "choices": [
+        "Detect repeat fraud attempts from the same device",
+        "Detect font reuse",
+        "Detect theme repeats",
+        "Detect VPN clones"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "device_fingerprinting"
+      ]
+    },
+    {
+      "question": "What role does device fingerprinting play in MFA?",
+      "choices": [
+        "It can trigger step-up authentication if an unknown device is detected",
+        "It selects fonts",
+        "It designs themes",
+        "It logs VPN attempts"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "device_fingerprinting",
+        "MFA"
+      ]
+    },
+    {
+      "question": "What is canvas fingerprinting?",
+      "choices": [
+        "Using HTML5 canvas rendering to create unique device IDs",
+        "Using font styles",
+        "Using theme designs",
+        "Using VPN routes"
+      ],
+      "correct": 0,
+      "level": "hard",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "device_fingerprinting"
+      ]
+    },
+    {
+      "question": "What is the privacy concern with device fingerprinting?",
+      "choices": [
+        "It can track users without their consent",
+        "Fonts may be exposed",
+        "Themes may leak",
+        "VPNs may slow down"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "device_fingerprinting",
+        "privacy"
+      ]
+    },
+    {
+      "question": "What is the entropy in device fingerprinting?",
+      "choices": [
+        "Measure of uniqueness among collected device attributes",
+        "Font variety",
+        "Theme depth",
+        "VPN randomness"
+      ],
+      "correct": 0,
+      "level": "hard",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "device_fingerprinting"
+      ]
+    },
+    {
+      "question": "What is the best practice when using device fingerprinting for security?",
+      "choices": [
+        "Combine it with behavioral analysis and user consent",
+        "Combine fonts",
+        "Combine themes",
+        "Combine VPNs"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "device_fingerprinting"
+      ]
+    },
+    {
+      "question": "What is user agent in fingerprinting?",
+      "choices": [
+        "Information about the browser and system environment",
+        "Font agent",
+        "Theme data",
+        "VPN agent"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "device_fingerprinting"
+      ]
+    },
+    {
+      "question": "What is persistent tracking in device fingerprinting?",
+      "choices": [
+        "Tracking a device across sessions without cookies",
+        "Font caching",
+        "Theme storage",
+        "VPN session persistence"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "device_fingerprinting"
+      ]
+    },
+    {
+      "question": "What is an effective countermeasure to device fingerprinting?",
+      "choices": [
+        "Using privacy-focused browsers or extensions",
+        "Changing fonts",
+        "Switching themes",
+        "Resetting VPN"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "device_fingerprinting",
+        "privacy"
+      ]
+    },
+    {
+      "question": "What is the goal of device fingerprinting in authentication?",
+      "choices": [
+        "To validate the trustworthiness of a device",
+        "To validate fonts",
+        "To verify themes",
+        "To test VPNs"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "device_fingerprinting"
+      ]
+    },
+    {
+      "question": "What is a device ID in fingerprinting?",
+      "choices": [
+        "A unique identifier generated from device properties",
+        "A font ID",
+        "A theme ID",
+        "A VPN ID"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "device_fingerprinting"
+      ]
+    },
+    {
+      "question": "What is the ultimate security benefit of device fingerprinting?",
+      "choices": [
+        "Prevent unauthorized access and reduce fraud",
+        "Improve font legibility",
+        "Enhance theme contrast",
+        "Boost VPN reliability"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "device_fingerprinting"
+      ]
+    },
+    {
+      "question": "What is JavaScript's role in fingerprinting?",
+      "choices": [
+        "Collecting browser and device details dynamically",
+        "Running fonts",
+        "Styling themes",
+        "Triggering VPN calls"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "device_fingerprinting"
+      ]
+    }
+  ]
+}

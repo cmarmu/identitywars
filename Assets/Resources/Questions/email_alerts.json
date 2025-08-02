@@ -1,0 +1,312 @@
+{
+  "category": "email_alerts",
+  "questions": [
+    {
+      "question": "What are email alerts in cybersecurity?",
+      "choices": [
+        "Notifications about security events sent to users",
+        "Font warnings",
+        "Theme updates",
+        "VPN messages"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "email_alerts"
+      ]
+    },
+    {
+      "question": "Why are email alerts essential for account protection?",
+      "choices": [
+        "They notify users about suspicious activities",
+        "They improve fonts",
+        "They redesign themes",
+        "They enhance VPNs"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "email_alerts"
+      ]
+    },
+    {
+      "question": "What triggers a security email alert?",
+      "choices": [
+        "New login from an unrecognized device",
+        "Font rendering error",
+        "Theme color mismatch",
+        "VPN timeout"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "email_alerts"
+      ]
+    },
+    {
+      "question": "What is a fun but ineffective email alert strategy?",
+      "choices": [
+        "Sending alerts in emoji-only format",
+        "Clear, actionable alerts",
+        "Phishing-resistant links",
+        "User verification links"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "email_alerts"
+      ]
+    },
+    {
+      "question": "What is phishing-aware email alert design?",
+      "choices": [
+        "Alerts that avoid clickable links, guiding users to log in directly",
+        "Fonts with embedded links",
+        "Theme-driven alerts",
+        "Encrypted WiFi warnings"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "email_alerts"
+      ]
+    },
+    {
+      "question": "How does Auth0 enhance email alerts?",
+      "choices": [
+        "By providing templates for security notifications like password changes",
+        "Font styling alerts",
+        "Theme version alerts",
+        "VPN connection alerts"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "email_alerts",
+        "Auth0"
+      ]
+    },
+    {
+      "question": "What should an email alert contain?",
+      "choices": [
+        "Event details, time, location, and next steps",
+        "Font settings",
+        "Theme options",
+        "VPN settings"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "email_alerts"
+      ]
+    },
+    {
+      "question": "What is a security risk if email alerts are ignored?",
+      "choices": [
+        "Account compromise may go unnoticed",
+        "Fonts won't load",
+        "Themes might reset",
+        "VPN slows down"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "email_alerts"
+      ]
+    },
+    {
+      "question": "What is the role of Okta in email alerting?",
+      "choices": [
+        "Alert users of suspicious authentications or changes",
+        "Update fonts",
+        "Switch themes",
+        "Boost VPN"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "email_alerts",
+        "Okta"
+      ]
+    },
+    {
+      "question": "How can users verify the legitimacy of an email alert?",
+      "choices": [
+        "By logging directly into the service instead of clicking links",
+        "By refreshing fonts",
+        "By changing themes",
+        "By rebooting WiFi"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "email_alerts"
+      ]
+    },
+    {
+      "question": "What email format enhances trustworthiness?",
+      "choices": [
+        "Plain text or secure HTML with minimal links",
+        "Font heavy emails",
+        "Theme previews",
+        "Animated GIFs"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "email_alerts"
+      ]
+    },
+    {
+      "question": "When should email alerts be sent?",
+      "choices": [
+        "Immediately after detecting unusual or sensitive activity",
+        "After font updates",
+        "After theme installations",
+        "Post VPN upgrade"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "email_alerts"
+      ]
+    },
+    {
+      "question": "What is a common subject line for security email alerts?",
+      "choices": [
+        "'New Login Detected'",
+        "'Font Change Noticed'",
+        "'Theme Switched!'",
+        "'VPN Refreshed'"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "email_alerts"
+      ]
+    },
+    {
+      "question": "What is a phishing red flag in fake security emails?",
+      "choices": [
+        "Urgent requests to click a link immediately",
+        "Soft font choices",
+        "Bright theme options",
+        "WiFi booster offers"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "email_alerts"
+      ]
+    },
+    {
+      "question": "What does SPF/DKIM/DMARC help ensure in email alerts?",
+      "choices": [
+        "That the email is genuinely from the claimed sender",
+        "Fonts are genuine",
+        "Themes are legit",
+        "VPNs are fast"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "email_alerts"
+      ]
+    },
+    {
+      "question": "What is user education's role in email alerts?",
+      "choices": [
+        "Teaching users to identify real versus fake alerts",
+        "Font matching lessons",
+        "Theme color theory",
+        "WiFi protocol classes"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "email_alerts",
+        "user_education"
+      ]
+    },
+    {
+      "question": "What is the risk of over-alerting users?",
+      "choices": [
+        "Alert fatigue causing users to ignore real threats",
+        "Font fatigue",
+        "Theme overload",
+        "VPN draining"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "email_alerts"
+      ]
+    },
+    {
+      "question": "What kind of attacks can email alerts help detect?",
+      "choices": [
+        "Account takeovers and credential theft",
+        "Font piracy",
+        "Theme hacks",
+        "VPN spoofing"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "email_alerts"
+      ]
+    },
+    {
+      "question": "What is the best practice for configuring email alerts?",
+      "choices": [
+        "Send clear, timely, actionable messages to verified users",
+        "Send font updates",
+        "Send theme reminders",
+        "Send VPN tips"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "email_alerts"
+      ]
+    }
+  ]
+}

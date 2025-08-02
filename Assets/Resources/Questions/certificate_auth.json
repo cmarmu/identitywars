@@ -1,0 +1,327 @@
+{
+  "category": "certificate_auth",
+  "questions": [
+    {
+      "question": "What is certificate-based authentication?",
+      "choices": [
+        "A method that uses digital certificates to verify identity",
+        "Font verification",
+        "Theme verification",
+        "VPN authentication"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "certificate_auth"
+      ]
+    },
+    {
+      "question": "What is a digital certificate?",
+      "choices": [
+        "An electronic document proving identity via a public key",
+        "A fancy font",
+        "A premium theme",
+        "A VPN passcode"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "certificate_auth"
+      ]
+    },
+    {
+      "question": "What is a Certificate Authority (CA)?",
+      "choices": [
+        "A trusted entity that issues digital certificates",
+        "A font regulator",
+        "A theme designer",
+        "A VPN provider"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "certificate_auth"
+      ]
+    },
+    {
+      "question": "What is the purpose of a private key in certificate authentication?",
+      "choices": [
+        "To securely prove ownership of the associated public certificate",
+        "To unlock fonts",
+        "To activate themes",
+        "To decrypt VPN"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "certificate_auth"
+      ]
+    },
+    {
+      "question": "What is a fun but ineffective certificate method?",
+      "choices": [
+        "Hand-drawn certificates on napkins",
+        "Digital certificates signed by CAs",
+        "Self-signed certificates",
+        "Hardware tokens"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "certificate_auth"
+      ]
+    },
+    {
+      "question": "What is TLS in relation to certificate auth?",
+      "choices": [
+        "A protocol that uses certificates to secure communications",
+        "A font tool",
+        "A theme protocol",
+        "A VPN technique"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "certificate_auth"
+      ]
+    },
+    {
+      "question": "What is mutual TLS (mTLS)?",
+      "choices": [
+        "Both client and server present certificates to authenticate each other",
+        "Mutual font matching",
+        "Theme sharing",
+        "VPN tunneling"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "certificate_auth"
+      ]
+    },
+    {
+      "question": "How does Okta support certificate authentication?",
+      "choices": [
+        "By enabling client certificates in authentication flows",
+        "By encrypting fonts",
+        "By verifying themes",
+        "By securing VPNs"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "certificate_auth",
+        "Okta"
+      ]
+    },
+    {
+      "question": "How does Auth0 support certificate security?",
+      "choices": [
+        "By supporting mTLS and SAML certificates",
+        "By signing fonts",
+        "By styling themes",
+        "By certifying VPNs"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "certificate_auth",
+        "Auth0"
+      ]
+    },
+    {
+      "question": "What is a CRL in certificate systems?",
+      "choices": [
+        "Certificate Revocation List",
+        "Font Rotation List",
+        "Theme Change Log",
+        "VPN Reset List"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "certificate_auth"
+      ]
+    },
+    {
+      "question": "What is the main benefit of certificate-based authentication?",
+      "choices": [
+        "Enhanced security over password-based methods",
+        "Better fonts",
+        "Prettier themes",
+        "Faster VPNs"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "certificate_auth"
+      ]
+    },
+    {
+      "question": "What is a PKI?",
+      "choices": [
+        "Public Key Infrastructure",
+        "Public Key Fonts",
+        "Premium Key Themes",
+        "Private Key VPN"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "certificate_auth"
+      ]
+    },
+    {
+      "question": "What is a self-signed certificate?",
+      "choices": [
+        "A certificate signed by its own private key",
+        "A font auto-signature",
+        "Theme validation",
+        "VPN tag"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "certificate_auth"
+      ]
+    },
+    {
+      "question": "What is a root certificate?",
+      "choices": [
+        "The top-most trusted certificate in a chain",
+        "The base font",
+        "The root theme",
+        "The initial VPN tunnel"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "certificate_auth"
+      ]
+    },
+    {
+      "question": "What is certificate pinning?",
+      "choices": [
+        "Hardcoding a certificate to prevent MITM attacks",
+        "Pinning fonts",
+        "Pinning themes",
+        "Pinning VPN servers"
+      ],
+      "correct": 0,
+      "level": "hard",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "certificate_auth"
+      ]
+    },
+    {
+      "question": "What is the function of the 'subject' field in a certificate?",
+      "choices": [
+        "Identifies the entity the certificate belongs to",
+        "Font subject",
+        "Theme label",
+        "VPN node"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "certificate_auth"
+      ]
+    },
+    {
+      "question": "What is an intermediate certificate?",
+      "choices": [
+        "A certificate issued by a CA that is not the root",
+        "Intermediate font",
+        "Theme transition",
+        "VPN relay"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "certificate_auth"
+      ]
+    },
+    {
+      "question": "What is an X.509 certificate?",
+      "choices": [
+        "A standard format for public key certificates",
+        "Font format",
+        "Theme protocol",
+        "VPN standard"
+      ],
+      "correct": 0,
+      "level": "hard",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "certificate_auth"
+      ]
+    },
+    {
+      "question": "What is the best practice for managing certificates?",
+      "choices": [
+        "Regular renewal, revocation checks, and secure storage",
+        "Regular font updates",
+        "Theme backups",
+        "VPN resets"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "certificate_auth"
+      ]
+    },
+    {
+      "question": "What is the 'validity period' of a certificate?",
+      "choices": [
+        "The time frame during which the certificate is valid",
+        "Font period",
+        "Theme lifespan",
+        "VPN uptime"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "certificate_auth"
+      ]
+    }
+  ]
+}

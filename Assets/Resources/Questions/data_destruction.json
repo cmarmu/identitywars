@@ -1,0 +1,167 @@
+{
+  "category": "data_destruction",
+  "questions": [
+    {
+      "question": "What is data destruction in cybersecurity?",
+      "choices": [
+        "The deliberate deletion or corruption of data by attackers",
+        "Font deletion",
+        "Theme reset",
+        "VPN disconnection"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "data_destruction"
+      ]
+    },
+    {
+      "question": "Which type of malware is often associated with data destruction?",
+      "choices": [
+        "Wiper malware",
+        "Font malware",
+        "Theme virus",
+        "Color scrambler"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "data_destruction"
+      ]
+    },
+    {
+      "question": "What was the purpose of the Shamoon malware?",
+      "choices": [
+        "Data wiping on infected systems",
+        "Font replacement",
+        "Theme corruption",
+        "VPN injection"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "data_destruction"
+      ]
+    },
+    {
+      "question": "What is a consequence of data destruction attacks?",
+      "choices": [
+        "Permanent loss of critical data",
+        "Font resizing",
+        "Theme desaturation",
+        "WiFi slowdown"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "data_destruction"
+      ]
+    },
+    {
+      "question": "What is a fun but ineffective way to prevent data destruction?",
+      "choices": [
+        "Naming files 'DoNotDelete'",
+        "Implementing backups and DR plans",
+        "Using anti-malware tools",
+        "Network segmentation"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "data_destruction"
+      ]
+    },
+    {
+      "question": "What is a DR plan?",
+      "choices": [
+        "Disaster Recovery plan",
+        "Design Rendering plan",
+        "Dynamic Reset plan",
+        "Download Restoration"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "data_destruction"
+      ]
+    },
+    {
+      "question": "How can Okta or Auth0 help prevent data destruction attacks?",
+      "choices": [
+        "By securing access to critical systems with MFA and anomaly detection",
+        "Font tracking",
+        "Theme locking",
+        "VPN monitoring"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "data_destruction",
+        "Okta",
+        "Auth0"
+      ]
+    },
+    {
+      "question": "What is network segmentation?",
+      "choices": [
+        "Dividing a network to limit access and reduce risk",
+        "Font segmentation",
+        "Theme slicing",
+        "Color division"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "data_destruction"
+      ]
+    },
+    {
+      "question": "What is a wiper malware's primary function?",
+      "choices": [
+        "Erase or corrupt data to render systems unusable",
+        "Resize fonts",
+        "Theme disruption",
+        "Color blurring"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "data_destruction"
+      ]
+    },
+    {
+      "question": "What is the best practice to prevent data destruction?",
+      "choices": [
+        "Regular backups, DR plans, access controls, anti-malware",
+        "Update fonts",
+        "Change themes",
+        "Enhance WiFi"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "data_destruction"
+      ]
+    }
+  ]
+}

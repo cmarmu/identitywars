@@ -1,0 +1,167 @@
+{
+  "category": "insider_threat",
+  "questions": [
+    {
+      "question": "What is an insider threat in cybersecurity?",
+      "choices": [
+        "A risk posed by someone within the organization",
+        "Font misconfiguration",
+        "Theme hacking",
+        "Color overflow"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "insider_threat"
+      ]
+    },
+    {
+      "question": "Who can be an insider threat?",
+      "choices": [
+        "Employees",
+        "Contractors",
+        "Business partners",
+        "All of the above"
+      ],
+      "correct": 3,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "insider_threat"
+      ]
+    },
+    {
+      "question": "What is a malicious insider?",
+      "choices": [
+        "Someone who intentionally harms the organization",
+        "Font beautifier",
+        "Theme designer",
+        "VPN optimizer"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "insider_threat"
+      ]
+    },
+    {
+      "question": "What is an unintentional insider threat?",
+      "choices": [
+        "Accidental exposure of data by insiders",
+        "Changing UI",
+        "Font errors",
+        "WiFi boosting"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "insider_threat"
+      ]
+    },
+    {
+      "question": "How can organizations reduce insider threats?",
+      "choices": [
+        "User education, access controls, monitoring",
+        "Font encryption",
+        "Theme regulation",
+        "VPN filters"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "insider_threat"
+      ]
+    },
+    {
+      "question": "What is a fun but ineffective way to prevent insider threats?",
+      "choices": [
+        "Naming employees 'TrustyMcTrustFace'",
+        "Implementing monitoring tools",
+        "Applying least privilege",
+        "Conducting security training"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "insider_threat"
+      ]
+    },
+    {
+      "question": "What does 'least privilege' mean?",
+      "choices": [
+        "Giving users only the access necessary for their job",
+        "Enhancing fonts",
+        "Optimizing themes",
+        "Boosting WiFi"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "insider_threat"
+      ]
+    },
+    {
+      "question": "How can Okta or Auth0 help mitigate insider threats?",
+      "choices": [
+        "Enforcing strict access controls and monitoring",
+        "Changing fonts",
+        "Color tuning",
+        "VPN scaling"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "insider_threat",
+        "Okta",
+        "Auth0"
+      ]
+    },
+    {
+      "question": "What is a behavioral anomaly that may indicate an insider threat?",
+      "choices": [
+        "Accessing sensitive data outside of work hours",
+        "Changing fonts frequently",
+        "UI tweaks",
+        "VPN throttling"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "insider_threat"
+      ]
+    },
+    {
+      "question": "What is the best practice for insider threat mitigation?",
+      "choices": [
+        "User training, monitoring, strict access control, incident response plans",
+        "Theme rotations",
+        "Font updates",
+        "WiFi patches"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "insider_threat"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,311 @@
+{
+  "category": "user_education",
+  "questions": [
+    {
+      "question": "What is user education in cybersecurity?",
+      "choices": [
+        "Training users to recognize and respond to security threats",
+        "Teaching fonts design",
+        "Theme installations",
+        "VPN configurations"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "user_education"
+      ]
+    },
+    {
+      "question": "Why is user education important?",
+      "choices": [
+        "To reduce human error in security incidents",
+        "To improve font consistency",
+        "To align themes",
+        "To optimize VPNs"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "user_education"
+      ]
+    },
+    {
+      "question": "What is a phishing simulation?",
+      "choices": [
+        "A test to teach users how to identify phishing emails",
+        "Font rendering test",
+        "Theme display test",
+        "VPN speed test"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "user_education"
+      ]
+    },
+    {
+      "question": "What is a fun but ineffective way to educate users on security?",
+      "choices": [
+        "Telling them to 'just be careful'",
+        "Simulated phishing attacks",
+        "Interactive training modules",
+        "Gamified learning"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "user_education"
+      ]
+    },
+    {
+      "question": "What is social engineering awareness training?",
+      "choices": [
+        "Educating users on manipulation tactics used by attackers",
+        "Font pairing training",
+        "Theme color matching",
+        "VPN bandwidth tips"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "user_education"
+      ]
+    },
+    {
+      "question": "How can Okta help support user education?",
+      "choices": [
+        "By enforcing security policies users are trained on",
+        "Font security",
+        "Theme alerts",
+        "VPN boosts"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "user_education",
+        "Okta"
+      ]
+    },
+    {
+      "question": "What role does Auth0 play in user education?",
+      "choices": [
+        "Provides secure authentication patterns users can follow",
+        "Font guides",
+        "Theme handbooks",
+        "VPN manuals"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "user_education",
+        "Auth0"
+      ]
+    },
+    {
+      "question": "What is security hygiene?",
+      "choices": [
+        "Practices like regular updates, strong passwords, and MFA",
+        "Font cleaning",
+        "Theme patching",
+        "VPN cleaning"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "user_education"
+      ]
+    },
+    {
+      "question": "What is one major goal of user education programs?",
+      "choices": [
+        "Minimizing the success of phishing and social engineering",
+        "Optimizing fonts",
+        "Redesigning themes",
+        "Speeding up VPNs"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "user_education"
+      ]
+    },
+    {
+      "question": "What should effective user education include?",
+      "choices": [
+        "Real-world examples and practice scenarios",
+        "Font demos",
+        "Theme demos",
+        "VPN demos"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "user_education"
+      ]
+    },
+    {
+      "question": "What is password hygiene?",
+      "choices": [
+        "Practicing strong, unique passwords with MFA",
+        "Font cleanliness",
+        "Theme upgrades",
+        "VPN credentials"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "user_education"
+      ]
+    },
+    {
+      "question": "What is a common barrier to effective user education?",
+      "choices": [
+        "Lack of engagement or relevance",
+        "Font complexity",
+        "Theme incompatibility",
+        "VPN instability"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "user_education"
+      ]
+    },
+    {
+      "question": "What is security awareness month?",
+      "choices": [
+        "A month dedicated to promoting cybersecurity practices",
+        "Font awareness month",
+        "Theme safety month",
+        "VPN optimization month"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "user_education"
+      ]
+    },
+    {
+      "question": "What is the benefit of gamified security training?",
+      "choices": [
+        "Increased user participation and retention",
+        "Fun with fonts",
+        "Theme competitions",
+        "VPN races"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "user_education"
+      ]
+    },
+    {
+      "question": "What is the 'think before you click' principle?",
+      "choices": [
+        "A reminder to scrutinize links and attachments",
+        "A font design rule",
+        "A theme selection process",
+        "A VPN protocol"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "user_education"
+      ]
+    },
+    {
+      "question": "Why should user education be ongoing?",
+      "choices": [
+        "Threats evolve and new risks emerge",
+        "Fonts change frequently",
+        "Themes evolve yearly",
+        "VPNs refresh often"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "user_education"
+      ]
+    },
+    {
+      "question": "What are spear phishing attacks?",
+      "choices": [
+        "Targeted phishing aimed at specific individuals",
+        "Fonts phishing",
+        "Theme phishing",
+        "VPN baiting"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "user_education"
+      ]
+    },
+    {
+      "question": "How can user education reduce security risks?",
+      "choices": [
+        "By making users the first line of defense",
+        "By improving fonts",
+        "By enhancing themes",
+        "By speeding up VPNs"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "user_education"
+      ]
+    },
+    {
+      "question": "What is the best practice for effective user education?",
+      "choices": [
+        "Interactive, ongoing, and role-specific training",
+        "Monthly font updates",
+        "Seasonal themes",
+        "Quarterly VPN patches"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "user_education"
+      ]
+    }
+  ]
+}

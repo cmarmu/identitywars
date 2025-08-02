@@ -1,0 +1,298 @@
+{
+  "category": "risk_engine",
+  "questions": [
+    {
+      "question": "What is a risk engine in cybersecurity?",
+      "choices": [
+        "A system that evaluates the risk level of access attempts in real-time",
+        "A font rendering tool",
+        "A theme generator",
+        "A VPN accelerator"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "risk_engine"
+      ]
+    },
+    {
+      "question": "What data does a risk engine analyze?",
+      "choices": [
+        "User behavior, IP address, geolocation, device fingerprint",
+        "Font metrics",
+        "Theme styles",
+        "VPN usage patterns"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "risk_engine"
+      ]
+    },
+    {
+      "question": "Why is a risk engine important in authentication?",
+      "choices": [
+        "To dynamically assess and respond to suspicious activity",
+        "To enhance fonts",
+        "To update themes",
+        "To encrypt VPN"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "risk_engine"
+      ]
+    },
+    {
+      "question": "What is a fun but ineffective risk assessment method?",
+      "choices": [
+        "Consulting a magic 8-ball",
+        "Using machine learning algorithms",
+        "Implementing heuristic analysis",
+        "Using policy-based checks"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "risk_engine"
+      ]
+    },
+    {
+      "question": "How does Okta utilize a risk engine?",
+      "choices": [
+        "To evaluate login attempts and enforce adaptive MFA",
+        "To track font usage",
+        "To monitor themes",
+        "To log VPN sessions"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "risk_engine",
+        "Okta",
+        "MFA"
+      ]
+    },
+    {
+      "question": "How does Auth0 support risk-based authentication?",
+      "choices": [
+        "By detecting anomalies during login attempts",
+        "By scanning fonts",
+        "By styling themes",
+        "By configuring VPN settings"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "risk_engine",
+        "Auth0"
+      ]
+    },
+    {
+      "question": "What is adaptive MFA?",
+      "choices": [
+        "MFA that adjusts based on assessed risk",
+        "Fonts that adapt to themes",
+        "Themes that adjust brightness",
+        "VPNs that scale with usage"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "risk_engine",
+        "MFA"
+      ]
+    },
+    {
+      "question": "What is a risk score?",
+      "choices": [
+        "A numeric or categorical evaluation of potential risk",
+        "Font scoring",
+        "Theme ranking",
+        "VPN quality index"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "risk_engine"
+      ]
+    },
+    {
+      "question": "What can trigger a high-risk score in a risk engine?",
+      "choices": [
+        "Unusual login location or unknown device",
+        "Font mismatch",
+        "Theme inconsistency",
+        "VPN latency"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "risk_engine"
+      ]
+    },
+    {
+      "question": "What is real-time analysis in risk engines?",
+      "choices": [
+        "Assessing risk as the event happens",
+        "Rendering fonts live",
+        "Live theme switching",
+        "On-the-fly VPN changes"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "risk_engine"
+      ]
+    },
+    {
+      "question": "What is a contextual signal in risk engines?",
+      "choices": [
+        "Information such as device, location, and behavior used for risk evaluation",
+        "Font context",
+        "Theme palette",
+        "VPN node info"
+      ],
+      "correct": 0,
+      "level": "hard",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "risk_engine"
+      ]
+    },
+    {
+      "question": "What is the role of machine learning in risk engines?",
+      "choices": [
+        "To detect patterns and adapt to emerging threats",
+        "To design fonts",
+        "To animate themes",
+        "To automate VPN routing"
+      ],
+      "correct": 0,
+      "level": "hard",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "risk_engine"
+      ]
+    },
+    {
+      "question": "What is behavioral biometrics in risk engines?",
+      "choices": [
+        "Analyzing user behavior like typing patterns for risk assessment",
+        "Font aesthetics",
+        "Theme navigation",
+        "VPN behavior tracking"
+      ],
+      "correct": 0,
+      "level": "hard",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "risk_engine",
+        "biometrics"
+      ]
+    },
+    {
+      "question": "What is the output of a risk engine?",
+      "choices": [
+        "A decision to allow, challenge, or block access",
+        "Font output",
+        "Theme suggestion",
+        "VPN optimization"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "risk_engine"
+      ]
+    },
+    {
+      "question": "What is the goal of integrating a risk engine in authentication flows?",
+      "choices": [
+        "To enhance security without overly burdening users",
+        "To improve font styles",
+        "To beautify themes",
+        "To simplify VPNs"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "risk_engine"
+      ]
+    },
+    {
+      "question": "What is anomaly detection in risk engines?",
+      "choices": [
+        "Spotting deviations from typical behavior",
+        "Font detection",
+        "Theme recognition",
+        "VPN packet analysis"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "risk_engine"
+      ]
+    },
+    {
+      "question": "What is a risk policy?",
+      "choices": [
+        "Predefined rules that dictate responses to certain risk scores",
+        "Font policies",
+        "Theme guidelines",
+        "VPN protocols"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "risk_engine"
+      ]
+    },
+    {
+      "question": "What is the ultimate benefit of a risk engine?",
+      "choices": [
+        "Prevent fraud and unauthorized access dynamically",
+        "Enhance fonts",
+        "Upgrade themes",
+        "Boost VPN speed"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "risk_engine"
+      ]
+    }
+  ]
+}

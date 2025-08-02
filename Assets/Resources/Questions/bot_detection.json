@@ -1,0 +1,314 @@
+{
+  "category": "bot_detection",
+  "questions": [
+    {
+      "question": "What is bot detection in cybersecurity?",
+      "choices": [
+        "Identifying and blocking automated malicious traffic",
+        "Font rendering detection",
+        "Theme color detection",
+        "VPN routing detection"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "bot_detection"
+      ]
+    },
+    {
+      "question": "What type of attacks are bots commonly used for?",
+      "choices": [
+        "Credential stuffing and DDoS attacks",
+        "Font hacks",
+        "Theme glitches",
+        "VPN breaches"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "bot_detection"
+      ]
+    },
+    {
+      "question": "What is a CAPTCHA in bot detection?",
+      "choices": [
+        "A challenge to differentiate humans from bots",
+        "A font check",
+        "A theme preview",
+        "A VPN test"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "bot_detection",
+        "captcha"
+      ]
+    },
+    {
+      "question": "What is a fun but ineffective way to detect bots?",
+      "choices": [
+        "Asking 'Are you a bot?'",
+        "Behavioral analysis",
+        "CAPTCHA",
+        "IP reputation scoring"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "bot_detection"
+      ]
+    },
+    {
+      "question": "What role does IP reputation play in bot detection?",
+      "choices": [
+        "Identifies IPs known for malicious activity",
+        "Fonts origin trace",
+        "Theme source detection",
+        "VPN IP logging"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "bot_detection"
+      ]
+    },
+    {
+      "question": "What is behavioral analysis in bot detection?",
+      "choices": [
+        "Monitoring interaction patterns to detect bots",
+        "Font weight analysis",
+        "Theme transition monitoring",
+        "VPN session review"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "bot_detection"
+      ]
+    },
+    {
+      "question": "How does Okta contribute to bot detection?",
+      "choices": [
+        "By detecting anomalous login behaviors",
+        "Font monitoring",
+        "Theme auditing",
+        "VPN logging"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "bot_detection",
+        "Okta"
+      ]
+    },
+    {
+      "question": "How can Auth0 help detect bots?",
+      "choices": [
+        "With anomaly detection in login flows",
+        "Font checking",
+        "Theme styling",
+        "VPN tracking"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "bot_detection",
+        "Auth0"
+      ]
+    },
+    {
+      "question": "What is device fingerprinting in bot detection?",
+      "choices": [
+        "Identifying unique device characteristics to spot bots",
+        "Font profiling",
+        "Theme recognition",
+        "VPN device tracking"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "bot_detection",
+        "device_fingerprinting"
+      ]
+    },
+    {
+      "question": "What is a botnet?",
+      "choices": [
+        "A network of infected devices controlled by attackers",
+        "Font network",
+        "Theme collective",
+        "VPN cluster"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "bot_detection"
+      ]
+    },
+    {
+      "question": "What is rate limiting's role in bot detection?",
+      "choices": [
+        "Slowing down requests to prevent bot abuse",
+        "Font pacing",
+        "Theme loading",
+        "VPN throttling"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "bot_detection"
+      ]
+    },
+    {
+      "question": "What is a honeypot in the context of bot detection?",
+      "choices": [
+        "A trap system to catch and analyze bots",
+        "A font showcase",
+        "A theme sample",
+        "A VPN decoy"
+      ],
+      "correct": 0,
+      "level": "hard",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "bot_detection"
+      ]
+    },
+    {
+      "question": "What is reCAPTCHA v3?",
+      "choices": [
+        "A CAPTCHA that scores traffic for bot probability",
+        "Font validation tool",
+        "Theme meter",
+        "VPN checker"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "bot_detection",
+        "captcha"
+      ]
+    },
+    {
+      "question": "What is traffic analysis in bot detection?",
+      "choices": [
+        "Examining patterns in web traffic to identify bots",
+        "Font traffic review",
+        "Theme pathways",
+        "VPN flows"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "bot_detection"
+      ]
+    },
+    {
+      "question": "What is an automated script attack?",
+      "choices": [
+        "A program designed to simulate user actions for malicious purposes",
+        "Font scripting",
+        "Theme automation",
+        "VPN scripting"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "bot_detection"
+      ]
+    },
+    {
+      "question": "What is the goal of bot detection systems?",
+      "choices": [
+        "To protect applications from automated abuse",
+        "To safeguard fonts",
+        "To backup themes",
+        "To secure VPNs"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "bot_detection"
+      ]
+    },
+    {
+      "question": "What is a Web Application Firewall (WAF)?",
+      "choices": [
+        "A security system that can block bot traffic",
+        "Font firewall",
+        "Theme guard",
+        "VPN firewall"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "bot_detection"
+      ]
+    },
+    {
+      "question": "What is the role of machine learning in bot detection?",
+      "choices": [
+        "To detect evolving bot behaviors via pattern recognition",
+        "To design fonts",
+        "To theme styles",
+        "To VPN routing"
+      ],
+      "correct": 0,
+      "level": "hard",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "bot_detection"
+      ]
+    },
+    {
+      "question": "What is a best practice in bot detection deployment?",
+      "choices": [
+        "Combining CAPTCHA, WAF, and behavioral analytics",
+        "Combining fonts",
+        "Combining themes",
+        "Combining VPNs"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "bot_detection"
+      ]
+    }
+  ]
+}

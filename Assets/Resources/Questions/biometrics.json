@@ -1,0 +1,327 @@
+{
+  "category": "biometrics",
+  "questions": [
+    {
+      "question": "What are biometrics in cybersecurity?",
+      "choices": [
+        "Physical or behavioral characteristics used for identification",
+        "Font styles",
+        "Theme preferences",
+        "VPN configurations"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "biometrics"
+      ]
+    },
+    {
+      "question": "Which of the following is an example of biometric authentication?",
+      "choices": [
+        "Fingerprint scanning",
+        "Password entry",
+        "Font selection",
+        "VPN login"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "biometrics"
+      ]
+    },
+    {
+      "question": "What is facial recognition?",
+      "choices": [
+        "A biometric method that identifies users based on facial features",
+        "Font rendering",
+        "Theme analysis",
+        "VPN scanning"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "biometrics"
+      ]
+    },
+    {
+      "question": "What is a fun but insecure biometric method?",
+      "choices": [
+        "Guessing someone's facial expression",
+        "Fingerprint scan",
+        "Iris scan",
+        "Voice authentication"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "biometrics"
+      ]
+    },
+    {
+      "question": "What is the primary risk of biometric data being compromised?",
+      "choices": [
+        "It cannot be changed like passwords",
+        "Fonts are reset",
+        "Themes crash",
+        "VPNs disconnect"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "biometrics"
+      ]
+    },
+    {
+      "question": "How does Okta integrate biometrics?",
+      "choices": [
+        "Through adaptive MFA and biometric login support",
+        "Font formatting",
+        "Theme settings",
+        "VPN tunneling"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "biometrics",
+        "Okta"
+      ]
+    },
+    {
+      "question": "What is liveness detection in biometrics?",
+      "choices": [
+        "Techniques to ensure the biometric input is from a live person",
+        "Font detection",
+        "Theme refreshing",
+        "VPN monitoring"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "biometrics"
+      ]
+    },
+    {
+      "question": "What is behavioral biometrics?",
+      "choices": [
+        "Identifying users based on behavior like typing patterns",
+        "Font reading speed",
+        "Theme navigation",
+        "VPN behavior tracking"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "biometrics"
+      ]
+    },
+    {
+      "question": "What is the False Acceptance Rate (FAR)?",
+      "choices": [
+        "Rate at which a biometric system incorrectly accepts unauthorized users",
+        "Font error rate",
+        "Theme mismatch rate",
+        "VPN connection fail rate"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "biometrics"
+      ]
+    },
+    {
+      "question": "What is the False Rejection Rate (FRR)?",
+      "choices": [
+        "Rate at which authorized users are incorrectly denied access",
+        "Font rejection",
+        "Theme failure",
+        "VPN block"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "biometrics"
+      ]
+    },
+    {
+      "question": "What is multimodal biometrics?",
+      "choices": [
+        "Combining multiple biometric methods for stronger security",
+        "Multiple fonts",
+        "Theme stacking",
+        "VPN layers"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "biometrics"
+      ]
+    },
+    {
+      "question": "How does Auth0 support biometric security?",
+      "choices": [
+        "Via WebAuthn and passwordless authentication",
+        "Font security",
+        "Theme encryption",
+        "VPN controls"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "biometrics",
+        "Auth0"
+      ]
+    },
+    {
+      "question": "What is voice recognition in biometrics?",
+      "choices": [
+        "Identifying users based on their voice patterns",
+        "Font reading voice",
+        "Theme sounds",
+        "VPN signals"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "biometrics"
+      ]
+    },
+    {
+      "question": "Why is biometric data protection critical?",
+      "choices": [
+        "Because it is permanent and sensitive",
+        "Because fonts matter",
+        "Because themes evolve",
+        "Because VPNs are fragile"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "biometrics"
+      ]
+    },
+    {
+      "question": "What is a biometric spoofing attack?",
+      "choices": [
+        "Faking biometric traits to gain unauthorized access",
+        "Faking fonts",
+        "Faking themes",
+        "Faking VPN logs"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "biometrics"
+      ]
+    },
+    {
+      "question": "What is the best practice for securing biometric data?",
+      "choices": [
+        "Encrypt and store securely with minimal exposure",
+        "Cache fonts",
+        "Minify themes",
+        "Compress VPNs"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "biometrics"
+      ]
+    },
+    {
+      "question": "What is template protection in biometrics?",
+      "choices": [
+        "Securing stored biometric data templates",
+        "Font templates",
+        "Theme templates",
+        "VPN templates"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "biometrics"
+      ]
+    },
+    {
+      "question": "What is iris scanning?",
+      "choices": [
+        "Using the unique patterns of a person's iris for authentication",
+        "Scanning fonts",
+        "Scanning themes",
+        "Scanning VPNs"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "biometrics"
+      ]
+    },
+    {
+      "question": "What is the Equal Error Rate (EER) in biometrics?",
+      "choices": [
+        "Point where false acceptance and false rejection rates are equal",
+        "Font rendering rate",
+        "Theme balance",
+        "VPN parity"
+      ],
+      "correct": 0,
+      "level": "hard",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "biometrics"
+      ]
+    },
+    {
+      "question": "What is the best practice for implementing biometrics?",
+      "choices": [
+        "Use multimodal systems, ensure encryption, and privacy compliance",
+        "Install fonts",
+        "Apply themes",
+        "Update VPN"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "biometrics"
+      ]
+    }
+  ]
+}

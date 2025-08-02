@@ -1,0 +1,326 @@
+{
+  "category": "zero_day",
+  "questions": [
+    {
+      "question": "What is a zero-day vulnerability?",
+      "choices": [
+        "A software flaw unknown to the vendor",
+        "A holiday for developers",
+        "An expired certificate",
+        "A UI enhancement"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "zero_day"
+      ]
+    },
+    {
+      "question": "Why are zero-day vulnerabilities dangerous?",
+      "choices": [
+        "They can be exploited before a patch is available",
+        "They slow down devices",
+        "They improve password security",
+        "They encrypt emails"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "zero_day"
+      ]
+    },
+    {
+      "question": "What is a zero-day exploit?",
+      "choices": [
+        "An attack using a zero-day vulnerability",
+        "Software update",
+        "A password policy",
+        "A VPN protocol"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "zero_day"
+      ]
+    },
+    {
+      "question": "How can organizations protect against zero-day attacks?",
+      "choices": [
+        "Patch management",
+        "Endpoint protection",
+        "Network monitoring",
+        "All of the above"
+      ],
+      "correct": 3,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "zero_day"
+      ]
+    },
+    {
+      "question": "What is the role of threat intelligence in zero-day defense?",
+      "choices": [
+        "Identifying emerging threats early",
+        "Improving WiFi",
+        "Changing desktop themes",
+        "Boosting typing speed"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "zero_day"
+      ]
+    },
+    {
+      "question": "Which security practice helps limit zero-day impact?",
+      "choices": [
+        "Least privilege access",
+        "Allowing admin rights to all",
+        "Disabling MFA",
+        "Using weak passwords"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "zero_day"
+      ]
+    },
+    {
+      "question": "What is a software patch?",
+      "choices": [
+        "A fix for vulnerabilities",
+        "A font upgrade",
+        "A browser theme",
+        "An internet booster"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "zero_day"
+      ]
+    },
+    {
+      "question": "Which term describes the time between discovery of a zero-day and patch release?",
+      "choices": [
+        "Window of exposure",
+        "UI window",
+        "Authentication gap",
+        "Session timeout"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "zero_day"
+      ]
+    },
+    {
+      "question": "Why is it called 'zero-day'?",
+      "choices": [
+        "Because the vendor has zero days to patch it",
+        "Because it lasts zero seconds",
+        "Because it's zero risk",
+        "Because it disables clocks"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "zero_day"
+      ]
+    },
+    {
+      "question": "Which tool helps detect zero-day exploits?",
+      "choices": [
+        "Intrusion Detection Systems",
+        "Password manager",
+        "Captcha",
+        "WiFi booster"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "zero_day"
+      ]
+    },
+    {
+      "question": "What is a fun but ineffective way to prevent zero-day attacks?",
+      "choices": [
+        "Naming servers 'Unhackable'",
+        "Patch management",
+        "Threat intelligence",
+        "EDR solutions"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "zero_day"
+      ]
+    },
+    {
+      "question": "How does MFA help against zero-day exploitation?",
+      "choices": [
+        "Adds another barrier even if an exploit succeeds",
+        "Speeds up login",
+        "Encrypts cookies",
+        "Blocks WiFi"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "zero_day",
+        "MFA"
+      ]
+    },
+    {
+      "question": "Which type of hacker is likely to exploit zero-days first?",
+      "choices": [
+        "Black hat hackers",
+        "White hat hackers",
+        "UI designers",
+        "Gamers"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "zero_day"
+      ]
+    },
+    {
+      "question": "What is responsible disclosure?",
+      "choices": [
+        "Reporting vulnerabilities to vendors privately",
+        "Posting bugs on social media",
+        "Encrypting patches",
+        "Changing wallpapers"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "zero_day"
+      ]
+    },
+    {
+      "question": "What role does EDR (Endpoint Detection & Response) play in zero-day defense?",
+      "choices": [
+        "Detects suspicious behavior even without known signatures",
+        "Speeds up typing",
+        "Encrypts passwords",
+        "Blocks dark mode"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "zero_day"
+      ]
+    },
+    {
+      "question": "What is a zero-day broker?",
+      "choices": [
+        "A person selling undisclosed vulnerabilities",
+        "A password manager",
+        "A VPN provider",
+        "A software patcher"
+      ],
+      "correct": 0,
+      "level": "hard",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "zero_day"
+      ]
+    },
+    {
+      "question": "What is a practical user behavior to reduce zero-day risks?",
+      "choices": [
+        "Apply updates promptly",
+        "Ignore updates",
+        "Use weak passwords",
+        "Avoid MFA"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "zero_day"
+      ]
+    },
+    {
+      "question": "How can network segmentation help against zero-day exploits?",
+      "choices": [
+        "Limits lateral movement of attackers",
+        "Improves WiFi speed",
+        "Changes UI",
+        "Disables VPN"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "zero_day"
+      ]
+    },
+    {
+      "question": "What is a zero-day in the context of malware?",
+      "choices": [
+        "Malware exploiting an unpatched vulnerability",
+        "A new browser theme",
+        "A password policy",
+        "A CSS bug"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "zero_day"
+      ]
+    },
+    {
+      "question": "What is the best defense against zero-day exploits?",
+      "choices": [
+        "Layered security approach",
+        "Changing fonts",
+        "Using old software",
+        "Disabling antivirus"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "zero_day"
+      ]
+    }
+  ]
+}

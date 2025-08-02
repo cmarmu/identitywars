@@ -1,0 +1,332 @@
+{
+  "category": "unusual_ip",
+  "questions": [
+    {
+      "question": "What does 'unusual IP' activity typically indicate?",
+      "choices": [
+        "User is traveling for vacation",
+        "Potential unauthorized access attempt",
+        "User changed their browser theme",
+        "WiFi is faster today"
+      ],
+      "correct": 1,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "identity",
+        "cybersecurity"
+      ]
+    },
+    {
+      "question": "Which security feature detects logins from unusual IP addresses?",
+      "choices": [
+        "ThreatInsight (Okta)",
+        "MFA",
+        "Firewall",
+        "Ad blockers"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "Okta",
+        "cybersecurity",
+        "identity"
+      ]
+    },
+    {
+      "question": "Why is detecting unusual IP addresses important?",
+      "choices": [
+        "It helps block suspicious logins",
+        "It increases page load speed",
+        "It enhances UI colors",
+        "It reduces cookie usage"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "identity",
+        "cybersecurity"
+      ]
+    },
+    {
+      "question": "Which of these could trigger an 'unusual IP' alert?",
+      "choices": [
+        "Login from a new country",
+        "Login from a known device",
+        "Login during office hours",
+        "Using dark mode"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "identity",
+        "cybersecurity"
+      ]
+    },
+    {
+      "question": "What is a best practice when an unusual IP is detected?",
+      "choices": [
+        "Send alert to the user",
+        "Force MFA re-authentication",
+        "Block the IP if confirmed malicious",
+        "All of the above"
+      ],
+      "correct": 3,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "MFA",
+        "identity"
+      ]
+    },
+    {
+      "question": "What tool can help organizations monitor unusual IPs in real time?",
+      "choices": [
+        "SIEM systems",
+        "Video game leaderboards",
+        "CDN services",
+        "Music streaming apps"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "SIEM",
+        "identity"
+      ]
+    },
+    {
+      "question": "Which service helps detect anomalous login patterns in Auth0?",
+      "choices": [
+        "Anomaly Detection API",
+        "Login Coloring Scheme",
+        "UI Enhancer",
+        "Token Beautifier"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "Auth0",
+        "cybersecurity",
+        "identity"
+      ]
+    },
+    {
+      "question": "Why is IP reputation useful in cybersecurity?",
+      "choices": [
+        "To determine if an IP is associated with previous attacks",
+        "To know if IPs like cats",
+        "To rank IPs by friendliness",
+        "To decorate IP dashboards"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "identity"
+      ]
+    },
+    {
+      "question": "What is a downside of blocking all unfamiliar IPs?",
+      "choices": [
+        "Can block legitimate users traveling",
+        "Makes login more secure",
+        "Reduces password strength",
+        "Speeds up authentication"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "identity"
+      ]
+    },
+    {
+      "question": "What helps prevent false positives in unusual IP detection?",
+      "choices": [
+        "IP whitelisting",
+        "Behavioral analysis",
+        "Geo-velocity tracking",
+        "All of the above"
+      ],
+      "correct": 3,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "identity"
+      ]
+    },
+    {
+      "question": "What is geo-velocity tracking?",
+      "choices": [
+        "Tracking how fast a user changes location",
+        "Tracking car speed via IP",
+        "Monitoring VPN speeds",
+        "Calculating packet round-trips"
+      ],
+      "correct": 0,
+      "level": "hard",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "identity"
+      ]
+    },
+    {
+      "question": "Which IP-related anomaly is a red flag?",
+      "choices": [
+        "Login from multiple countries within minutes",
+        "Login from known corporate VPN",
+        "Login during lunch break",
+        "Login using a dark theme"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "identity"
+      ]
+    },
+    {
+      "question": "How does MFA help with unusual IP login attempts?",
+      "choices": [
+        "It adds a verification step even if credentials are compromised",
+        "It speeds up login",
+        "It logs IPs directly",
+        "It disables alerts"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "MFA",
+        "cybersecurity",
+        "identity"
+      ]
+    },
+    {
+      "question": "What is the role of ThreatInsight in Okta?",
+      "choices": [
+        "Detect and block known malicious IPs",
+        "Improve UI design",
+        "Manage cookies",
+        "Enhance dark mode"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "Okta",
+        "cybersecurity",
+        "identity"
+      ]
+    },
+    {
+      "question": "What is an IP reputation service?",
+      "choices": [
+        "Service that rates IP addresses based on past behavior",
+        "Service that stores IP wallpapers",
+        "Service that tracks IP birthdays",
+        "None of the above"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "identity"
+      ]
+    },
+    {
+      "question": "Which is a fun but ineffective way to handle unusual IPs?",
+      "choices": [
+        "Force MFA",
+        "Name the IP 'FriendlyVisitor'",
+        "Use IP whitelisting",
+        "Enable ThreatInsight"
+      ],
+      "correct": 1,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "identity"
+      ]
+    },
+    {
+      "question": "Which log data helps in tracking unusual IPs?",
+      "choices": [
+        "IP addresses",
+        "Login timestamps",
+        "Geo-location",
+        "All of the above"
+      ],
+      "correct": 3,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "identity"
+      ]
+    },
+    {
+      "question": "How can Auth0 improve detection of suspicious IP activity?",
+      "choices": [
+        "Anomaly Detection API",
+        "MFA enforcement",
+        "Login alerts",
+        "All of the above"
+      ],
+      "correct": 3,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "Auth0",
+        "cybersecurity",
+        "identity"
+      ]
+    },
+    {
+      "question": "What is a potential cause of an unusual IP login alert besides hacking?",
+      "choices": [
+        "User using a VPN",
+        "User on vacation",
+        "Corporate network change",
+        "All of the above"
+      ],
+      "correct": 3,
+      "level": "medium",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "identity"
+      ]
+    },
+    {
+      "question": "Why combine IP monitoring with behavioral analysis?",
+      "choices": [
+        "To reduce false positives",
+        "To confuse hackers",
+        "To speed up logins",
+        "To avoid password resets"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "identity"
+      ]
+    }
+  ]
+}

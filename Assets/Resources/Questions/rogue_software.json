@@ -1,0 +1,167 @@
+{
+  "category": "rogue_software",
+  "questions": [
+    {
+      "question": "What is rogue software in cybersecurity?",
+      "choices": [
+        "Malicious software posing as legitimate applications",
+        "UI enhancement tool",
+        "Font generator",
+        "VPN accelerator"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "rogue_software"
+      ]
+    },
+    {
+      "question": "What is a common example of rogue software?",
+      "choices": [
+        "Fake antivirus programs",
+        "Font upgraders",
+        "Theme installers",
+        "VPN boosters"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "rogue_software"
+      ]
+    },
+    {
+      "question": "What is a typical goal of rogue software?",
+      "choices": [
+        "Stealing data or extorting money",
+        "Fixing fonts",
+        "Color balancing",
+        "Speeding up WiFi"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "rogue_software"
+      ]
+    },
+    {
+      "question": "How is rogue software commonly distributed?",
+      "choices": [
+        "Phishing emails, fake ads, malicious websites",
+        "Font marketplaces",
+        "Theme stores",
+        "VPN portals"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "rogue_software"
+      ]
+    },
+    {
+      "question": "What is a fun but ineffective way to prevent rogue software?",
+      "choices": [
+        "Naming your PC 'NoMalwareHere'",
+        "Using trusted software sources",
+        "Enabling antivirus",
+        "Applying patches"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "rogue_software"
+      ]
+    },
+    {
+      "question": "What is scareware?",
+      "choices": [
+        "Rogue software that scares users into buying fake solutions",
+        "Font scaring tool",
+        "Color enhancer",
+        "Theme fixer"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "rogue_software"
+      ]
+    },
+    {
+      "question": "How can Okta or Auth0 help in rogue software incidents?",
+      "choices": [
+        "Monitoring for suspicious login behaviors from infected devices",
+        "Font tracking",
+        "Theme analysis",
+        "VPN scaling"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "rogue_software",
+        "Okta",
+        "Auth0"
+      ]
+    },
+    {
+      "question": "What is an effective prevention measure against rogue software?",
+      "choices": [
+        "Regular updates and anti-malware solutions",
+        "Font packs",
+        "Theme packs",
+        "VPN plugins"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "rogue_software"
+      ]
+    },
+    {
+      "question": "What is a common sign of rogue software infection?",
+      "choices": [
+        "Frequent fake security alerts",
+        "Font distortions",
+        "Color shifts",
+        "Slow WiFi"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "rogue_software"
+      ]
+    },
+    {
+      "question": "What is the best practice to avoid rogue software?",
+      "choices": [
+        "Download software from trusted and official sources only",
+        "Update fonts",
+        "Change UI themes",
+        "Color matching"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "rogue_software"
+      ]
+    }
+  ]
+}

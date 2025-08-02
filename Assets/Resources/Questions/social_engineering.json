@@ -1,0 +1,329 @@
+{
+  "category": "social_engineering",
+  "questions": [
+    {
+      "question": "What is social engineering in cybersecurity?",
+      "choices": [
+        "Manipulating people to give up confidential information",
+        "Designing social media sites",
+        "Engineering better WiFi",
+        "Building social apps"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "social engineering"
+      ]
+    },
+    {
+      "question": "Which of the following is a common social engineering tactic?",
+      "choices": [
+        "Phishing",
+        "Tailgating",
+        "Pretexting",
+        "All of the above"
+      ],
+      "correct": 3,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "social engineering"
+      ]
+    },
+    {
+      "question": "What is phishing?",
+      "choices": [
+        "Sending fake emails to trick users into sharing sensitive data",
+        "Fishing online",
+        "Enhancing network speeds",
+        "Encrypting data"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "social engineering"
+      ]
+    },
+    {
+      "question": "What is tailgating in social engineering?",
+      "choices": [
+        "Following someone into a secure area without authorization",
+        "Chasing cars",
+        "Using secure networks",
+        "Speeding up login times"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "social engineering"
+      ]
+    },
+    {
+      "question": "What is pretexting?",
+      "choices": [
+        "Pretending to be someone else to gain information",
+        "Enhancing login speeds",
+        "Upgrading UI",
+        "Encrypting passwords"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "social engineering"
+      ]
+    },
+    {
+      "question": "Which defense helps prevent social engineering attacks?",
+      "choices": [
+        "User education and awareness",
+        "Changing fonts",
+        "Using bright colors",
+        "Faster WiFi"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "social engineering"
+      ]
+    },
+    {
+      "question": "Which of these is NOT a social engineering method?",
+      "choices": [
+        "SQL Injection",
+        "Phishing",
+        "Baiting",
+        "Pretexting"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "social engineering"
+      ]
+    },
+    {
+      "question": "What is baiting in social engineering?",
+      "choices": [
+        "Leaving infected USB drives in public places",
+        "Leaving chocolate on desks",
+        "Disabling encryption",
+        "Encrypting drives"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "social engineering"
+      ]
+    },
+    {
+      "question": "Which of these can mitigate social engineering?",
+      "choices": [
+        "Security training",
+        "MFA",
+        "Verifying identities",
+        "All of the above"
+      ],
+      "correct": 3,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "social engineering",
+        "MFA"
+      ]
+    },
+    {
+      "question": "What is vishing?",
+      "choices": [
+        "Voice phishing via phone calls",
+        "Speeding up VPNs",
+        "Securing devices",
+        "Verifying HTTPS"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "social engineering"
+      ]
+    },
+    {
+      "question": "Why is social engineering effective?",
+      "choices": [
+        "Humans are the weakest link in security",
+        "Computers are too slow",
+        "Encryption is weak",
+        "UI is confusing"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "social engineering"
+      ]
+    },
+    {
+      "question": "What is a fun but ineffective way to prevent social engineering?",
+      "choices": [
+        "Naming your password 'NoHackPlz'",
+        "User education",
+        "Implementing MFA",
+        "Security policies"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "social engineering"
+      ]
+    },
+    {
+      "question": "What is the role of MFA in social engineering defense?",
+      "choices": [
+        "Adds an extra layer of protection if credentials are compromised",
+        "Slows down login",
+        "Encrypts data",
+        "Changes fonts"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "social engineering",
+        "MFA"
+      ]
+    },
+    {
+      "question": "Which red flag might indicate a phishing email?",
+      "choices": [
+        "Urgency to act",
+        "Poor spelling",
+        "Unknown sender",
+        "All of the above"
+      ],
+      "correct": 3,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "social engineering"
+      ]
+    },
+    {
+      "question": "What is the risk of social engineering for identity providers like Okta or Auth0?",
+      "choices": [
+        "Compromised accounts via stolen credentials",
+        "Slower tokens",
+        "Better encryption",
+        "Improved UI themes"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "social engineering",
+        "Okta",
+        "Auth0"
+      ]
+    },
+    {
+      "question": "What is spear phishing?",
+      "choices": [
+        "Targeted phishing aimed at specific individuals",
+        "Fishing with spears",
+        "Speeding up authentication",
+        "Encrypting browsers"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "social engineering"
+      ]
+    },
+    {
+      "question": "Which policy helps reduce social engineering risks?",
+      "choices": [
+        "Zero Trust",
+        "Dark Mode",
+        "Single Sign-On only",
+        "Password length limits"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "social engineering"
+      ]
+    },
+    {
+      "question": "What is whaling in social engineering?",
+      "choices": [
+        "Phishing targeting high-profile individuals",
+        "Catching big fish online",
+        "Encrypting executives' emails",
+        "VPN optimizations"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "social engineering"
+      ]
+    },
+    {
+      "question": "How does training help against social engineering?",
+      "choices": [
+        "Raises awareness to recognize and avoid attacks",
+        "Increases login speed",
+        "Boosts WiFi",
+        "Encrypts cookies"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "social engineering"
+      ]
+    },
+    {
+      "question": "What is the best immediate action if you suspect social engineering?",
+      "choices": [
+        "Report to security team",
+        "Ignore everything",
+        "Change desktop wallpaper",
+        "Restart WiFi"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "social engineering"
+      ]
+    }
+  ]
+}

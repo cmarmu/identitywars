@@ -1,0 +1,313 @@
+{
+  "category": "runtime_protection",
+  "questions": [
+    {
+      "question": "What is runtime protection in cybersecurity?",
+      "choices": [
+        "Real-time monitoring of applications to detect and block threats during execution",
+        "Font rendering guard",
+        "Theme activator",
+        "VPN runtime booster"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "runtime_protection"
+      ]
+    },
+    {
+      "question": "Why is runtime protection important?",
+      "choices": [
+        "It protects applications from threats that bypass traditional defenses",
+        "To fix fonts",
+        "To optimize themes",
+        "To balance VPN speeds"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "runtime_protection"
+      ]
+    },
+    {
+      "question": "What types of threats does runtime protection help prevent?",
+      "choices": [
+        "Memory injection, zero-days, and malware",
+        "Font corruption",
+        "Theme mismatches",
+        "VPN leaks"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "runtime_protection"
+      ]
+    },
+    {
+      "question": "What is a fun but ineffective runtime protection method?",
+      "choices": [
+        "Shouting 'Stop malware!' at your computer",
+        "Employing memory monitoring tools",
+        "Using behavior analytics",
+        "Applying patching promptly"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "runtime_protection"
+      ]
+    },
+    {
+      "question": "What is RASP?",
+      "choices": [
+        "Runtime Application Self-Protection",
+        "Runtime Animated Style Protocol",
+        "Really Awesome Security Process",
+        "Runtime Automatic Speed Program"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "runtime_protection"
+      ]
+    },
+    {
+      "question": "How does Okta enhance runtime protection?",
+      "choices": [
+        "By securing authentication processes during app execution",
+        "By stabilizing fonts",
+        "By updating themes",
+        "By enhancing VPNs"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "runtime_protection",
+        "Okta"
+      ]
+    },
+    {
+      "question": "How does Auth0 contribute to runtime protection?",
+      "choices": [
+        "By ensuring secure tokens and session management at runtime",
+        "By formatting fonts",
+        "By styling themes",
+        "By managing VPNs"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "runtime_protection",
+        "Auth0"
+      ]
+    },
+    {
+      "question": "What is memory protection in runtime security?",
+      "choices": [
+        "Preventing unauthorized code from modifying application memory",
+        "Font memory mapping",
+        "Theme memory cache",
+        "VPN memory boosts"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "runtime_protection"
+      ]
+    },
+    {
+      "question": "What role does anomaly detection play in runtime protection?",
+      "choices": [
+        "It identifies unexpected behavior in running applications",
+        "It detects font issues",
+        "It scans themes",
+        "It audits VPNs"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "runtime_protection"
+      ]
+    },
+    {
+      "question": "What is code instrumentation in runtime protection?",
+      "choices": [
+        "Inserting monitoring code into applications",
+        "Font instrumentation",
+        "Theme editing",
+        "VPN scripting"
+      ],
+      "correct": 0,
+      "level": "hard",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "runtime_protection"
+      ]
+    },
+    {
+      "question": "What is anti-tampering in runtime protection?",
+      "choices": [
+        "Mechanisms to prevent modification of running applications",
+        "Anti-font changes",
+        "Theme locking",
+        "VPN shielding"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "runtime_protection"
+      ]
+    },
+    {
+      "question": "What is the relationship between runtime protection and zero-days?",
+      "choices": [
+        "Runtime protection can detect exploitation of unknown vulnerabilities",
+        "It prevents font exploitation",
+        "It fixes themes",
+        "It patches VPNs"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "runtime_protection",
+        "zero_day"
+      ]
+    },
+    {
+      "question": "What is behavioral analysis in runtime protection?",
+      "choices": [
+        "Monitoring application behavior to spot anomalies",
+        "Font behavior tracking",
+        "Theme behavior mapping",
+        "VPN usage patterns"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "runtime_protection"
+      ]
+    },
+    {
+      "question": "What is a secure coding practice that complements runtime protection?",
+      "choices": [
+        "Input validation and sanitization",
+        "Font minification",
+        "Theme restriction",
+        "VPN compression"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "runtime_protection"
+      ]
+    },
+    {
+      "question": "What is the main benefit of runtime protection for cloud applications?",
+      "choices": [
+        "Provides real-time defense against runtime threats",
+        "Enhances font rendering",
+        "Refines themes",
+        "Optimizes VPN tunnels"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "runtime_protection",
+        "cloud_security"
+      ]
+    },
+    {
+      "question": "What is a runtime exploit?",
+      "choices": [
+        "A method where attackers exploit a vulnerability during program execution",
+        "Font hack",
+        "Theme bypass",
+        "VPN exploit"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "runtime_protection"
+      ]
+    },
+    {
+      "question": "What is the best practice for runtime protection deployment?",
+      "choices": [
+        "Integrate RASP with regular code reviews",
+        "Update fonts weekly",
+        "Theme cycling",
+        "VPN toggling"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "runtime_protection"
+      ]
+    },
+    {
+      "question": "What is just-in-time (JIT) protection?",
+      "choices": [
+        "Security applied at runtime during code execution",
+        "Just-in-time fonts",
+        "Immediate theme application",
+        "Real-time VPN"
+      ],
+      "correct": 0,
+      "level": "hard",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "runtime_protection"
+      ]
+    },
+    {
+      "question": "What is a runtime agent?",
+      "choices": [
+        "A tool embedded in applications to provide continuous monitoring",
+        "Font agent",
+        "Theme proxy",
+        "VPN supervisor"
+      ],
+      "correct": 0,
+      "level": "hard",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "runtime_protection"
+      ]
+    }
+  ]
+}

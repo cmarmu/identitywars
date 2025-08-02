@@ -1,0 +1,167 @@
+{
+  "category": "deepfake_social_engineering",
+  "questions": [
+    {
+      "question": "What is deepfake social engineering?",
+      "choices": [
+        "Using AI-generated media to impersonate individuals for fraud",
+        "Deepening social skills",
+        "Font rendering tweak",
+        "VPN bypass"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "deepfake_social_engineering"
+      ]
+    },
+    {
+      "question": "What technology powers deepfakes?",
+      "choices": [
+        "Artificial Intelligence (AI) and Machine Learning (ML)",
+        "Font AI",
+        "Theme mixers",
+        "VPN boosters"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "deepfake_social_engineering"
+      ]
+    },
+    {
+      "question": "What is the main risk of deepfake social engineering?",
+      "choices": [
+        "Convincing impersonations leading to fraud or data theft",
+        "Font mismatches",
+        "Color desaturation",
+        "WiFi lag"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "deepfake_social_engineering"
+      ]
+    },
+    {
+      "question": "What is a common medium for deepfake attacks?",
+      "choices": [
+        "Video and audio calls",
+        "Font chats",
+        "Theme pings",
+        "VPN tunnels"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "deepfake_social_engineering"
+      ]
+    },
+    {
+      "question": "What is a fun but ineffective way to prevent deepfake social engineering?",
+      "choices": [
+        "Asking the deepfake to blink rapidly",
+        "Employee awareness training",
+        "Verification via secure channels",
+        "Voice biometrics"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "deepfake_social_engineering"
+      ]
+    },
+    {
+      "question": "How can organizations defend against deepfake social engineering?",
+      "choices": [
+        "Multi-channel verification and user training",
+        "Font locking",
+        "Theme hardening",
+        "VPN routing"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "deepfake_social_engineering"
+      ]
+    },
+    {
+      "question": "How can Okta or Auth0 help reduce deepfake risks?",
+      "choices": [
+        "By enforcing MFA and monitoring authentication integrity",
+        "Font tracking",
+        "Theme scaling",
+        "VPN escalation"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "deepfake_social_engineering",
+        "Okta",
+        "Auth0"
+      ]
+    },
+    {
+      "question": "What is a sign that a communication might be a deepfake?",
+      "choices": [
+        "Unnatural speech patterns or visual artifacts",
+        "Font corruption",
+        "Color shifting",
+        "WiFi disconnection"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "deepfake_social_engineering"
+      ]
+    },
+    {
+      "question": "What is voice biometrics?",
+      "choices": [
+        "Authentication based on unique vocal characteristics",
+        "Font audio",
+        "Color sound",
+        "Theme resonance"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "deepfake_social_engineering"
+      ]
+    },
+    {
+      "question": "What is the best practice to mitigate deepfake threats?",
+      "choices": [
+        "User training, multi-channel verification, voice biometrics",
+        "Update fonts",
+        "Change themes",
+        "Boost WiFi"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "deepfake_social_engineering"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,327 @@
+{
+  "category": "url_validation",
+  "questions": [
+    {
+      "question": "What is URL validation in cybersecurity?",
+      "choices": [
+        "Checking if a URL is legitimate and safe",
+        "Font verification",
+        "Theme auditing",
+        "VPN checking"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "url_validation"
+      ]
+    },
+    {
+      "question": "Why is URL validation important?",
+      "choices": [
+        "To prevent access to malicious sites",
+        "To prevent font leaks",
+        "To optimize themes",
+        "To audit VPNs"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "url_validation"
+      ]
+    },
+    {
+      "question": "What can happen if URL validation is skipped?",
+      "choices": [
+        "Users may visit phishing sites",
+        "Fonts may render wrong",
+        "Themes might break",
+        "VPN may disconnect"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "url_validation"
+      ]
+    },
+    {
+      "question": "What is an open redirect vulnerability?",
+      "choices": [
+        "Redirecting users to malicious URLs via trusted sites",
+        "Redirecting fonts",
+        "Switching themes",
+        "Boosting VPNs"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "url_validation"
+      ]
+    },
+    {
+      "question": "What is a fun but ineffective way to validate URLs?",
+      "choices": [
+        "Clicking only on URLs that 'feel right'",
+        "Using allowlists",
+        "Checking SSL certificates",
+        "Validating hostname"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "url_validation"
+      ]
+    },
+    {
+      "question": "What does SSL/TLS ensure for URLs?",
+      "choices": [
+        "Secure and encrypted communication",
+        "Secured fonts",
+        "Encrypted themes",
+        "Safe VPNs"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "url_validation"
+      ]
+    },
+    {
+      "question": "How does Okta help with URL validation?",
+      "choices": [
+        "By validating redirect URIs during OAuth flows",
+        "Font verification",
+        "Theme refreshing",
+        "VPN enhancement"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "url_validation",
+        "Okta"
+      ]
+    },
+    {
+      "question": "How does Auth0 support URL validation?",
+      "choices": [
+        "It ensures callback URLs are whitelisted",
+        "Font auditing",
+        "Theme updating",
+        "VPN boosting"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "url_validation",
+        "Auth0"
+      ]
+    },
+    {
+      "question": "What is domain squatting?",
+      "choices": [
+        "Registering similar domains to deceive users",
+        "Font duplication",
+        "Theme cloning",
+        "VPN copying"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "url_validation"
+      ]
+    },
+    {
+      "question": "What protocol should secure URLs use?",
+      "choices": [
+        "HTTPS",
+        "FTP",
+        "HTTP",
+        "SMTP"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "url_validation"
+      ]
+    },
+    {
+      "question": "What is phishing URL detection?",
+      "choices": [
+        "Identifying malicious URLs mimicking legitimate sites",
+        "Detecting font issues",
+        "Theme detection",
+        "VPN signals"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "url_validation"
+      ]
+    },
+    {
+      "question": "What feature in browsers helps with URL validation?",
+      "choices": [
+        "Address bar security indicators",
+        "Font rendering",
+        "Theme switches",
+        "VPN toggles"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "url_validation"
+      ]
+    },
+    {
+      "question": "What is URL normalization?",
+      "choices": [
+        "Converting URLs to a standard format for validation",
+        "Normalizing fonts",
+        "Theming",
+        "VPN balancing"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "url_validation"
+      ]
+    },
+    {
+      "question": "What is the role of allowlists in URL validation?",
+      "choices": [
+        "Permitting only approved domains",
+        "Font approval",
+        "Theme certification",
+        "VPN whitelisting"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "url_validation"
+      ]
+    },
+    {
+      "question": "What is DNS filtering?",
+      "choices": [
+        "Blocking access to malicious domains at the DNS level",
+        "Font filtering",
+        "Theme filtering",
+        "VPN blocking"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "url_validation"
+      ]
+    },
+    {
+      "question": "What is the risk of not validating redirect URLs?",
+      "choices": [
+        "Phishing and session hijacking",
+        "Font errors",
+        "Theme glitches",
+        "VPN leaks"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "url_validation"
+      ]
+    },
+    {
+      "question": "What is a practical method for URL validation?",
+      "choices": [
+        "Check domain, protocol, and paths",
+        "Check font families",
+        "Review themes",
+        "Scan VPN ports"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "url_validation"
+      ]
+    },
+    {
+      "question": "What is a subdomain takeover risk in URL validation?",
+      "choices": [
+        "Malicious actors gaining control of unused subdomains",
+        "Font hijacking",
+        "Theme piracy",
+        "VPN theft"
+      ],
+      "correct": 0,
+      "level": "hard",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "url_validation"
+      ]
+    },
+    {
+      "question": "What is the best practice for URL validation in authentication flows?",
+      "choices": [
+        "Whitelist redirect URIs and validate protocols",
+        "Upgrade fonts",
+        "Refresh themes",
+        "Throttle VPNs"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "url_validation"
+      ]
+    },
+    {
+      "question": "What does OWASP recommend for URL validation?",
+      "choices": [
+        "Implement strict allowlists and validation checks",
+        "Enhance fonts",
+        "Change themes",
+        "Improve VPN security"
+      ],
+      "correct": 0,
+      "level": "hard",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "url_validation"
+      ]
+    }
+  ]
+}

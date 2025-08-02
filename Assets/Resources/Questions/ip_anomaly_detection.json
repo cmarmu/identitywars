@@ -1,0 +1,298 @@
+{
+  "category": "ip_anomaly_detection",
+  "questions": [
+    {
+      "question": "What is IP anomaly detection in cybersecurity?",
+      "choices": [
+        "Identifying unusual patterns in IP addresses to flag potential threats",
+        "Detecting font anomalies",
+        "Spotting theme changes",
+        "Tracking VPN disconnects"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "ip_anomaly_detection"
+      ]
+    },
+    {
+      "question": "Why is IP anomaly detection important?",
+      "choices": [
+        "To detect suspicious behaviors like credential stuffing",
+        "To check font mismatches",
+        "To ensure theme consistency",
+        "To monitor VPN reliability"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "ip_anomaly_detection"
+      ]
+    },
+    {
+      "question": "What kind of data is analyzed in IP anomaly detection?",
+      "choices": [
+        "Geolocation, access frequency, and unusual IP ranges",
+        "Font metrics",
+        "Theme usage",
+        "VPN bandwidth"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "ip_anomaly_detection"
+      ]
+    },
+    {
+      "question": "What is a fun but ineffective IP anomaly strategy?",
+      "choices": [
+        "Blocking IPs ending in 42 just for fun",
+        "Machine learning-based analysis",
+        "Geo-restriction policies",
+        "Rate limiting"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "ip_anomaly_detection"
+      ]
+    },
+    {
+      "question": "How does Okta implement IP anomaly detection?",
+      "choices": [
+        "Through risk scoring based on login IP history",
+        "Via font checks",
+        "Through theme adjustments",
+        "By auditing VPN changes"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "ip_anomaly_detection",
+        "Okta"
+      ]
+    },
+    {
+      "question": "How does Auth0 help detect IP anomalies?",
+      "choices": [
+        "By monitoring and flagging suspicious login locations",
+        "By scanning fonts",
+        "By detecting theme swaps",
+        "By tracing VPN logs"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "ip_anomaly_detection",
+        "Auth0"
+      ]
+    },
+    {
+      "question": "What is geo-velocity in IP anomaly detection?",
+      "choices": [
+        "Tracking the speed of location changes between IPs",
+        "Font velocity",
+        "Theme speed changes",
+        "VPN switch rates"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "ip_anomaly_detection"
+      ]
+    },
+    {
+      "question": "What tool complements IP anomaly detection?",
+      "choices": [
+        "Web Application Firewalls (WAFs)",
+        "Font rendering engines",
+        "Theme design tools",
+        "VPN clients"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "ip_anomaly_detection"
+      ]
+    },
+    {
+      "question": "What role does machine learning play in IP anomaly detection?",
+      "choices": [
+        "Detecting patterns that deviate from normal IP usage",
+        "Creating fonts",
+        "Developing themes",
+        "Automating VPN protocols"
+      ],
+      "correct": 0,
+      "level": "hard",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "ip_anomaly_detection"
+      ]
+    },
+    {
+      "question": "What is an IP reputation service?",
+      "choices": [
+        "A service that ranks IP addresses based on their historical behavior",
+        "Font rating system",
+        "Theme ranking service",
+        "VPN reputation score"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "ip_anomaly_detection"
+      ]
+    },
+    {
+      "question": "What is a typical response to an IP anomaly detection alert?",
+      "choices": [
+        "Trigger MFA or block the request",
+        "Change font settings",
+        "Apply a new theme",
+        "Reconnect the VPN"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "ip_anomaly_detection",
+        "MFA"
+      ]
+    },
+    {
+      "question": "What is the best practice when dealing with IP anomalies?",
+      "choices": [
+        "Investigate and correlate with user behavior before blocking",
+        "Adjust fonts",
+        "Tune themes",
+        "Reconfigure VPN"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "ip_anomaly_detection"
+      ]
+    },
+    {
+      "question": "What is session hijacking and how is it linked to IP anomalies?",
+      "choices": [
+        "IP changes can indicate a hijacked session",
+        "Fonts can be hijacked",
+        "Themes can be stolen",
+        "VPN can be hijacked"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "ip_anomaly_detection",
+        "session_hijacking"
+      ]
+    },
+    {
+      "question": "What is a VPN's effect on IP anomaly detection?",
+      "choices": [
+        "It can mask real locations, complicating detection",
+        "It sharpens fonts",
+        "It enhances themes",
+        "It optimizes rendering"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "ip_anomaly_detection",
+        "VPN"
+      ]
+    },
+    {
+      "question": "What is a false positive in IP anomaly detection?",
+      "choices": [
+        "Legitimate user behavior incorrectly flagged as suspicious",
+        "Font misclassification",
+        "Theme mislabeling",
+        "VPN misrouting"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "ip_anomaly_detection"
+      ]
+    },
+    {
+      "question": "What is the role of audit logs in IP anomaly monitoring?",
+      "choices": [
+        "They provide traceability for IP-related events",
+        "They log font loads",
+        "They record theme usage",
+        "They track VPN connections"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "ip_anomaly_detection"
+      ]
+    },
+    {
+      "question": "What is threat intelligence in the context of IP anomalies?",
+      "choices": [
+        "Information about known malicious IP addresses",
+        "Intelligence on fonts",
+        "Theme security news",
+        "VPN analysis"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "ip_anomaly_detection"
+      ]
+    },
+    {
+      "question": "What is the ultimate goal of IP anomaly detection?",
+      "choices": [
+        "Identify and mitigate unauthorized access attempts",
+        "Enhance fonts",
+        "Design better themes",
+        "Improve VPN security"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "ip_anomaly_detection"
+      ]
+    }
+  ]
+}

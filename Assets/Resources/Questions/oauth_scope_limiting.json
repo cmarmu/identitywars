@@ -1,0 +1,328 @@
+{
+  "category": "oauth_scope_limiting",
+  "questions": [
+    {
+      "question": "What is OAuth scope limiting?",
+      "choices": [
+        "Restricting the permissions granted to an app via OAuth",
+        "Limiting font sizes",
+        "Reducing theme colors",
+        "Capping VPN speeds"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "oauth_scope_limiting",
+        "OAuth"
+      ]
+    },
+    {
+      "question": "Why is OAuth scope limiting important?",
+      "choices": [
+        "It prevents over-permissioned apps from accessing unnecessary data",
+        "To control font licenses",
+        "To reduce theme clutter",
+        "To minimize VPN usage"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "oauth_scope_limiting"
+      ]
+    },
+    {
+      "question": "What does an OAuth 'scope' define?",
+      "choices": [
+        "The level of access a third-party app is granted",
+        "Font limitations",
+        "Theme constraints",
+        "VPN limits"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "oauth_scope_limiting"
+      ]
+    },
+    {
+      "question": "What is a fun but ineffective way to limit OAuth scopes?",
+      "choices": [
+        "Asking the app nicely to behave",
+        "Strictly defining required scopes",
+        "Using least privilege principle",
+        "Reviewing scopes regularly"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "oauth_scope_limiting"
+      ]
+    },
+    {
+      "question": "What principle supports OAuth scope limiting?",
+      "choices": [
+        "Principle of Least Privilege",
+        "Font minimization",
+        "Theme simplicity",
+        "VPN throttling"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "oauth_scope_limiting"
+      ]
+    },
+    {
+      "question": "What is an example of an OAuth scope?",
+      "choices": [
+        "read:user",
+        "font:install",
+        "theme:select",
+        "vpn:connect"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "oauth_scope_limiting"
+      ]
+    },
+    {
+      "question": "How can Okta assist with OAuth scope limiting?",
+      "choices": [
+        "By managing scope permissions in OAuth tokens",
+        "By securing fonts",
+        "By refreshing themes",
+        "By balancing VPNs"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "oauth_scope_limiting",
+        "Okta"
+      ]
+    },
+    {
+      "question": "How does Auth0 support OAuth scope control?",
+      "choices": [
+        "Customizable scope definitions in access tokens",
+        "Font permissions",
+        "Theme access control",
+        "VPN routing"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "oauth_scope_limiting",
+        "Auth0"
+      ]
+    },
+    {
+      "question": "What risk arises from overly broad OAuth scopes?",
+      "choices": [
+        "Exposing more user data than necessary",
+        "Wider font usage",
+        "Theme misuse",
+        "VPN abuse"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "oauth_scope_limiting"
+      ]
+    },
+    {
+      "question": "What should developers request via OAuth?",
+      "choices": [
+        "Only the scopes needed for their app's functionality",
+        "All fonts",
+        "All themes",
+        "Maximum VPN power"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "oauth_scope_limiting"
+      ]
+    },
+    {
+      "question": "What is scope creep in OAuth?",
+      "choices": [
+        "Apps gradually requesting more permissions than necessary",
+        "Fonts getting heavier",
+        "Themes expanding",
+        "VPN overgrowth"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "oauth_scope_limiting"
+      ]
+    },
+    {
+      "question": "What is dynamic scope approval?",
+      "choices": [
+        "Users approve scopes as needed, rather than all at once",
+        "Dynamic fonts",
+        "Theme adjustments",
+        "VPN dynamics"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "oauth_scope_limiting"
+      ]
+    },
+    {
+      "question": "What is a security benefit of limiting OAuth scopes?",
+      "choices": [
+        "Minimizes damage if tokens are stolen",
+        "Minimizes font damage",
+        "Protects themes",
+        "Secures VPN ports"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "oauth_scope_limiting"
+      ]
+    },
+    {
+      "question": "What is token introspection in OAuth?",
+      "choices": [
+        "A method to check a token's validity and scopes",
+        "Font inspection",
+        "Theme introspection",
+        "VPN analysis"
+      ],
+      "correct": 0,
+      "level": "hard",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "oauth_scope_limiting"
+      ]
+    },
+    {
+      "question": "How can users understand OAuth scopes?",
+      "choices": [
+        "By reading scope descriptions during consent",
+        "By reading font manuals",
+        "By exploring themes",
+        "By testing VPNs"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "oauth_scope_limiting"
+      ]
+    },
+    {
+      "question": "What is consent fatigue in OAuth flows?",
+      "choices": [
+        "Users blindly accepting permissions",
+        "Font fatigue",
+        "Theme exhaustion",
+        "VPN overload"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "oauth_scope_limiting"
+      ]
+    },
+    {
+      "question": "What is the best practice for OAuth scope design?",
+      "choices": [
+        "Request minimal necessary scopes and document them clearly",
+        "Request all fonts",
+        "Request all themes",
+        "Request all VPNs"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "oauth_scope_limiting"
+      ]
+    },
+    {
+      "question": "What is OAuth scope revocation?",
+      "choices": [
+        "Removing previously granted permissions",
+        "Revoking fonts",
+        "Cancelling themes",
+        "Disconnecting VPN"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "oauth_scope_limiting"
+      ]
+    },
+    {
+      "question": "What is incremental authorization in OAuth?",
+      "choices": [
+        "Requesting permissions as needed over time",
+        "Incremental fonts",
+        "Layered themes",
+        "VPN staging"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "oauth_scope_limiting"
+      ]
+    },
+    {
+      "question": "What is the ultimate goal of OAuth scope limiting?",
+      "choices": [
+        "Enhance security and privacy by minimizing access",
+        "Enhance fonts",
+        "Enhance themes",
+        "Enhance VPNs"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "oauth_scope_limiting"
+      ]
+    }
+  ]
+}

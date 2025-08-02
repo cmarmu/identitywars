@@ -1,0 +1,168 @@
+{
+  "category": "adversary_in_the_middle",
+  "questions": [
+    {
+      "question": "What is an Adversary-in-the-Middle (AiTM) attack?",
+      "choices": [
+        "Intercepting and manipulating communication between two parties",
+        "Changing font styles",
+        "Theme swapping",
+        "VPN rerouting"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "adversary_in_the_middle"
+      ]
+    },
+    {
+      "question": "How is AiTM different from classic MITM attacks?",
+      "choices": [
+        "AiTM can bypass MFA by stealing session tokens",
+        "It uses prettier fonts",
+        "Themes are encrypted",
+        "WiFi speed increases"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "adversary_in_the_middle"
+      ]
+    },
+    {
+      "question": "What is the purpose of session hijacking in AiTM attacks?",
+      "choices": [
+        "To impersonate the user without needing credentials again",
+        "To upgrade fonts",
+        "To reset themes",
+        "To boost WiFi"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "adversary_in_the_middle"
+      ]
+    },
+    {
+      "question": "What is a fun but ineffective way to prevent AiTM attacks?",
+      "choices": [
+        "Saying 'No intercepts please' out loud",
+        "Using end-to-end encryption",
+        "Deploying FIDO2 keys",
+        "Securing sessions with TLS"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "adversary_in_the_middle"
+      ]
+    },
+    {
+      "question": "What are FIDO2 security keys used for?",
+      "choices": [
+        "Phishing-resistant authentication methods",
+        "Font customization",
+        "Theme protection",
+        "VPN configuration"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "adversary_in_the_middle",
+        "MFA"
+      ]
+    },
+    {
+      "question": "How can Okta or Auth0 help mitigate AiTM risks?",
+      "choices": [
+        "By enforcing phishing-resistant MFA like WebAuthn",
+        "Font hardening",
+        "Theme encryption",
+        "WiFi monitoring"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "adversary_in_the_middle",
+        "Okta",
+        "Auth0"
+      ]
+    },
+    {
+      "question": "What is TLS and how does it help against AiTM?",
+      "choices": [
+        "A protocol that encrypts data in transit",
+        "Font styling tool",
+        "Theme layer security",
+        "VPN protocol"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "adversary_in_the_middle"
+      ]
+    },
+    {
+      "question": "What is a common technique used in AiTM attacks?",
+      "choices": [
+        "Creating a proxy to intercept user credentials and tokens",
+        "Font redirection",
+        "Theme hijacking",
+        "VPN cloning"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "adversary_in_the_middle"
+      ]
+    },
+    {
+      "question": "What is session token theft?",
+      "choices": [
+        "Stealing a session token to impersonate a user",
+        "Font stealing",
+        "Theme theft",
+        "VPN token duplication"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "adversary_in_the_middle"
+      ]
+    },
+    {
+      "question": "What is the best practice to defend against AiTM?",
+      "choices": [
+        "Implement MFA with hardware keys, use TLS, monitor sessions",
+        "Update fonts",
+        "Change themes",
+        "Encrypt colors"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "adversary_in_the_middle"
+      ]
+    }
+  ]
+}

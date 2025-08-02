@@ -1,0 +1,165 @@
+{
+  "category": "brute_force",
+  "questions": [
+    {
+      "question": "What is a brute force attack in the context of identity authentication?",
+      "choices": ["A method where an attacker systematically guesses credentials", "A polite request for a password", "A phishing email tactic", "An SQL injection attempt"],
+      "correct": 0,
+      "level": "easy",
+      "technical": true,
+      "tags": ["brute force", "authentication"]
+    },
+    {
+      "question": "Which identity factor is least susceptible to brute force attacks?",
+      "choices": ["Knowledge factors (passwords)", "Possession factors (hardware tokens)", "Something you ate", "Security questions"],
+      "correct": 1,
+      "level": "medium",
+      "technical": true,
+      "tags": ["MFA", "brute force", "identity"]
+    },
+    {
+      "question": "Which Okta feature helps mitigate brute force attempts?",
+      "choices": ["Rate limiting", "Unlimited login retries", "Static passwords", "Session hijacking"],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": ["Okta", "brute force"]
+    },
+    {
+      "question": "What is the role of CAPTCHA in defending against brute force?",
+      "choices": ["It reduces user experience", "It prevents automated login attempts", "It helps store passwords", "It replaces MFA"],
+      "correct": 1,
+      "level": "easy",
+      "technical": false,
+      "tags": ["brute force", "CAPTCHA"]
+    },
+    {
+      "question": "What is credential stuffing, and how is it related to brute force?",
+      "choices": ["It's a phishing technique", "Using stolen credentials across multiple services", "A form of XSS attack", "Social engineering by phone"],
+      "correct": 1,
+      "level": "medium",
+      "technical": true,
+      "tags": ["credential stuffing", "brute force"]
+    },
+    {
+      "question": "How does WebAuthn help prevent brute force attacks?",
+      "choices": ["It increases password reuse", "It eliminates the need for passwords altogether", "It stores passwords on the client", "It disables MFA"],
+      "correct": 1,
+      "level": "hard",
+      "technical": true,
+      "tags": ["WebAuthn", "brute force", "passwordless"]
+    },
+    {
+      "question": "Which type of hashing algorithm is designed to resist brute force attacks?",
+      "choices": ["MD5", "bcrypt", "SHA-1", "base64"],
+      "correct": 1,
+      "level": "hard",
+      "technical": true,
+      "tags": ["hashing", "brute force"]
+    },
+    {
+      "question": "Why are weak passwords still a significant risk on platforms like Auth0?",
+      "choices": ["Because Auth0 encourages weak passwords", "Because users often reuse passwords", "Because OAuth2 requires weak passwords", "Because passwords are encrypted"],
+      "correct": 1,
+      "level": "medium",
+      "technical": false,
+      "tags": ["Auth0", "passwords", "brute force"]
+    },
+    {
+      "question": "What is IP throttling in the context of brute force protection?",
+      "choices": ["Blocking IPs that are too slow", "Limiting requests from a single IP after multiple failed attempts", "Speeding up login attempts", "Encrypting IP addresses"],
+      "correct": 1,
+      "level": "medium",
+      "technical": true,
+      "tags": ["IP throttling", "brute force"]
+    },
+    {
+      "question": "Why might account lockout after failed login attempts be risky?",
+      "choices": ["It can prevent legitimate user access", "It speeds up brute force attacks", "It disables MFA", "It promotes password reuse"],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": ["account lockout", "brute force"]
+    },
+    {
+      "question": "How can suspicious IP throttling protect against brute force?",
+      "choices": ["By accelerating login attempts", "By detecting and limiting access from high-failure-rate IPs", "By replacing MFA", "By logging out all users"],
+      "correct": 1,
+      "level": "hard",
+      "technical": true,
+      "tags": ["IP throttling", "brute force"]
+    },
+    {
+      "question": "What is a rainbow table in the context of brute force?",
+      "choices": ["A colorful encryption scheme", "A precomputed table for reversing hash functions", "An MFA technique", "A type of brute force password list"],
+      "correct": 1,
+      "level": "hard",
+      "technical": true,
+      "tags": ["rainbow table", "hashing", "brute force"]
+    },
+    {
+      "question": "What makes a password manager helpful against brute force?",
+      "choices": ["It auto-generates complex passwords", "It simplifies passwords", "It disables MFA", "It stores passwords in plain text"],
+      "correct": 0,
+      "level": "medium",
+      "technical": false,
+      "tags": ["password manager", "brute force"]
+    },
+    {
+      "question": "Why are dictionary attacks more efficient than classic brute force?",
+      "choices": ["They use common passwords and words first", "They try every alphanumeric combination", "They encrypt passwords", "They rely on social engineering"],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": ["dictionary attack", "brute force"]
+    },
+    {
+      "question": "What's the key difference between credential stuffing and brute force?",
+      "choices": ["Credential stuffing uses known passwords", "Brute force uses stolen tokens", "Credential stuffing involves encryption", "Brute force only attacks admin accounts"],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": ["brute force", "credential stuffing"]
+    },
+    {
+      "question": "How does Okta's ThreatInsight feature help with brute force?",
+      "choices": ["By providing user tips on password strength", "By blocking login attempts from known bad IPs", "By disabling MFA", "By sharing passwords across users"],
+      "correct": 1,
+      "level": "hard",
+      "technical": true,
+      "tags": ["Okta", "ThreatInsight", "brute force"]
+    },
+    {
+      "question": "What is the purpose of a password policy in brute force prevention?",
+      "choices": ["To force users to change passwords weekly", "To ensure password complexity and uniqueness", "To simplify login for bots", "To disable MFA"],
+      "correct": 1,
+      "level": "easy",
+      "technical": false,
+      "tags": ["password policy", "brute force"]
+    },
+    {
+      "question": "Which of these is NOT an effective mitigation against brute force?",
+      "choices": ["MFA", "Rate limiting", "Passwordless login", "Using common default passwords"],
+      "correct": 3,
+      "level": "easy",
+      "technical": false,
+      "tags": ["brute force", "mitigation"]
+    },
+    {
+      "question": "What is the benefit of using salted hashes for passwords?",
+      "choices": ["They make brute force harder by adding randomness", "They store passwords in plain text", "They simplify hashing", "They disable password rotation"],
+      "correct": 0,
+      "level": "hard",
+      "technical": true,
+      "tags": ["hashing", "salt", "brute force"]
+    },
+    {
+      "question": "How does Auth0's anomaly detection protect against brute force?",
+      "choices": ["By providing CAPTCHA after failed attempts", "By sending love letters to attackers", "By removing password requirements", "By speeding up login failures"],
+      "correct": 0,
+      "level": "hard",
+      "technical": true,
+      "tags": ["Auth0", "anomaly detection", "brute force"]
+    }
+  ]
+}

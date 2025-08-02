@@ -1,0 +1,311 @@
+{
+  "category": "token_inspection",
+  "questions": [
+    {
+      "question": "What is token inspection in cybersecurity?",
+      "choices": [
+        "Analyzing tokens to verify authenticity and integrity",
+        "Font reviewing",
+        "Theme inspection",
+        "VPN validation"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "token_inspection"
+      ]
+    },
+    {
+      "question": "What type of tokens are typically inspected?",
+      "choices": [
+        "JWTs (JSON Web Tokens)",
+        "Font tokens",
+        "Theme tokens",
+        "VPN tokens"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "token_inspection"
+      ]
+    },
+    {
+      "question": "Why is token inspection important?",
+      "choices": [
+        "To ensure tokens are valid and unaltered",
+        "To verify fonts",
+        "To review themes",
+        "To refresh VPNs"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "token_inspection"
+      ]
+    },
+    {
+      "question": "What is a token signature in JWTs?",
+      "choices": [
+        "A cryptographic proof of token authenticity",
+        "Font mark",
+        "Theme ID",
+        "VPN checksum"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "token_inspection"
+      ]
+    },
+    {
+      "question": "What is a fun but insecure way to inspect tokens?",
+      "choices": [
+        "Shaking the token to hear if it rattles",
+        "Verifying digital signatures",
+        "Checking expiration",
+        "Reviewing claims"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "token_inspection"
+      ]
+    },
+    {
+      "question": "What are 'claims' in a JWT?",
+      "choices": [
+        "Key-value pairs conveying information about the user",
+        "Font attributes",
+        "Theme styles",
+        "VPN flags"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "token_inspection"
+      ]
+    },
+    {
+      "question": "What does the 'exp' claim indicate in a token?",
+      "choices": [
+        "Token expiration time",
+        "Font expiry",
+        "Theme lifespan",
+        "VPN timeout"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "token_inspection"
+      ]
+    },
+    {
+      "question": "How does Okta support token inspection?",
+      "choices": [
+        "Via introspection endpoints to verify token validity",
+        "Font inspection",
+        "Theme check",
+        "VPN logging"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "token_inspection",
+        "Okta"
+      ]
+    },
+    {
+      "question": "What is Auth0's method for validating tokens?",
+      "choices": [
+        "Public key verification for JWTs",
+        "Font checks",
+        "Theme approvals",
+        "VPN certifications"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "token_inspection",
+        "Auth0"
+      ]
+    },
+    {
+      "question": "What tool can decode and inspect JWTs?",
+      "choices": [
+        "JWT.io",
+        "Font.io",
+        "Theme.io",
+        "VPN.io"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "token_inspection"
+      ]
+    },
+    {
+      "question": "What is token introspection?",
+      "choices": [
+        "A process to check the validity and status of a token",
+        "Font introspection",
+        "Theme analysis",
+        "VPN tracking"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "token_inspection"
+      ]
+    },
+    {
+      "question": "What is the risk of not inspecting tokens?",
+      "choices": [
+        "Use of expired or tampered tokens",
+        "Font fatigue",
+        "Theme overload",
+        "VPN fatigue"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "token_inspection"
+      ]
+    },
+    {
+      "question": "What is the 'iat' claim in a JWT?",
+      "choices": [
+        "Issued At time of the token",
+        "Font issued at",
+        "Theme start",
+        "VPN start"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "token_inspection"
+      ]
+    },
+    {
+      "question": "What cryptographic algorithm secures JWTs?",
+      "choices": [
+        "HS256 or RS256",
+        "FontCrypto",
+        "ThemeSec",
+        "VPNCrypto"
+      ],
+      "correct": 0,
+      "level": "hard",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "token_inspection"
+      ]
+    },
+    {
+      "question": "What is the purpose of a refresh token?",
+      "choices": [
+        "To obtain a new access token without re-authenticating",
+        "To refresh fonts",
+        "To refresh themes",
+        "To refresh VPNs"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "token_inspection"
+      ]
+    },
+    {
+      "question": "How can token expiry be checked during inspection?",
+      "choices": [
+        "By comparing the 'exp' claim to the current time",
+        "By reviewing fonts",
+        "By validating themes",
+        "By checking VPN timeouts"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "token_inspection"
+      ]
+    },
+    {
+      "question": "What is a token blacklist?",
+      "choices": [
+        "A list of revoked or invalidated tokens",
+        "Blocked fonts",
+        "Banned themes",
+        "Denied VPNs"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "token_inspection"
+      ]
+    },
+    {
+      "question": "What is the audience ('aud') claim in a token?",
+      "choices": [
+        "Specifies the intended recipient of the token",
+        "Font audience",
+        "Theme readers",
+        "VPN endpoints"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "token_inspection"
+      ]
+    },
+    {
+      "question": "What is the best practice when inspecting tokens?",
+      "choices": [
+        "Validate signature, check claims, verify expiration",
+        "Recheck fonts",
+        "Revamp themes",
+        "Renew VPNs"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "token_inspection"
+      ]
+    }
+  ]
+}

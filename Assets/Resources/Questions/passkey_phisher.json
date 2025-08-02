@@ -1,0 +1,328 @@
+{
+  "category": "passkey_phisher",
+  "questions": [
+    {
+      "question": "What is passkey phishing?",
+      "choices": [
+        "Tricking users into revealing passkeys or authentication credentials",
+        "Fishing with a passkey",
+        "Speeding up logins",
+        "Installing fonts"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "passkey_phisher"
+      ]
+    },
+    {
+      "question": "What is a passkey in the context of authentication?",
+      "choices": [
+        "A secure, passwordless login credential",
+        "A VPN booster",
+        "A font enhancer",
+        "A WiFi password"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "passkey_phisher"
+      ]
+    },
+    {
+      "question": "Why are passkeys considered more secure than passwords?",
+      "choices": [
+        "They use public-private key cryptography",
+        "They are easier to remember",
+        "They change colors",
+        "They encrypt fonts"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "passkey_phisher"
+      ]
+    },
+    {
+      "question": "How does a phisher typically capture passkeys?",
+      "choices": [
+        "By tricking users into authenticating on fake sites",
+        "Via font manipulation",
+        "Changing desktop themes",
+        "Speeding up MFA"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "passkey_phisher"
+      ]
+    },
+    {
+      "question": "Which protocol helps protect passkeys from phishing?",
+      "choices": [
+        "FIDO2/WebAuthn",
+        "HTTP",
+        "FTP",
+        "Telnet"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "passkey_phisher",
+        "FIDO2"
+      ]
+    },
+    {
+      "question": "What is the role of the relying party ID in passkeys?",
+      "choices": [
+        "It binds authentication to a specific domain",
+        "It speeds up logins",
+        "It encrypts fonts",
+        "It colors buttons"
+      ],
+      "correct": 0,
+      "level": "hard",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "passkey_phisher"
+      ]
+    },
+    {
+      "question": "Which of these is NOT a defense against passkey phishing?",
+      "choices": [
+        "WebAuthn",
+        "Secure Enclaves",
+        "Public WiFi",
+        "Hardware authenticators"
+      ],
+      "correct": 2,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "passkey_phisher"
+      ]
+    },
+    {
+      "question": "What is a fun but ineffective way to protect passkeys?",
+      "choices": [
+        "Naming them 'UnPhishable123'",
+        "Using WebAuthn",
+        "Hardware security keys",
+        "Platform authenticators"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "passkey_phisher"
+      ]
+    },
+    {
+      "question": "How does device-bound authentication enhance passkey security?",
+      "choices": [
+        "Passkeys are tied to a specific device",
+        "It speeds up UI",
+        "It changes password colors",
+        "It disables VPN"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "passkey_phisher"
+      ]
+    },
+    {
+      "question": "Which authentication factor are passkeys replacing?",
+      "choices": [
+        "Passwords",
+        "Fonts",
+        "Captcha",
+        "Cookies"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "passkey_phisher"
+      ]
+    },
+    {
+      "question": "What is phishing-resistant authentication?",
+      "choices": [
+        "Authentication methods that can't be easily tricked or replayed",
+        "Faster login methods",
+        "Encrypted fonts",
+        "Color-coded tokens"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "passkey_phisher"
+      ]
+    },
+    {
+      "question": "How can Okta or Auth0 help prevent passkey phishing?",
+      "choices": [
+        "Supporting FIDO2/WebAuthn",
+        "Providing password reminders",
+        "Changing font sizes",
+        "Offering VPNs"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "passkey_phisher",
+        "Okta",
+        "Auth0"
+      ]
+    },
+    {
+      "question": "What is the main benefit of passkeys?",
+      "choices": [
+        "Eliminates need for reusable passwords",
+        "Increases WiFi speed",
+        "Enhances font rendering",
+        "Boosts CAPTCHA strength"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "passkey_phisher"
+      ]
+    },
+    {
+      "question": "What is an authenticator in passkey security?",
+      "choices": [
+        "Device or app that securely generates passkeys",
+        "Font generator",
+        "Password manager",
+        "VPN tool"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "passkey_phisher"
+      ]
+    },
+    {
+      "question": "Why is phishing harder with passkeys?",
+      "choices": [
+        "Passkeys are domain-bound and can't be reused elsewhere",
+        "They have fancy colors",
+        "They encrypt fonts",
+        "They boost WiFi"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "passkey_phisher"
+      ]
+    },
+    {
+      "question": "What is mutual TLS and its relation to phishing defense?",
+      "choices": [
+        "Both server and client authenticate each other",
+        "Encrypts fonts",
+        "Changes button shapes",
+        "Boosts download speed"
+      ],
+      "correct": 0,
+      "level": "hard",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "passkey_phisher"
+      ]
+    },
+    {
+      "question": "What is the role of hardware security keys in phishing defense?",
+      "choices": [
+        "Provide a physical factor to authenticate securely",
+        "Change font style",
+        "Boost UI animations",
+        "Encrypt browser history"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "passkey_phisher"
+      ]
+    },
+    {
+      "question": "What is credential phishing?",
+      "choices": [
+        "Tricking users to enter login details on fake sites",
+        "Resetting fonts",
+        "Changing themes",
+        "Encrypting buttons"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "passkey_phisher"
+      ]
+    },
+    {
+      "question": "What is device attestation in passkey systems?",
+      "choices": [
+        "Verifies that the device is genuine and secure",
+        "Confirms font licenses",
+        "Optimizes VPNs",
+        "Changes UI colors"
+      ],
+      "correct": 0,
+      "level": "hard",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "passkey_phisher"
+      ]
+    },
+    {
+      "question": "What is the best practice to educate users against passkey phishing?",
+      "choices": [
+        "User training on verifying site URLs and domains",
+        "Using colorful login buttons",
+        "Disabling dark mode",
+        "Installing fonts"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "passkey_phisher"
+      ]
+    }
+  ]
+}

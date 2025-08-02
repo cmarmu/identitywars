@@ -1,0 +1,329 @@
+{
+  "category": "biometric_spoofing",
+  "questions": [
+    {
+      "question": "What is biometric spoofing?",
+      "choices": [
+        "Faking biometric traits to bypass security",
+        "Improving fingerprints",
+        "Changing face filters",
+        "Enhancing WiFi"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "biometric_spoofing"
+      ]
+    },
+    {
+      "question": "Which biometric is commonly targeted by spoofing attacks?",
+      "choices": [
+        "Fingerprint",
+        "Facial recognition",
+        "Voice recognition",
+        "All of the above"
+      ],
+      "correct": 3,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "biometric_spoofing"
+      ]
+    },
+    {
+      "question": "What is a common method to spoof fingerprints?",
+      "choices": [
+        "Using molds or fake materials",
+        "Coloring nails",
+        "Typing faster",
+        "Changing themes"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "biometric_spoofing"
+      ]
+    },
+    {
+      "question": "What is liveness detection in biometrics?",
+      "choices": [
+        "Technology that verifies if the biometric input is from a live subject",
+        "Color detection",
+        "Font smoothing",
+        "VPN verification"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "biometric_spoofing"
+      ]
+    },
+    {
+      "question": "Which method is NOT effective for biometric spoofing defense?",
+      "choices": [
+        "Liveness detection",
+        "Multi-modal biometrics",
+        "Using static photos",
+        "Behavioral biometrics"
+      ],
+      "correct": 2,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "biometric_spoofing"
+      ]
+    },
+    {
+      "question": "What is multi-modal biometrics?",
+      "choices": [
+        "Combining multiple biometric methods",
+        "Changing font styles",
+        "Switching UI colors",
+        "Speeding up login"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "biometric_spoofing"
+      ]
+    },
+    {
+      "question": "Why is facial recognition vulnerable to spoofing?",
+      "choices": [
+        "Can be tricked with high-quality photos or masks",
+        "Changes colors",
+        "Encrypts fonts",
+        "Boosts WiFi"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "biometric_spoofing"
+      ]
+    },
+    {
+      "question": "What is a fun but ineffective way to prevent biometric spoofing?",
+      "choices": [
+        "Wearing funny glasses",
+        "Using liveness detection",
+        "Behavioral analysis",
+        "Multi-factor authentication"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "biometric_spoofing"
+      ]
+    },
+    {
+      "question": "What is behavioral biometrics?",
+      "choices": [
+        "Authentication based on user behavior like typing patterns",
+        "Enhancing colors",
+        "Changing fonts",
+        "Speeding up networks"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "biometric_spoofing"
+      ]
+    },
+    {
+      "question": "How can voice recognition be spoofed?",
+      "choices": [
+        "Using recorded or synthetic voices",
+        "Changing microphone settings",
+        "Encrypting sounds",
+        "Changing volume"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "biometric_spoofing"
+      ]
+    },
+    {
+      "question": "What is the role of challenge-response in spoof detection?",
+      "choices": [
+        "Prompts user for live interactions to verify authenticity",
+        "Speeds up login",
+        "Encrypts passwords",
+        "Boosts WiFi"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "biometric_spoofing"
+      ]
+    },
+    {
+      "question": "Why is biometric data sensitive?",
+      "choices": [
+        "It is unique and can't be easily changed",
+        "It colors UI",
+        "It boosts MFA",
+        "It encrypts fonts"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "biometric_spoofing"
+      ]
+    },
+    {
+      "question": "How can MFA enhance security with biometrics?",
+      "choices": [
+        "Adds an extra authentication layer",
+        "Speeds up login",
+        "Changes UI themes",
+        "Encrypts cookies"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "biometric_spoofing",
+        "MFA"
+      ]
+    },
+    {
+      "question": "What is a spoofing attack on iris recognition?",
+      "choices": [
+        "Using high-res iris images or contact lenses",
+        "Enhancing eye colors",
+        "Changing brightness",
+        "VPN spoofing"
+      ],
+      "correct": 0,
+      "level": "hard",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "biometric_spoofing"
+      ]
+    },
+    {
+      "question": "What is an example of liveness detection in facial recognition?",
+      "choices": [
+        "Prompting the user to blink",
+        "Changing background color",
+        "Increasing font size",
+        "Speeding up networks"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "biometric_spoofing"
+      ]
+    },
+    {
+      "question": "What does biometric spoofing threaten in identity systems like Okta or Auth0?",
+      "choices": [
+        "Compromise of authentication",
+        "Faster token issuance",
+        "Better UI",
+        "Encrypted cookies"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "biometric_spoofing",
+        "Okta",
+        "Auth0"
+      ]
+    },
+    {
+      "question": "Which biometric method is harder to spoof?",
+      "choices": [
+        "Behavioral biometrics",
+        "Static photos",
+        "Fingerprint copies",
+        "Audio recordings"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "biometric_spoofing"
+      ]
+    },
+    {
+      "question": "What is the consequence of biometric data theft?",
+      "choices": [
+        "Irreversible identity compromise",
+        "Temporary password resets",
+        "Changing themes",
+        "Font rendering issues"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "biometric_spoofing"
+      ]
+    },
+    {
+      "question": "What is the best practice against biometric spoofing?",
+      "choices": [
+        "Combine biometrics with MFA and liveness detection",
+        "Install more fonts",
+        "Enable dark mode",
+        "Upgrade monitors"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "biometric_spoofing",
+        "MFA"
+      ]
+    },
+    {
+      "question": "What does anti-spoofing software detect?",
+      "choices": [
+        "Fake biometric attempts",
+        "Captcha responses",
+        "Font size",
+        "WiFi speed"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "biometric_spoofing"
+      ]
+    }
+  ]
+}

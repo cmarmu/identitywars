@@ -1,0 +1,167 @@
+{
+  "category": "side_channel_attack",
+  "questions": [
+    {
+      "question": "What is a side-channel attack?",
+      "choices": [
+        "An attack that exploits physical or logical information leaks from a system",
+        "Changing fonts",
+        "Theme switching",
+        "VPN rerouting"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "side_channel_attack"
+      ]
+    },
+    {
+      "question": "Which of the following is an example of side-channel data?",
+      "choices": [
+        "Power consumption patterns",
+        "Font style metrics",
+        "Theme brightness",
+        "VPN bandwidth"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "side_channel_attack"
+      ]
+    },
+    {
+      "question": "What can side-channel attacks compromise?",
+      "choices": [
+        "Encryption keys",
+        "Font licenses",
+        "Theme configurations",
+        "Color palettes"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "side_channel_attack"
+      ]
+    },
+    {
+      "question": "Which of the following is NOT a side-channel?",
+      "choices": [
+        "Font rendering speed",
+        "Timing analysis",
+        "Electromagnetic leaks",
+        "Cache access patterns"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "side_channel_attack"
+      ]
+    },
+    {
+      "question": "What is a fun but ineffective way to prevent side-channel attacks?",
+      "choices": [
+        "Wrapping devices in tin foil hats",
+        "Implementing constant-time algorithms",
+        "Encrypting sensitive operations",
+        "Monitoring for unusual behavior"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "side_channel_attack"
+      ]
+    },
+    {
+      "question": "What is a constant-time algorithm?",
+      "choices": [
+        "An algorithm that executes in the same time regardless of input",
+        "A font styling method",
+        "Theme transition tool",
+        "WiFi enhancer"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "side_channel_attack"
+      ]
+    },
+    {
+      "question": "How can Okta or Auth0 help reduce side-channel risk indirectly?",
+      "choices": [
+        "By securing authentication layers to limit attacker footholds",
+        "Font obfuscation",
+        "Theme rotation",
+        "VPN compression"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "side_channel_attack",
+        "Okta",
+        "Auth0"
+      ]
+    },
+    {
+      "question": "What is cache timing in side-channel attacks?",
+      "choices": [
+        "Measuring access times to infer data",
+        "Font spacing timing",
+        "Theme rendering",
+        "VPN latency"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "side_channel_attack"
+      ]
+    },
+    {
+      "question": "Which hardware measure can help mitigate side-channel attacks?",
+      "choices": [
+        "Physical shielding",
+        "Font protection",
+        "Theme enforcement",
+        "Color masking"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "side_channel_attack"
+      ]
+    },
+    {
+      "question": "What is the best practice to mitigate side-channel risks?",
+      "choices": [
+        "Use constant-time algorithms, isolate sensitive workloads, hardware protections",
+        "Update fonts",
+        "Change themes",
+        "Enhance WiFi"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "side_channel_attack"
+      ]
+    }
+  ]
+}

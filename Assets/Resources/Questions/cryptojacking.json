@@ -1,0 +1,167 @@
+{
+  "category": "cryptojacking",
+  "questions": [
+    {
+      "question": "What is cryptojacking?",
+      "choices": [
+        "Unauthorized use of someone's device to mine cryptocurrency",
+        "Encrypting data for protection",
+        "Boosting fonts",
+        "Color calibration"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "cryptojacking"
+      ]
+    },
+    {
+      "question": "How do attackers deploy cryptojacking?",
+      "choices": [
+        "By infecting devices with malware or malicious scripts",
+        "Changing font settings",
+        "Optimizing UI",
+        "Boosting VPN"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "cryptojacking"
+      ]
+    },
+    {
+      "question": "What is the main impact of cryptojacking on victims?",
+      "choices": [
+        "Reduced device performance and increased power consumption",
+        "Better font rendering",
+        "Theme upgrades",
+        "Color shifting"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "cryptojacking"
+      ]
+    },
+    {
+      "question": "What is a common sign of cryptojacking?",
+      "choices": [
+        "High CPU usage",
+        "Font distortions",
+        "Color mismatches",
+        "WiFi speed boost"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "cryptojacking"
+      ]
+    },
+    {
+      "question": "What is a fun but ineffective way to prevent cryptojacking?",
+      "choices": [
+        "Naming your CPU 'TooHotToMine'",
+        "Using anti-malware tools",
+        "Ad blockers",
+        "Monitoring CPU activity"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "cryptojacking"
+      ]
+    },
+    {
+      "question": "What browser threat is often used for cryptojacking?",
+      "choices": [
+        "Malicious JavaScript on websites",
+        "Font injections",
+        "Theme changers",
+        "VPN extenders"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "cryptojacking"
+      ]
+    },
+    {
+      "question": "How can Okta or Auth0 assist indirectly with cryptojacking defense?",
+      "choices": [
+        "By monitoring abnormal login behaviors suggesting device compromise",
+        "Font monitoring",
+        "Color grading",
+        "VPN analysis"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "cryptojacking",
+        "Okta",
+        "Auth0"
+      ]
+    },
+    {
+      "question": "What is a preventive measure against browser-based cryptojacking?",
+      "choices": [
+        "Using browser extensions that block mining scripts",
+        "Font blockers",
+        "Theme managers",
+        "WiFi enhancers"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "cryptojacking"
+      ]
+    },
+    {
+      "question": "Which cryptocurrency is often mined via cryptojacking?",
+      "choices": [
+        "Monero",
+        "Bitcoin",
+        "Ethereum",
+        "Dogecoin"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "cryptojacking"
+      ]
+    },
+    {
+      "question": "What is the best practice to prevent cryptojacking?",
+      "choices": [
+        "Regular updates, anti-malware, browser protection, monitoring",
+        "Updating fonts",
+        "Changing themes",
+        "Color shifting"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "cryptojacking"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,165 @@
+{
+  "category": "supply_chain_attack",
+  "questions": [
+    {
+      "question": "What is a supply chain attack in cybersecurity?",
+      "choices": [
+        "Compromising a vendor to infiltrate a target organization",
+        "Speeding up shipping logistics",
+        "Font styling errors",
+        "Color mismatches"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "supply_chain_attack"
+      ]
+    },
+    {
+      "question": "Which infamous attack is an example of a supply chain attack?",
+      "choices": [
+        "SolarWinds",
+        "Wannacry",
+        "Heartbleed",
+        "Captcha Overflow"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "supply_chain_attack"
+      ]
+    },
+    {
+      "question": "How do attackers typically execute supply chain attacks?",
+      "choices": [
+        "By compromising software updates or third-party services",
+        "Upgrading fonts",
+        "Encrypting themes",
+        "Boosting WiFi"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "supply_chain_attack"
+      ]
+    },
+    {
+      "question": "What is a defense strategy against supply chain attacks?",
+      "choices": [
+        "Vendor risk assessment and code audits",
+        "Installing more fonts",
+        "Dark mode",
+        "WiFi encryption"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "supply_chain_attack"
+      ]
+    },
+    {
+      "question": "What is the role of Software Bill of Materials (SBOM)?",
+      "choices": [
+        "Provides transparency into software dependencies",
+        "Font listing tool",
+        "Color palette manager",
+        "UI debugger"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "supply_chain_attack"
+      ]
+    },
+    {
+      "question": "Why are supply chain attacks effective?",
+      "choices": [
+        "They exploit trust in third-party vendors",
+        "Boost font rendering",
+        "Speed up UI",
+        "Encrypt cookies"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "supply_chain_attack"
+      ]
+    },
+    {
+      "question": "What is a fun but ineffective way to prevent supply chain attacks?",
+      "choices": [
+        "Naming vendors 'SafeVendor'",
+        "Conducting regular audits",
+        "Implementing zero trust",
+        "Reviewing code integrity"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "supply_chain_attack"
+      ]
+    },
+    {
+      "question": "How can zero trust architecture help against supply chain attacks?",
+      "choices": [
+        "By continuously verifying access and trust",
+        "Enhancing fonts",
+        "Theme customization",
+        "VPN boosting"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "supply_chain_attack"
+      ]
+    },
+    {
+      "question": "What is the risk of third-party code in applications?",
+      "choices": [
+        "Potential hidden vulnerabilities or backdoors",
+        "Slow font loading",
+        "UI lag",
+        "Captcha failures"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "supply_chain_attack"
+      ]
+    },
+    {
+      "question": "What is the best practice to manage supply chain risks?",
+      "choices": [
+        "Implement vendor security assessments, SBOM, continuous monitoring",
+        "Install fonts",
+        "Change themes",
+        "Boost WiFi"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "supply_chain_attack"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,299 @@
+{
+  "category": "Phishing|MFA",
+  "questions": [
+    {
+      "question": "A phishing attempt collects a user\u2019s password. What happens if MFA is properly enforced?",
+      "choices": [
+        "The system allows access but sends a warning",
+        "The attacker receives fake data instead",
+        "The attacker can't log in without the second factor",
+        "The password is auto-changed"
+      ],
+      "correct": 2,
+      "level": "easy",
+      "technical": false,
+      "tags": []
+    },
+    {
+      "question": "Which type of MFA is most resistant to phishing?",
+      "choices": [
+        "Security questions",
+        "Email verification links",
+        "FIDO2 or WebAuthn hardware-based authenticators",
+        "SMS codes"
+      ],
+      "correct": 2,
+      "level": "hard",
+      "technical": true,
+      "tags": [
+        "MFA",
+        "WebAuthn"
+      ]
+    },
+    {
+      "question": "Which login flow design reduces the effectiveness of phishing, especially when paired with MFA?",
+      "choices": [
+        "Only allowing login in incognito mode",
+        "Using device-based push notifications for verification",
+        "Disabling copy-paste on password fields",
+        "Hiding the login button until 5 seconds pass"
+      ],
+      "correct": 1,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "Login Flows",
+        "MFA"
+      ]
+    },
+    {
+      "question": "Your system uses email and password + SMS code for login. Which part is still vulnerable to phishing?",
+      "choices": [
+        "The password is encrypted during login",
+        "The SMS code can be phished with real-time social engineering",
+        "The login form uses branding",
+        "The user\u2019s email is protected"
+      ],
+      "correct": 1,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "Phishing",
+        "MFA"
+      ]
+    },
+    {
+      "question": "Which of the following is a key reason MFA reduces phishing success rates?",
+      "choices": [
+        "It hides the login form",
+        "It deletes suspicious emails",
+        "Stolen credentials are not enough to access the account",
+        "It shortens the login timeout"
+      ],
+      "correct": 2,
+      "level": "medium",
+      "technical": false,
+      "tags": []
+    },
+    {
+      "question": "If a user reports a phishing attempt but has MFA enabled, what should the security team do next?",
+      "choices": [
+        "Disable MFA to avoid confusion",
+        "Ignore the report if MFA is active",
+        "Review access logs and educate the user, but the account is likely still secure",
+        "Reset all passwords in the system"
+      ],
+      "correct": 2,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "Incident Response"
+      ]
+    },
+    {
+      "question": "If a user reports a phishing attempt but has MFA enabled, what should the security team do next?",
+      "choices": [
+        "Ignore the report if MFA is active",
+        "Disable MFA to avoid confusion",
+        "Review access logs and educate the user, but the account is likely still secure",
+        "Reset all passwords in the system"
+      ],
+      "correct": 2,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "Incident Response"
+      ]
+    },
+    {
+      "question": "If a user reports a phishing attempt but has MFA enabled, what should the security team do next?",
+      "choices": [
+        "Reset all passwords in the system",
+        "Disable MFA to avoid confusion",
+        "Review access logs and educate the user, but the account is likely still secure",
+        "Ignore the report if MFA is active"
+      ],
+      "correct": 2,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "Incident Response"
+      ]
+    },
+    {
+      "question": "An employee accidentally enters their credentials on a fake login page. How does MFA help in this scenario?",
+      "choices": [
+        "It prevents access unless the attacker also has the second authentication factor",
+        "It disables the user's account automatically",
+        "It instantly revokes all user sessions",
+        "It blocks phishing emails from loading"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "MFA",
+        "Identity"
+      ]
+    },
+    {
+      "question": "An employee accidentally enters their credentials on a fake login page. How does MFA help in this scenario?",
+      "choices": [
+        "It blocks phishing emails from loading",
+        "It instantly revokes all user sessions",
+        "It prevents access unless the attacker also has the second authentication factor",
+        "It disables the user's account automatically"
+      ],
+      "correct": 2,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "MFA",
+        "Identity"
+      ]
+    },
+    {
+      "question": "Your system uses email and password + SMS code for login. Which part is still vulnerable to phishing?",
+      "choices": [
+        "The login form uses branding",
+        "The user\u2019s email is protected",
+        "The SMS code can be phished with real-time social engineering",
+        "The password is encrypted during login"
+      ],
+      "correct": 2,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "Phishing",
+        "MFA"
+      ]
+    },
+    {
+      "question": "If a user reports a phishing attempt but has MFA enabled, what should the security team do next?",
+      "choices": [
+        "Reset all passwords in the system",
+        "Disable MFA to avoid confusion",
+        "Review access logs and educate the user, but the account is likely still secure",
+        "Ignore the report if MFA is active"
+      ],
+      "correct": 2,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "Incident Response"
+      ]
+    },
+    {
+      "question": "Which type of MFA is most resistant to phishing?",
+      "choices": [
+        "Security questions",
+        "SMS codes",
+        "Email verification links",
+        "FIDO2 or WebAuthn hardware-based authenticators"
+      ],
+      "correct": 3,
+      "level": "hard",
+      "technical": true,
+      "tags": [
+        "MFA",
+        "WebAuthn"
+      ]
+    },
+    {
+      "question": "Which of the following is a key reason MFA reduces phishing success rates?",
+      "choices": [
+        "It deletes suspicious emails",
+        "It shortens the login timeout",
+        "Stolen credentials are not enough to access the account",
+        "It hides the login form"
+      ],
+      "correct": 2,
+      "level": "medium",
+      "technical": false,
+      "tags": []
+    },
+    {
+      "question": "A phishing attempt collects a user\u2019s password. What happens if MFA is properly enforced?",
+      "choices": [
+        "The password is auto-changed",
+        "The attacker receives fake data instead",
+        "The system allows access but sends a warning",
+        "The attacker can't log in without the second factor"
+      ],
+      "correct": 3,
+      "level": "easy",
+      "technical": false,
+      "tags": []
+    },
+    {
+      "question": "Why is it important to encourage users not to approve unexpected MFA prompts?",
+      "choices": [
+        "It slows down login systems",
+        "It could be a phishing attack trying to trick them into granting access",
+        "It drains battery faster",
+        "It logs them out of other devices"
+      ],
+      "correct": 1,
+      "level": "easy",
+      "technical": false,
+      "tags": []
+    },
+    {
+      "question": "Which of the following is a key reason MFA reduces phishing success rates?",
+      "choices": [
+        "It deletes suspicious emails",
+        "Stolen credentials are not enough to access the account",
+        "It shortens the login timeout",
+        "It hides the login form"
+      ],
+      "correct": 1,
+      "level": "medium",
+      "technical": false,
+      "tags": []
+    },
+    {
+      "question": "If a user reports a phishing attempt but has MFA enabled, what should the security team do next?",
+      "choices": [
+        "Reset all passwords in the system",
+        "Ignore the report if MFA is active",
+        "Review access logs and educate the user, but the account is likely still secure",
+        "Disable MFA to avoid confusion"
+      ],
+      "correct": 2,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "Incident Response"
+      ]
+    },
+    {
+      "question": "Why is it important to encourage users not to approve unexpected MFA prompts?",
+      "choices": [
+        "It could be a phishing attack trying to trick them into granting access",
+        "It drains battery faster",
+        "It slows down login systems",
+        "It logs them out of other devices"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": []
+    },
+    {
+      "question": "An employee accidentally enters their credentials on a fake login page. How does MFA help in this scenario?",
+      "choices": [
+        "It blocks phishing emails from loading",
+        "It disables the user's account automatically",
+        "It instantly revokes all user sessions",
+        "It prevents access unless the attacker also has the second authentication factor"
+      ],
+      "correct": 3,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "MFA",
+        "Identity"
+      ]
+    }
+  ]
+}

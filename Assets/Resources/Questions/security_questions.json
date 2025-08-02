@@ -1,0 +1,319 @@
+{
+  "category": "security_questions",
+  "questions": [
+    {
+      "question": "What are security questions in cybersecurity?",
+      "choices": [
+        "Pre-set questions used to verify identity during account recovery",
+        "A quiz on font styles",
+        "Theme selection criteria",
+        "VPN configuration steps"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "security_questions"
+      ]
+    },
+    {
+      "question": "Why are security questions considered weak authentication?",
+      "choices": [
+        "Answers can be easily guessed or found on social media",
+        "They rely on rare fonts",
+        "They depend on theme aesthetics",
+        "They require VPN encryption"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "security_questions"
+      ]
+    },
+    {
+      "question": "What is an example of a typical security question?",
+      "choices": [
+        "What is your mother's maiden name?",
+        "What font do you prefer?",
+        "What's your favorite theme?",
+        "What VPN do you use?"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "security_questions"
+      ]
+    },
+    {
+      "question": "What is a fun but insecure security question?",
+      "choices": [
+        "What was your first imaginary friend's name?",
+        "What city were you born in?",
+        "What was your first car?",
+        "What is your favorite color?"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "security_questions"
+      ]
+    },
+    {
+      "question": "What is the risk of reusing the same security question across platforms?",
+      "choices": [
+        "It allows attackers to compromise multiple accounts if one is breached",
+        "Fonts may become monotonous",
+        "Themes may repeat",
+        "VPNs may conflict"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "security_questions"
+      ]
+    },
+    {
+      "question": "What best practice can strengthen security questions?",
+      "choices": [
+        "Using obscure or false answers",
+        "Selecting rare fonts",
+        "Applying unique themes",
+        "Configuring custom VPN routes"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "security_questions"
+      ]
+    },
+    {
+      "question": "How does Okta address security question weaknesses?",
+      "choices": [
+        "By promoting stronger recovery methods like MFA",
+        "By updating fonts",
+        "By revising themes",
+        "By accelerating VPNs"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "security_questions",
+        "Okta",
+        "MFA"
+      ]
+    },
+    {
+      "question": "How can Auth0 improve account recovery security?",
+      "choices": [
+        "Through MFA and secure recovery flows",
+        "By securing fonts",
+        "By theming authentication",
+        "By routing VPN connections"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "security_questions",
+        "Auth0",
+        "MFA"
+      ]
+    },
+    {
+      "question": "What is the best alternative to security questions?",
+      "choices": [
+        "Multi-Factor Authentication (MFA)",
+        "Font obfuscation",
+        "Theme encryption",
+        "VPN masking"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "security_questions",
+        "MFA"
+      ]
+    },
+    {
+      "question": "What is a common exploitation method of weak security questions?",
+      "choices": [
+        "Social engineering to find answers",
+        "Font spoofing",
+        "Theme tampering",
+        "VPN snooping"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "security_questions",
+        "social_engineering"
+      ]
+    },
+    {
+      "question": "What makes a good security question?",
+      "choices": [
+        "Answer is unique, memorable, and hard to guess",
+        "Answer relates to fonts",
+        "Answer describes themes",
+        "Answer defines VPN speed"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "security_questions"
+      ]
+    },
+    {
+      "question": "What is the danger of public data in relation to security questions?",
+      "choices": [
+        "Public info can reveal answers to common questions",
+        "Public fonts may leak",
+        "Themes might be predictable",
+        "VPN nodes may be known"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "security_questions",
+        "privacy"
+      ]
+    },
+    {
+      "question": "What is security question entropy?",
+      "choices": [
+        "Measure of how hard it is to guess an answer",
+        "Font complexity",
+        "Theme intricacy",
+        "VPN entropy"
+      ],
+      "correct": 0,
+      "level": "hard",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "security_questions"
+      ]
+    },
+    {
+      "question": "Why should users avoid using the same answers for different accounts?",
+      "choices": [
+        "To prevent credential reuse attacks",
+        "To vary fonts",
+        "To diversify themes",
+        "To rotate VPN endpoints"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "security_questions",
+        "credential_reuse"
+      ]
+    },
+    {
+      "question": "What is a personalized security question?",
+      "choices": [
+        "Custom question created by the user",
+        "Personal font choice",
+        "Customized theme",
+        "User-selected VPN"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "security_questions"
+      ]
+    },
+    {
+      "question": "What is a common mistake when answering security questions?",
+      "choices": [
+        "Using real, easily available answers",
+        "Choosing obscure fonts",
+        "Picking rare themes",
+        "Selecting odd VPNs"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "security_questions"
+      ]
+    },
+    {
+      "question": "What is a recovery flow in relation to security questions?",
+      "choices": [
+        "The process to regain account access using stored answers",
+        "Font download flow",
+        "Theme installation",
+        "VPN connection recovery"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "security_questions",
+        "recovery_flows"
+      ]
+    },
+    {
+      "question": "What is the role of privacy settings in protecting security question answers?",
+      "choices": [
+        "They help limit exposure of personal info that could answer them",
+        "They hide fonts",
+        "They mask themes",
+        "They cloak VPN addresses"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "security_questions",
+        "privacy"
+      ]
+    },
+    {
+      "question": "What is the ultimate goal of security questions in security systems?",
+      "choices": [
+        "To provide a secondary form of authentication",
+        "To enhance font experience",
+        "To style themes",
+        "To configure VPN"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "security_questions"
+      ]
+    }
+  ]
+}

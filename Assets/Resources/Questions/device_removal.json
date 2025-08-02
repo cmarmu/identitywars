@@ -1,0 +1,312 @@
+{
+  "category": "device_removal",
+  "questions": [
+    {
+      "question": "What is device removal in cybersecurity?",
+      "choices": [
+        "Revoking a device's access to an account or system",
+        "Deleting fonts",
+        "Changing themes",
+        "Resetting VPN"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "device_removal"
+      ]
+    },
+    {
+      "question": "Why is device removal important for account security?",
+      "choices": [
+        "It helps prevent unauthorized access from lost or stolen devices",
+        "It keeps fonts clean",
+        "It refreshes themes",
+        "It boosts VPN speed"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "device_removal"
+      ]
+    },
+    {
+      "question": "What is a common reason to remove a device from an account?",
+      "choices": [
+        "The device is lost, stolen, or compromised",
+        "The font is outdated",
+        "The theme is old",
+        "The VPN is slow"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "device_removal"
+      ]
+    },
+    {
+      "question": "What is a fun but ineffective device removal method?",
+      "choices": [
+        "Throwing the device into a volcano",
+        "Using device management settings",
+        "Revoking tokens",
+        "Wiping remotely"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "device_removal"
+      ]
+    },
+    {
+      "question": "How does Okta support device removal?",
+      "choices": [
+        "Through device management and risk engine policies",
+        "Through font controls",
+        "Through theme editors",
+        "Through VPN logging"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "device_removal",
+        "Okta"
+      ]
+    },
+    {
+      "question": "How does Auth0 assist in device removal security?",
+      "choices": [
+        "Via session revocation and device tracking",
+        "By deactivating fonts",
+        "By blocking themes",
+        "By disabling VPN"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "device_removal",
+        "Auth0"
+      ]
+    },
+    {
+      "question": "What is session revocation in device removal?",
+      "choices": [
+        "Ending a device's session to cut access",
+        "Ending font session",
+        "Changing themes",
+        "Restarting VPN"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "device_removal"
+      ]
+    },
+    {
+      "question": "What is a security benefit of removing old devices?",
+      "choices": [
+        "Reduces the attack surface",
+        "Font efficiency",
+        "Theme cleanliness",
+        "VPN stability"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "device_removal"
+      ]
+    },
+    {
+      "question": "What is remote wipe capability?",
+      "choices": [
+        "Deleting data from a device remotely",
+        "Wiping fonts",
+        "Cleaning themes",
+        "Purging VPN logs"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "device_removal"
+      ]
+    },
+    {
+      "question": "What is device enrollment in security systems?",
+      "choices": [
+        "Registering a device for access control",
+        "Font enrollment",
+        "Theme assignment",
+        "VPN entry"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "device_removal"
+      ]
+    },
+    {
+      "question": "What is a compromised device indicator?",
+      "choices": [
+        "Unusual access patterns or location changes",
+        "Font distortions",
+        "Theme glitches",
+        "VPN rerouting"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "device_removal"
+      ]
+    },
+    {
+      "question": "What best practice aids in device removal policies?",
+      "choices": [
+        "Regularly review connected devices",
+        "Regularly review fonts",
+        "Inspect themes",
+        "Check VPN endpoints"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "device_removal"
+      ]
+    },
+    {
+      "question": "What is the role of audit logs in device removal?",
+      "choices": [
+        "Tracking device connections and removals",
+        "Tracking font usage",
+        "Logging theme changes",
+        "Tracking VPN sessions"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "device_removal"
+      ]
+    },
+    {
+      "question": "What can happen if a compromised device is not removed?",
+      "choices": [
+        "Continued unauthorized access to sensitive data",
+        "Font corruption",
+        "Theme crash",
+        "VPN leaks"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "device_removal"
+      ]
+    },
+    {
+      "question": "What is device trust scoring?",
+      "choices": [
+        "Rating devices based on risk indicators",
+        "Font rating",
+        "Theme grading",
+        "VPN scoring"
+      ],
+      "correct": 0,
+      "level": "hard",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "device_removal"
+      ]
+    },
+    {
+      "question": "What is the impact of device removal on MFA?",
+      "choices": [
+        "It may trigger re-registration of MFA methods",
+        "It updates fonts",
+        "It redesigns themes",
+        "It refreshes VPNs"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "device_removal",
+        "MFA"
+      ]
+    },
+    {
+      "question": "What tool can help enforce device removal?",
+      "choices": [
+        "MDM (Mobile Device Management) systems",
+        "Font management apps",
+        "Theme designers",
+        "VPN managers"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "device_removal"
+      ]
+    },
+    {
+      "question": "What is the best practice for device removal in organizations?",
+      "choices": [
+        "Automate revocation and regularly audit devices",
+        "Automate font changes",
+        "Automate theme swaps",
+        "Automate VPN switches"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "device_removal"
+      ]
+    },
+    {
+      "question": "What is the ultimate goal of device removal?",
+      "choices": [
+        "Maintain security by ensuring only trusted devices have access",
+        "Clean fonts",
+        "Simplify themes",
+        "Speed up VPN"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "device_removal"
+      ]
+    }
+  ]
+}

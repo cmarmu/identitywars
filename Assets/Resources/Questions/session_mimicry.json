@@ -1,0 +1,328 @@
+{
+  "category": "session_mimicry",
+  "questions": [
+    {
+      "question": "What is session mimicry in cybersecurity?",
+      "choices": [
+        "Impersonating a legitimate session to bypass security",
+        "Speeding up browsing",
+        "Font optimization",
+        "Theme customization"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "session_mimicry"
+      ]
+    },
+    {
+      "question": "How does session mimicry typically work?",
+      "choices": [
+        "By replicating session tokens or behaviors",
+        "By enhancing fonts",
+        "Through UI modifications",
+        "By speeding up MFA"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "session_mimicry"
+      ]
+    },
+    {
+      "question": "Which is a primary risk of session mimicry?",
+      "choices": [
+        "Account takeover without triggering alarms",
+        "Color changes",
+        "Font theft",
+        "WiFi acceleration"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "session_mimicry"
+      ]
+    },
+    {
+      "question": "What is a session token?",
+      "choices": [
+        "A unique identifier for user sessions",
+        "A font file",
+        "A theme color",
+        "A VPN password"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "session_mimicry"
+      ]
+    },
+    {
+      "question": "What is a common defense against session mimicry?",
+      "choices": [
+        "Token binding",
+        "Font binding",
+        "Color encryption",
+        "Theme locking"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "session_mimicry"
+      ]
+    },
+    {
+      "question": "What is token binding?",
+      "choices": [
+        "Linking session tokens to a specific device",
+        "Encrypting fonts",
+        "Color matching",
+        "WiFi binding"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "session_mimicry"
+      ]
+    },
+    {
+      "question": "How does anomaly detection help prevent session mimicry?",
+      "choices": [
+        "Detects deviations from normal session behavior",
+        "Font mismatch detection",
+        "Theme integrity check",
+        "VPN monitoring"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "session_mimicry"
+      ]
+    },
+    {
+      "question": "What is a fun but ineffective way to prevent session mimicry?",
+      "choices": [
+        "Naming tokens 'UnhackableToken'",
+        "Using token binding",
+        "Anomaly detection",
+        "MFA enforcement"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "session_mimicry"
+      ]
+    },
+    {
+      "question": "How can MFA reduce risks associated with session mimicry?",
+      "choices": [
+        "Adds an additional verification layer",
+        "Encrypts fonts",
+        "Changes UI colors",
+        "Speeds up browsing"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "session_mimicry",
+        "MFA"
+      ]
+    },
+    {
+      "question": "Which vulnerability can enable session mimicry?",
+      "choices": [
+        "Session fixation",
+        "Font injection",
+        "Color overflow",
+        "Theme hijacking"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "session_mimicry"
+      ]
+    },
+    {
+      "question": "What is session fixation?",
+      "choices": [
+        "An attacker forcing a known session ID",
+        "Fixing fonts",
+        "Color calibration",
+        "WiFi optimization"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "session_mimicry"
+      ]
+    },
+    {
+      "question": "What role does IP monitoring play in detecting session mimicry?",
+      "choices": [
+        "Flags session access from unexpected IPs",
+        "Font tracing",
+        "Color detection",
+        "VPN speed testing"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "session_mimicry"
+      ]
+    },
+    {
+      "question": "What is device fingerprinting?",
+      "choices": [
+        "Identifying devices based on unique traits",
+        "Font mapping",
+        "Color coding",
+        "Theme identification"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "session_mimicry"
+      ]
+    },
+    {
+      "question": "How can Okta or Auth0 help defend against session mimicry?",
+      "choices": [
+        "Enable anomaly detection and MFA",
+        "Improve fonts",
+        "Change token colors",
+        "Boost VPN"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "session_mimicry",
+        "Okta",
+        "Auth0"
+      ]
+    },
+    {
+      "question": "What is the danger of stolen session tokens?",
+      "choices": [
+        "Allows attackers to impersonate users",
+        "Boosts font styles",
+        "Enhances UI",
+        "Encrypts VPN"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "session_mimicry"
+      ]
+    },
+    {
+      "question": "What is a session timeout?",
+      "choices": [
+        "Ends inactive sessions after a period",
+        "Font timeout",
+        "Color refresh",
+        "Theme expiration"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "session_mimicry"
+      ]
+    },
+    {
+      "question": "Why is session management important in web security?",
+      "choices": [
+        "Prevents hijacking and mimicry",
+        "Enhances fonts",
+        "Speeds up WiFi",
+        "Changes themes"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "session_mimicry"
+      ]
+    },
+    {
+      "question": "What is session replay?",
+      "choices": [
+        "Reusing captured session data to impersonate users",
+        "Font reapplication",
+        "Color recalibration",
+        "VPN replay"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "session_mimicry"
+      ]
+    },
+    {
+      "question": "What is a defense-in-depth approach to session mimicry?",
+      "choices": [
+        "Combining MFA, token binding, anomaly detection, session management",
+        "Font layering",
+        "Color gradients",
+        "Theme stacks"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "session_mimicry"
+      ]
+    },
+    {
+      "question": "What is the ultimate goal of session mimicry attacks?",
+      "choices": [
+        "Gain unauthorized access without detection",
+        "Font access",
+        "Color theft",
+        "VPN speedup"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "session_mimicry"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,318 @@
+{
+  "category": "passkeys",
+  "questions": [
+    {
+      "question": "What is a passkey in cybersecurity?",
+      "choices": [
+        "A passwordless authentication method using public-key cryptography",
+        "A font access token",
+        "A theme switcher",
+        "A VPN passphrase"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "passkeys"
+      ]
+    },
+    {
+      "question": "What problem do passkeys aim to solve?",
+      "choices": [
+        "Eliminating password reuse and phishing risks",
+        "Font mismatches",
+        "Theme errors",
+        "VPN downtimes"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "passkeys"
+      ]
+    },
+    {
+      "question": "Which organizations promote passkey standards?",
+      "choices": [
+        "FIDO Alliance and W3C",
+        "Font Bureau",
+        "Theme Council",
+        "VPN Federation"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "passkeys",
+        "FIDO"
+      ]
+    },
+    {
+      "question": "What technology underpins passkeys?",
+      "choices": [
+        "Public-private key cryptography",
+        "Font encryption",
+        "Theme hiding",
+        "VPN masking"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "passkeys"
+      ]
+    },
+    {
+      "question": "What is a fun but ineffective passkey?",
+      "choices": [
+        "A doodle drawn on your hand",
+        "FIDO-certified passkey",
+        "Biometric-backed passkey",
+        "Hardware security key"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "passkeys"
+      ]
+    },
+    {
+      "question": "What platform supports passkeys natively?",
+      "choices": [
+        "Apple iOS and macOS",
+        "FontLab",
+        "ThemeForge",
+        "VPN Hub"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "passkeys",
+        "Apple"
+      ]
+    },
+    {
+      "question": "How do passkeys resist phishing?",
+      "choices": [
+        "They only work with the registered domain",
+        "Fonts are site-bound",
+        "Themes are locked",
+        "VPNs are domain-specific"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "passkeys"
+      ]
+    },
+    {
+      "question": "What is the role of Okta with passkeys?",
+      "choices": [
+        "Integrates passwordless options including passkeys",
+        "Font licensing",
+        "Theme switching",
+        "VPN options"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "passkeys",
+        "Okta"
+      ]
+    },
+    {
+      "question": "What is the role of Auth0 with passkeys?",
+      "choices": [
+        "Enabling WebAuthn-based authentication",
+        "Font authentication",
+        "Theme verification",
+        "VPN protocol handling"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "passkeys",
+        "Auth0",
+        "WebAuthn"
+      ]
+    },
+    {
+      "question": "What is WebAuthn?",
+      "choices": [
+        "A web standard for secure, passwordless authentication",
+        "Font API",
+        "Theme manager",
+        "VPN portal"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "passkeys",
+        "WebAuthn"
+      ]
+    },
+    {
+      "question": "How are passkeys stored securely on devices?",
+      "choices": [
+        "Using device-bound secure elements or TPM",
+        "Font vaults",
+        "Theme lockers",
+        "VPN encryption"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "passkeys"
+      ]
+    },
+    {
+      "question": "Can passkeys be synchronized across devices?",
+      "choices": [
+        "Yes, via cloud keychains or password managers",
+        "Fonts can sync",
+        "Themes can sync",
+        "VPN configs sync"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "passkeys"
+      ]
+    },
+    {
+      "question": "What is device attestation in passkeys?",
+      "choices": [
+        "Proving that the device storing the passkey is genuine",
+        "Font proofing",
+        "Theme stamping",
+        "VPN certificates"
+      ],
+      "correct": 0,
+      "level": "hard",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "passkeys"
+      ]
+    },
+    {
+      "question": "What is a recovery option for passkeys?",
+      "choices": [
+        "Backup device or cloud sync",
+        "Re-download fonts",
+        "Restore themes",
+        "VPN reset"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "passkeys"
+      ]
+    },
+    {
+      "question": "What does passkey adoption help prevent?",
+      "choices": [
+        "Credential phishing and reuse attacks",
+        "Font piracy",
+        "Theme theft",
+        "VPN leakage"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "passkeys"
+      ]
+    },
+    {
+      "question": "What device feature is often paired with passkeys?",
+      "choices": [
+        "Biometric sensors like Face ID or fingerprint scanners",
+        "Font readers",
+        "Theme pickers",
+        "VPN dialers"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "passkeys",
+        "biometrics"
+      ]
+    },
+    {
+      "question": "What is the best practice for organizations adopting passkeys?",
+      "choices": [
+        "Integrate FIDO2-compliant authentication solutions",
+        "Integrate fonts",
+        "Apply themes",
+        "Configure VPNs"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "passkeys",
+        "FIDO2"
+      ]
+    },
+    {
+      "question": "What is the role of MFA in relation to passkeys?",
+      "choices": [
+        "Passkeys can serve as a secure factor in MFA",
+        "Fonts can be an MFA factor",
+        "Themes can protect MFA",
+        "VPNs are MFA"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "passkeys",
+        "MFA"
+      ]
+    },
+    {
+      "question": "What is the ultimate goal of passkeys?",
+      "choices": [
+        "To replace passwords entirely with secure authentication",
+        "To replace fonts",
+        "To replace themes",
+        "To replace VPNs"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "passkeys"
+      ]
+    }
+  ]
+}

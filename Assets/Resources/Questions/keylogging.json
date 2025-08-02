@@ -1,0 +1,329 @@
+{
+  "category": "keylogging",
+  "questions": [
+    {
+      "question": "What is keylogging?",
+      "choices": [
+        "Recording keystrokes to capture sensitive data",
+        "Logging keyboard sounds",
+        "Optimizing typing speed",
+        "Changing font styles"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "keylogging"
+      ]
+    },
+    {
+      "question": "What kind of data do keyloggers typically steal?",
+      "choices": [
+        "Passwords",
+        "Credit card numbers",
+        "Personal messages",
+        "All of the above"
+      ],
+      "correct": 3,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "keylogging"
+      ]
+    },
+    {
+      "question": "How can keyloggers be installed?",
+      "choices": [
+        "Phishing emails",
+        "Malicious downloads",
+        "Physical device installation",
+        "All of the above"
+      ],
+      "correct": 3,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "keylogging"
+      ]
+    },
+    {
+      "question": "What is a hardware keylogger?",
+      "choices": [
+        "A physical device capturing keystrokes",
+        "A keyboard enhancement tool",
+        "A font changer",
+        "A typing speed tracker"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "keylogging"
+      ]
+    },
+    {
+      "question": "What is a common method to prevent keyloggers?",
+      "choices": [
+        "Using antivirus software",
+        "MFA",
+        "Monitoring system processes",
+        "All of the above"
+      ],
+      "correct": 3,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "keylogging"
+      ]
+    },
+    {
+      "question": "What is the risk of keyloggers for identity providers like Okta or Auth0?",
+      "choices": [
+        "Compromised user credentials",
+        "Enhanced MFA",
+        "Faster login",
+        "Better UI themes"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "keylogging",
+        "Okta",
+        "Auth0"
+      ]
+    },
+    {
+      "question": "Which OS feature can help detect keyloggers?",
+      "choices": [
+        "Task Manager",
+        "System logs",
+        "Antivirus alerts",
+        "All of the above"
+      ],
+      "correct": 3,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "keylogging"
+      ]
+    },
+    {
+      "question": "Which of these is NOT a defense against keylogging?",
+      "choices": [
+        "Antivirus software",
+        "On-screen keyboards",
+        "MFA",
+        "Typing faster"
+      ],
+      "correct": 3,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "keylogging"
+      ]
+    },
+    {
+      "question": "How does MFA mitigate keylogger risks?",
+      "choices": [
+        "Provides a second layer of security even if passwords are stolen",
+        "Disables keyloggers",
+        "Encrypts the keyboard",
+        "Blocks pop-ups"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "keylogging",
+        "MFA"
+      ]
+    },
+    {
+      "question": "What is a fun but ineffective way to prevent keylogging?",
+      "choices": [
+        "Naming your keyboard 'HackerProof'",
+        "Using antivirus",
+        "Implementing MFA",
+        "Monitoring devices"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "keylogging"
+      ]
+    },
+    {
+      "question": "How do on-screen keyboards help against keyloggers?",
+      "choices": [
+        "By preventing physical keystroke logging",
+        "Encrypting passwords",
+        "Disabling phishing emails",
+        "Boosting WiFi speed"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "keylogging"
+      ]
+    },
+    {
+      "question": "Which type of malware often includes keyloggers?",
+      "choices": [
+        "Trojans",
+        "Adware",
+        "Ransomware",
+        "Spyware"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "keylogging"
+      ]
+    },
+    {
+      "question": "What is a sign of a potential keylogger infection?",
+      "choices": [
+        "Slow typing response",
+        "Unexpected CPU spikes",
+        "Strange background processes",
+        "All of the above"
+      ],
+      "correct": 3,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "keylogging"
+      ]
+    },
+    {
+      "question": "What is keystroke encryption?",
+      "choices": [
+        "Encrypting keystrokes to prevent logging",
+        "Encrypting emails",
+        "Encrypting WiFi",
+        "Encrypting fonts"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "keylogging"
+      ]
+    },
+    {
+      "question": "What role does endpoint protection play in keylogger defense?",
+      "choices": [
+        "Detects and blocks suspicious keylogging behavior",
+        "Improves UI",
+        "Boosts typing speed",
+        "None"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "keylogging"
+      ]
+    },
+    {
+      "question": "How can physical security help prevent keylogging?",
+      "choices": [
+        "Preventing unauthorized device access",
+        "Speeding up logins",
+        "Changing desktop themes",
+        "Boosting internet speed"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "keylogging"
+      ]
+    },
+    {
+      "question": "What should you do if you suspect a keylogger?",
+      "choices": [
+        "Run antivirus scan",
+        "Change passwords from a secure device",
+        "Inform security teams",
+        "All of the above"
+      ],
+      "correct": 3,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "keylogging"
+      ]
+    },
+    {
+      "question": "Which advanced technique can help detect keyloggers?",
+      "choices": [
+        "Behavioral analysis tools",
+        "Font changers",
+        "Dark mode",
+        "Captcha"
+      ],
+      "correct": 0,
+      "level": "hard",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "keylogging"
+      ]
+    },
+    {
+      "question": "How do keyloggers threaten MFA-protected accounts?",
+      "choices": [
+        "They can capture the first factor but not the second",
+        "They bypass MFA entirely",
+        "They encrypt the factors",
+        "They optimize MFA speed"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "keylogging",
+        "MFA"
+      ]
+    },
+    {
+      "question": "What is a key defense against keylogging for corporate environments?",
+      "choices": [
+        "Endpoint detection and response (EDR)",
+        "More colorful keyboards",
+        "Boosting WiFi",
+        "Disabling USB ports"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "keylogging"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,349 @@
+{
+  "category": "session_hijacking",
+  "questions": [
+    {
+      "question": "What is session hijacking often compared to in the real world?",
+      "choices": [
+        "Stealing someone's bus ticket",
+        "Guessing someone's ATM PIN",
+        "Stealing a cookie from the browser jar",
+        "Phishing an email password"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "identity",
+        "session security",
+        "cybersecurity"
+      ]
+    },
+    {
+      "question": "Which header can help prevent session hijacking in modern web applications?",
+      "choices": [
+        "X-Frame-Options",
+        "Strict-Transport-Security",
+        "X-Session-Hack-Prevention",
+        "Content-Type"
+      ],
+      "correct": 1,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "web security",
+        "headers"
+      ]
+    },
+    {
+      "question": "Which technique is commonly used in session hijacking attacks?",
+      "choices": [
+        "Man-in-the-Middle (MitM)",
+        "MFA spoofing",
+        "Cookie theft",
+        "Password spraying"
+      ],
+      "correct": 2,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "identity",
+        "session security",
+        "cybersecurity"
+      ]
+    },
+    {
+      "question": "What is a critical defense against session hijacking for identity providers like Okta and Auth0?",
+      "choices": [
+        "Implementing MFA",
+        "Serving cookies with 'HttpOnly' and 'Secure' flags",
+        "Using outdated OAuth protocols",
+        "Allowing password reuse"
+      ],
+      "correct": 1,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "MFA",
+        "Okta",
+        "Auth0",
+        "cybersecurity"
+      ]
+    },
+    {
+      "question": "In session hijacking, what is a 'session fixation' attack?",
+      "choices": [
+        "Fixating a user's password in memory",
+        "Forcing a user to use a known session ID",
+        "Sending users fixed captcha challenges",
+        "Fixating cookies with a super glue analogy"
+      ],
+      "correct": 1,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "session security",
+        "cybersecurity"
+      ]
+    },
+    {
+      "question": "Which security feature helps ensure that a session belongs to the original user?",
+      "choices": [
+        "IP Address Binding",
+        "Single Sign-On (SSO)",
+        "Social Engineering",
+        "Brute Force Login"
+      ],
+      "correct": 0,
+      "level": "hard",
+      "technical": true,
+      "tags": [
+        "identity",
+        "Okta",
+        "Auth0",
+        "cybersecurity"
+      ]
+    },
+    {
+      "question": "Which method is least effective against session hijacking?",
+      "choices": [
+        "Enforcing HTTPS",
+        "Implementing MFA",
+        "Storing session tokens in localStorage",
+        "Rotating session IDs after login"
+      ],
+      "correct": 2,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "session security",
+        "web security",
+        "cybersecurity"
+      ]
+    },
+    {
+      "question": "Why is HTTPS essential in preventing session hijacking?",
+      "choices": [
+        "It encrypts the session ID in transit",
+        "It blocks pop-up ads",
+        "It makes websites load faster",
+        "It stops users from typing wrong passwords"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "web security",
+        "session security",
+        "cybersecurity"
+      ]
+    },
+    {
+      "question": "Which of these practices helps Okta and Auth0 protect sessions?",
+      "choices": [
+        "Storing session tokens in plaintext",
+        "Setting cookie 'SameSite' attribute",
+        "Allowing long-lived sessions forever",
+        "Sharing session IDs via email"
+      ],
+      "correct": 1,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "Okta",
+        "Auth0",
+        "session security",
+        "cybersecurity"
+      ]
+    },
+    {
+      "question": "What is the role of MFA in session hijacking prevention?",
+      "choices": [
+        "It makes sessions longer",
+        "It requires multiple factors to access or re-authenticate a session",
+        "It sends your credentials to hackers faster",
+        "It disables session timeouts"
+      ],
+      "correct": 1,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "MFA",
+        "cybersecurity",
+        "identity"
+      ]
+    },
+    {
+      "question": "Which of the following is a common sign of session hijacking?",
+      "choices": [
+        "User receives an email from their pet",
+        "Unexpected logout or session expiration",
+        "System updates suddenly run faster",
+        "Seeing unicorns on the login screen"
+      ],
+      "correct": 1,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "identity",
+        "session security",
+        "cybersecurity"
+      ]
+    },
+    {
+      "question": "What is a secure way to store session tokens on a web client?",
+      "choices": [
+        "localStorage",
+        "sessionStorage",
+        "HttpOnly cookies",
+        "On a sticky note by your monitor"
+      ],
+      "correct": 2,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "session security",
+        "web security",
+        "cybersecurity"
+      ]
+    },
+    {
+      "question": "How do Auth0 and Okta often handle suspicious session activity?",
+      "choices": [
+        "Ignore it and hope for the best",
+        "Send alerts and prompt re-authentication",
+        "Play elevator music to distract attackers",
+        "Extend session expiration time"
+      ],
+      "correct": 1,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "Okta",
+        "Auth0",
+        "identity",
+        "cybersecurity"
+      ]
+    },
+    {
+      "question": "Which protocol helps secure session data in transit?",
+      "choices": [
+        "FTP",
+        "TLS",
+        "HTTP",
+        "Morse Code"
+      ],
+      "correct": 1,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "web security",
+        "cybersecurity",
+        "session security"
+      ]
+    },
+    {
+      "question": "Why should session IDs be rotated after authentication?",
+      "choices": [
+        "To keep hackers dizzy",
+        "To prevent session fixation attacks",
+        "To make sessions slower",
+        "To reduce MFA prompts"
+      ],
+      "correct": 1,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "session security",
+        "cybersecurity",
+        "identity"
+      ]
+    },
+    {
+      "question": "What is a pitfall of using bearer tokens without proper security measures?",
+      "choices": [
+        "They become sentient and escape",
+        "They can be intercepted and reused by attackers",
+        "They improve performance automatically",
+        "They force users to change passwords daily"
+      ],
+      "correct": 1,
+      "level": "hard",
+      "technical": true,
+      "tags": [
+        "session security",
+        "identity",
+        "cybersecurity"
+      ]
+    },
+    {
+      "question": "Which of these is NOT a recommended practice to prevent session hijacking?",
+      "choices": [
+        "Using HttpOnly cookies",
+        "Implementing MFA",
+        "Disabling logout",
+        "Enforcing short session lifetimes"
+      ],
+      "correct": 2,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "MFA",
+        "cybersecurity",
+        "session security"
+      ]
+    },
+    {
+      "question": "In Okta or Auth0, what feature can limit session hijacking risks?",
+      "choices": [
+        "IP whitelisting",
+        "Unlimited token reuse",
+        "Encouraging password sharing",
+        "Unsecured HTTP endpoints"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "Okta",
+        "Auth0",
+        "cybersecurity",
+        "identity"
+      ]
+    },
+    {
+      "question": "Which OWASP category does session hijacking typically fall under?",
+      "choices": [
+        "A3: Sensitive Data Exposure",
+        "A2: Broken Authentication",
+        "A7: Cross-Site Scripting (XSS)",
+        "A10: Insufficient Logging & Monitoring"
+      ],
+      "correct": 1,
+      "level": "hard",
+      "technical": true,
+      "tags": [
+        "OWASP",
+        "cybersecurity",
+        "web security"
+      ]
+    },
+    {
+      "question": "What is a fun but incorrect way to prevent session hijacking?",
+      "choices": [
+        "Enabling MFA",
+        "Using HTTPS",
+        "Naming your session token 'Unhackable123'",
+        "Setting HttpOnly on cookies"
+      ],
+      "correct": 2,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "MFA",
+        "session security"
+      ]
+    }
+  ]
+}

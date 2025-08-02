@@ -1,0 +1,167 @@
+{
+  "category": "api_abuse",
+  "questions": [
+    {
+      "question": "What is API abuse in cybersecurity?",
+      "choices": [
+        "Exploiting application programming interfaces in unintended ways",
+        "Font mishandling",
+        "Theme misuse",
+        "VPN hacking"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "api_abuse"
+      ]
+    },
+    {
+      "question": "What can API abuse lead to?",
+      "choices": [
+        "Data breaches, rate limiting bypass, service disruption",
+        "Font corruption",
+        "Theme overwriting",
+        "Color mismatch"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "api_abuse"
+      ]
+    },
+    {
+      "question": "What is an example of API abuse?",
+      "choices": [
+        "Credential stuffing via login APIs",
+        "Font tweaking",
+        "Theme coloring",
+        "WiFi monitoring"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "api_abuse"
+      ]
+    },
+    {
+      "question": "What is rate limiting in APIs?",
+      "choices": [
+        "Restricting the number of API calls from a client",
+        "Font restriction",
+        "Theme pacing",
+        "VPN throttling"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "api_abuse"
+      ]
+    },
+    {
+      "question": "What is a fun but ineffective way to prevent API abuse?",
+      "choices": [
+        "Naming your API 'SafeAPI'",
+        "Implementing authentication and rate limits",
+        "Using API gateways",
+        "Monitoring usage patterns"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "api_abuse"
+      ]
+    },
+    {
+      "question": "What is an API gateway?",
+      "choices": [
+        "A tool that manages and secures API traffic",
+        "Font installer",
+        "Theme portal",
+        "VPN router"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "api_abuse"
+      ]
+    },
+    {
+      "question": "How can Okta or Auth0 help prevent API abuse?",
+      "choices": [
+        "By securing APIs with proper authentication and authorization",
+        "Font protection",
+        "Theme validation",
+        "VPN filtering"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "api_abuse",
+        "Okta",
+        "Auth0"
+      ]
+    },
+    {
+      "question": "What is token-based authentication in APIs?",
+      "choices": [
+        "A system where users authenticate via access tokens",
+        "Font tokens",
+        "Theme codes",
+        "Color markers"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "api_abuse"
+      ]
+    },
+    {
+      "question": "What is OWASP API Security Top 10?",
+      "choices": [
+        "A list of top API security risks",
+        "Font top 10 list",
+        "Theme vulnerabilities",
+        "VPN best practices"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "api_abuse"
+      ]
+    },
+    {
+      "question": "What is the best practice to prevent API abuse?",
+      "choices": [
+        "Authentication, authorization, rate limiting, logging",
+        "Update fonts",
+        "Change themes",
+        "Encrypt colors"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "api_abuse"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "category": "vishing",
+  "questions": [
+    {
+      "question": "What is vishing?",
+      "choices": [
+        "Voice phishing using phone calls to deceive victims",
+        "Visual font changes",
+        "Theme voice modulation",
+        "VPN enhancement"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "vishing"
+      ]
+    },
+    {
+      "question": "What is a common goal of vishing?",
+      "choices": [
+        "Stealing sensitive information like passwords or financial data",
+        "Changing fonts",
+        "Theme tuning",
+        "WiFi encryption"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "vishing"
+      ]
+    },
+    {
+      "question": "What is an example of a vishing attack?",
+      "choices": [
+        "Caller pretending to be from a bank asking for account details",
+        "Font seller calls",
+        "Theme designer pings",
+        "VPN upgrade calls"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "vishing"
+      ]
+    },
+    {
+      "question": "What is a fun but ineffective way to prevent vishing?",
+      "choices": [
+        "Answering every call with 'Who dis?'",
+        "Awareness training",
+        "Using caller ID verification",
+        "Never sharing sensitive info via calls"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "vishing"
+      ]
+    },
+    {
+      "question": "What technology can help detect vishing scams?",
+      "choices": [
+        "Caller ID and AI-based call screening",
+        "Font checkers",
+        "Theme validators",
+        "Color detectors"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "vishing"
+      ]
+    },
+    {
+      "question": "How can Okta or Auth0 help mitigate vishing risks indirectly?",
+      "choices": [
+        "By securing authentication and reducing reliance on phone-based verifications",
+        "Font alignment",
+        "Theme scanning",
+        "VPN boosting"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "vishing",
+        "Okta",
+        "Auth0"
+      ]
+    },
+    {
+      "question": "What is an effective personal defense against vishing?",
+      "choices": [
+        "Never share sensitive information over unsolicited calls",
+        "Font checks",
+        "Theme backups",
+        "WiFi resets"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "vishing"
+      ]
+    },
+    {
+      "question": "What is social engineering in vishing?",
+      "choices": [
+        "Manipulating people into revealing confidential info via calls",
+        "Font engineering",
+        "Theme blending",
+        "Color engineering"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "vishing"
+      ]
+    },
+    {
+      "question": "What should you do if you suspect a vishing attempt?",
+      "choices": [
+        "Hang up and contact the organization directly",
+        "Change fonts",
+        "Reset themes",
+        "Encrypt colors"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "vishing"
+      ]
+    },
+    {
+      "question": "What is the best practice to prevent vishing attacks?",
+      "choices": [
+        "User education, caller verification, avoid sharing data via calls",
+        "Update fonts",
+        "Change themes",
+        "WiFi updates"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "vishing"
+      ]
+    }
+  ]
+}

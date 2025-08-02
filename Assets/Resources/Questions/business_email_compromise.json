@@ -1,0 +1,167 @@
+{
+  "category": "business_email_compromise",
+  "questions": [
+    {
+      "question": "What is Business Email Compromise (BEC)?",
+      "choices": [
+        "A scam where attackers impersonate executives to trick employees",
+        "Font compromise",
+        "Theme glitch",
+        "VPN boosting"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "business_email_compromise"
+      ]
+    },
+    {
+      "question": "What is a common goal of BEC attacks?",
+      "choices": [
+        "Wire fraud and unauthorized fund transfers",
+        "Font encryption",
+        "Color rebalancing",
+        "Boosting WiFi"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "business_email_compromise"
+      ]
+    },
+    {
+      "question": "Which role is often impersonated in BEC scams?",
+      "choices": [
+        "CEO or CFO",
+        "Font designers",
+        "Theme artists",
+        "VPN admins"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "business_email_compromise"
+      ]
+    },
+    {
+      "question": "What is domain spoofing?",
+      "choices": [
+        "Creating fake domains that look like legitimate ones",
+        "Font spoofing",
+        "Color shifting",
+        "Theme recycling"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "business_email_compromise"
+      ]
+    },
+    {
+      "question": "What is a fun but ineffective way to stop BEC?",
+      "choices": [
+        "Adding 'RealCEO' to email signatures",
+        "Employee training",
+        "Email verification tools",
+        "MFA enforcement"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "business_email_compromise"
+      ]
+    },
+    {
+      "question": "How can email security filters help against BEC?",
+      "choices": [
+        "Detect spoofed and suspicious emails",
+        "Encrypt fonts",
+        "Change UI themes",
+        "Optimize WiFi"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "business_email_compromise"
+      ]
+    },
+    {
+      "question": "What is a red flag of a BEC attempt?",
+      "choices": [
+        "Urgent requests for money transfers",
+        "Font mismatches",
+        "Theme inconsistencies",
+        "VPN errors"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "business_email_compromise"
+      ]
+    },
+    {
+      "question": "How can Okta or Auth0 reduce BEC risks?",
+      "choices": [
+        "By enabling MFA and monitoring login anomalies",
+        "Font auditing",
+        "Color grading",
+        "VPN speed boosting"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "business_email_compromise",
+        "Okta",
+        "Auth0"
+      ]
+    },
+    {
+      "question": "What is DMARC in email security?",
+      "choices": [
+        "A protocol to authenticate email domains and prevent spoofing",
+        "Font rendering tool",
+        "Theme optimizer",
+        "VPN checker"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "business_email_compromise"
+      ]
+    },
+    {
+      "question": "What is the best practice to prevent BEC?",
+      "choices": [
+        "Employee training, email filtering, DMARC, MFA",
+        "Update fonts",
+        "Rotate themes",
+        "VPN patches"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "business_email_compromise"
+      ]
+    }
+  ]
+}

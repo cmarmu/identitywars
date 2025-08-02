@@ -1,0 +1,313 @@
+{
+  "category": "patch_management",
+  "questions": [
+    {
+      "question": "What is patch management in cybersecurity?",
+      "choices": [
+        "The process of applying updates to software to fix vulnerabilities",
+        "Managing font styles",
+        "Organizing themes",
+        "Tuning VPN connections"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "patch_management"
+      ]
+    },
+    {
+      "question": "Why is patch management important?",
+      "choices": [
+        "It helps close security vulnerabilities before attackers exploit them",
+        "To correct fonts",
+        "To update themes",
+        "To reset VPNs"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "patch_management"
+      ]
+    },
+    {
+      "question": "What is a security patch?",
+      "choices": [
+        "A software update specifically designed to fix a vulnerability",
+        "A font update",
+        "A theme refresh",
+        "A VPN booster"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "patch_management"
+      ]
+    },
+    {
+      "question": "What is a fun but ineffective patching method?",
+      "choices": [
+        "Covering vulnerabilities with duct tape",
+        "Deploying official vendor patches",
+        "Testing patches in staging",
+        "Using automated tools"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "patch_management"
+      ]
+    },
+    {
+      "question": "What is the risk of not applying patches?",
+      "choices": [
+        "Leaving systems exposed to known exploits",
+        "Font obsolescence",
+        "Theme staleness",
+        "VPN slowness"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "patch_management"
+      ]
+    },
+    {
+      "question": "What is zero-day vulnerability in patching context?",
+      "choices": [
+        "A flaw exploited before a patch is available",
+        "A new font issue",
+        "An outdated theme",
+        "A slow VPN"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "patch_management",
+        "zero_day"
+      ]
+    },
+    {
+      "question": "What is a patch management policy?",
+      "choices": [
+        "A set of rules for applying updates consistently and securely",
+        "Font styling policy",
+        "Theme colors guide",
+        "VPN regulation"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "patch_management"
+      ]
+    },
+    {
+      "question": "How does Okta maintain security with patch management?",
+      "choices": [
+        "Regular updates to address vulnerabilities in identity services",
+        "Font patches",
+        "Theme refreshes",
+        "VPN protocols"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "patch_management",
+        "Okta"
+      ]
+    },
+    {
+      "question": "What is the role of Auth0 in patching?",
+      "choices": [
+        "Keeps identity and access systems updated against threats",
+        "Font maintenance",
+        "Theme upgrades",
+        "VPN updates"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "patch_management",
+        "Auth0"
+      ]
+    },
+    {
+      "question": "What is patch testing?",
+      "choices": [
+        "Validating patches in a controlled environment before deployment",
+        "Testing fonts",
+        "Trialing themes",
+        "Simulating VPN connections"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "patch_management"
+      ]
+    },
+    {
+      "question": "What is automated patch management?",
+      "choices": [
+        "Using tools to deploy patches automatically",
+        "Font automation",
+        "Theme scripting",
+        "VPN toggles"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "patch_management"
+      ]
+    },
+    {
+      "question": "What is a patch window?",
+      "choices": [
+        "Scheduled time for deploying patches",
+        "Font update slot",
+        "Theme replacement time",
+        "VPN maintenance"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "patch_management"
+      ]
+    },
+    {
+      "question": "What is rollback in patch management?",
+      "choices": [
+        "Reverting to a previous state if a patch causes issues",
+        "Undoing fonts",
+        "Reverting themes",
+        "Disconnecting VPN"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "patch_management"
+      ]
+    },
+    {
+      "question": "What is a patch baseline?",
+      "choices": [
+        "A standard of what patches should be installed on systems",
+        "Font baseline",
+        "Theme standard",
+        "VPN standard"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "patch_management"
+      ]
+    },
+    {
+      "question": "What is CVE in patch management?",
+      "choices": [
+        "Common Vulnerabilities and Exposures database of known flaws",
+        "Common Visual Enhancements",
+        "Creative Theme Vault",
+        "Certified VPN Engines"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "patch_management",
+        "CVE"
+      ]
+    },
+    {
+      "question": "What is the best practice for patch management in production systems?",
+      "choices": [
+        "Test in staging, schedule deployments, monitor for issues",
+        "Test fonts live",
+        "Switch themes at peak",
+        "Restart VPNs during business hours"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "patch_management"
+      ]
+    },
+    {
+      "question": "What is patch prioritization?",
+      "choices": [
+        "Addressing critical vulnerabilities before less severe ones",
+        "Prioritizing fonts",
+        "Theme selection",
+        "VPN preference"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "patch_management"
+      ]
+    },
+    {
+      "question": "What can delay patch management?",
+      "choices": [
+        "Compatibility testing requirements",
+        "Font rendering delays",
+        "Theme conflicts",
+        "VPN bandwidth"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "patch_management"
+      ]
+    },
+    {
+      "question": "What is the ultimate goal of patch management?",
+      "choices": [
+        "Maintaining system security, stability, and compliance",
+        "Enhancing fonts",
+        "Perfecting themes",
+        "Optimizing VPN"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "patch_management"
+      ]
+    }
+  ]
+}

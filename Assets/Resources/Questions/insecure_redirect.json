@@ -1,0 +1,326 @@
+{
+  "category": "insecure_redirect",
+  "questions": [
+    {
+      "question": "What is an insecure redirect?",
+      "choices": [
+        "Redirecting traffic without validation",
+        "Redirecting emails to spam",
+        "Redirecting network cables physically",
+        "Changing browser themes"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "web security"
+      ]
+    },
+    {
+      "question": "Why are insecure redirects dangerous?",
+      "choices": [
+        "They can lead users to malicious sites",
+        "They improve website speed",
+        "They encrypt data better",
+        "They disable pop-ups"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "web security"
+      ]
+    },
+    {
+      "question": "Which OWASP category includes insecure redirects?",
+      "choices": [
+        "Broken Authentication",
+        "Unvalidated Redirects and Forwards",
+        "Sensitive Data Exposure",
+        "Broken Access Control"
+      ],
+      "correct": 1,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "OWASP",
+        "cybersecurity"
+      ]
+    },
+    {
+      "question": "What is a common exploitation method for insecure redirects?",
+      "choices": [
+        "Manipulating URL parameters",
+        "Changing browser cookies",
+        "Using SQL injection",
+        "Phishing emails only"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "web security"
+      ]
+    },
+    {
+      "question": "How can developers prevent insecure redirects?",
+      "choices": [
+        "Validate redirect URLs against a whitelist",
+        "Disable HTTPS",
+        "Allow all redirects",
+        "Add more CSS"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "web security"
+      ]
+    },
+    {
+      "question": "Which is an example of insecure redirect?",
+      "choices": [
+        "redirect.php?url=http://malicious.com",
+        "index.html",
+        "favicon.ico",
+        "robots.txt"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "web security"
+      ]
+    },
+    {
+      "question": "What is an open redirect vulnerability?",
+      "choices": [
+        "A redirect that allows arbitrary URLs to be passed",
+        "Redirecting to internal dashboards",
+        "Redirecting to HTTP pages",
+        "None of the above"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "web security"
+      ]
+    },
+    {
+      "question": "Which mitigation is effective against insecure redirects?",
+      "choices": [
+        "Parameter validation",
+        "MFA",
+        "Cookie encryption",
+        "Adding CAPTCHA"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "web security"
+      ]
+    },
+    {
+      "question": "Which of the following is NOT a risk of insecure redirects?",
+      "choices": [
+        "Phishing",
+        "Malware delivery",
+        "Performance optimization",
+        "Loss of user trust"
+      ],
+      "correct": 2,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "web security"
+      ]
+    },
+    {
+      "question": "How can security teams detect insecure redirects?",
+      "choices": [
+        "Web vulnerability scanners",
+        "Watching browser colors",
+        "Analyzing font sizes",
+        "Observing captcha times"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "web security"
+      ]
+    },
+    {
+      "question": "What is the impact of combining insecure redirects with phishing?",
+      "choices": [
+        "Users are tricked into fake sites",
+        "Faster login processes",
+        "Enhanced SEO",
+        "Better UI themes"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "web security"
+      ]
+    },
+    {
+      "question": "Which security header helps prevent certain redirect-based attacks?",
+      "choices": [
+        "Content-Security-Policy",
+        "X-Powered-By",
+        "Server-Timing",
+        "Font-Policy"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "web security"
+      ]
+    },
+    {
+      "question": "What is a fun but ineffective way to prevent insecure redirects?",
+      "choices": [
+        "Renaming URLs to 'SafeRedirect'",
+        "Validating redirect URLs",
+        "Implementing CSP headers",
+        "Enforcing HTTPS"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "web security"
+      ]
+    },
+    {
+      "question": "What is the primary purpose of URL validation in redirects?",
+      "choices": [
+        "Ensure redirects only go to trusted domains",
+        "Make URLs prettier",
+        "Increase page load speed",
+        "Enable dark mode"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "web security"
+      ]
+    },
+    {
+      "question": "What is the consequence of failing to validate redirect destinations?",
+      "choices": [
+        "Potential for phishing and malware delivery",
+        "Better branding",
+        "Improved captcha effectiveness",
+        "Increased font diversity"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "web security"
+      ]
+    },
+    {
+      "question": "Which common coding mistake leads to insecure redirects?",
+      "choices": [
+        "Using user-supplied data directly in redirect URLs",
+        "Hardcoding URLs",
+        "Using HTTPS by default",
+        "Sanitizing input data"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "web security"
+      ]
+    },
+    {
+      "question": "How can Okta or Auth0 help mitigate insecure redirect risks?",
+      "choices": [
+        "Implementing strict redirect URI validation",
+        "Allowing redirects to any domain",
+        "Disabling token expiry",
+        "Ignoring domain verification"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "Okta",
+        "Auth0",
+        "cybersecurity"
+      ]
+    },
+    {
+      "question": "What is the relationship between OAuth and insecure redirects?",
+      "choices": [
+        "Misconfigured OAuth redirect URIs can be exploited",
+        "OAuth removes all redirects",
+        "OAuth disables MFA",
+        "OAuth enhances UI themes"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "OAuth",
+        "cybersecurity"
+      ]
+    },
+    {
+      "question": "What does 'open redirect' allow attackers to do?",
+      "choices": [
+        "Redirect users to arbitrary malicious sites",
+        "Encrypt all user data",
+        "Enable MFA silently",
+        "Improve password strength"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "web security"
+      ]
+    },
+    {
+      "question": "What can users do to protect themselves from insecure redirects?",
+      "choices": [
+        "Verify URLs before clicking",
+        "Never click anything",
+        "Disable the internet",
+        "Install more fonts"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "web security"
+      ]
+    }
+  ]
+}

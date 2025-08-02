@@ -1,0 +1,462 @@
+{
+  "category": "phishing",
+  "questions": [
+    {
+      "question": "How does Auth0 help prevent phishing through its Universal Login feature?",
+      "choices": [
+        "By centralizing authentication with branded, consistent login pages",
+        "By encrypting passwords with custom algorithms",
+        "By generating a new username for every session",
+        "By disabling OAuth flows temporarily"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "Auth0",
+        "Phishing",
+        "Identity"
+      ]
+    },
+    {
+      "question": "What security feature does Okta provide to detect potential phishing during logins?",
+      "choices": [
+        "User Behavior Analytics to flag anomalous login patterns",
+        "Automatic password resets every login",
+        "Disabling email as a login identifier",
+        "Embedding reCAPTCHA on logout"
+      ],
+      "correct": 0,
+      "level": "hard",
+      "technical": true,
+      "tags": [
+        "Okta",
+        "Phishing",
+        "Security"
+      ]
+    },
+    {
+      "question": "In OAuth 2.0, how can phishing be mitigated during the authorization process?",
+      "choices": [
+        "By using Proof Key for Code Exchange (PKCE) to bind authorization codes to the client",
+        "By encrypting the user's password in the authorization request",
+        "By issuing longer-lived tokens by default",
+        "By requiring users to type their password twice"
+      ],
+      "correct": 0,
+      "level": "hard",
+      "technical": true,
+      "tags": [
+        "OAuth",
+        "PKCE",
+        "Phishing"
+      ]
+    },
+    {
+      "question": "What is a common phishing risk associated with SAML-based Single Sign-On?",
+      "choices": [
+        "Users can be tricked into visiting fake IdP login pages",
+        "SAML tokens cannot be encrypted",
+        "It requires passwords to be stored locally",
+        "It bypasses MFA entirely"
+      ],
+      "correct": 0,
+      "level": "hard",
+      "technical": true,
+      "tags": [
+        "SAML",
+        "SSO",
+        "Phishing"
+      ]
+    },
+    {
+      "question": "How can an identity provider like Okta help prevent phishing at login?",
+      "choices": [
+        "By enforcing custom domains for login to prevent domain spoofing",
+        "By randomizing login page designs",
+        "By allowing any third-party to manage MFA policies",
+        "By shortening session timeouts to 1 minute"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "Okta",
+        "Phishing",
+        "Identity"
+      ]
+    },
+    {
+      "question": "How does WebAuthn help prevent phishing in identity platforms like Auth0 or Okta?",
+      "choices": [
+        "It binds authentication to the origin, preventing credential interception on fake sites",
+        "It encrypts passwords using asymmetric encryption",
+        "It forces users to change devices for every login",
+        "It disables MFA for known devices"
+      ],
+      "correct": 0,
+      "level": "hard",
+      "technical": true,
+      "tags": [
+        "WebAuthn",
+        "Phishing",
+        "Identity"
+      ]
+    },
+    {
+      "question": "What Okta feature helps detect phishing through session anomalies?",
+      "choices": [
+        "Risk-based Authentication policies",
+        "Randomized login forms",
+        "Daily forced password changes",
+        "Multiple simultaneous MFA prompts"
+      ],
+      "correct": 0,
+      "level": "hard",
+      "technical": true,
+      "tags": [
+        "Okta",
+        "Phishing"
+      ]
+    },
+    {
+      "question": "How can OAuth redirect URIs be abused in phishing attacks?",
+      "choices": [
+        "If improperly validated, users can be redirected to malicious sites post-authentication",
+        "They encrypt passwords locally before submission",
+        "They enforce device fingerprinting",
+        "They disable user prompts during token issuance"
+      ],
+      "correct": 0,
+      "level": "hard",
+      "technical": true,
+      "tags": [
+        "OAuth",
+        "Phishing"
+      ]
+    },
+    {
+      "question": "How does using custom domains in Auth0 enhance phishing protection?",
+      "choices": [
+        "It ensures users always authenticate via familiar, branded URLs",
+        "It hides the login form in an iframe",
+        "It forces logout on multiple devices",
+        "It enables passwordless by default"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "Auth0",
+        "Phishing"
+      ]
+    },
+    {
+      "question": "Why is enforcing MFA critical in preventing phishing on identity platforms like Okta and Auth0?",
+      "choices": [
+        "It blocks account access even if credentials are phished",
+        "It encrypts user credentials before phishing attempts",
+        "It anonymizes user email addresses",
+        "It increases session length for convenience"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": false,
+      "tags": [
+        "MFA",
+        "Phishing",
+        "Identity"
+      ]
+    },
+    {
+      "question": "Which of these is a common trait of a spear phishing attempt?",
+      "choices": [
+        "It\u2019s sent to thousands of users at once",
+        "It only targets your spam folder",
+        "It references something specific you did recently",
+        "It contains lots of emojis"
+      ],
+      "correct": 2,
+      "level": "hard",
+      "technical": true,
+      "tags": [
+        "Identity"
+      ]
+    },
+    {
+      "question": "You're building a login page. What design choice can help users detect phishing?",
+      "choices": [
+        "Minimize text and use emojis",
+        "Randomize button placements for security",
+        "Use clear domain branding and avoid redirects",
+        "Add animations and sound effects"
+      ],
+      "correct": 2,
+      "level": "hard",
+      "technical": true,
+      "tags": [
+        "Login Flows",
+        "Identity"
+      ]
+    },
+    {
+      "question": "A phishing site perfectly mimics a bank\u2019s login page. What\u2019s a key way to identify it\u2019s fake?",
+      "choices": [
+        "It uses dark mode by default",
+        "The login form is too simple",
+        "The URL doesn't match the real domain",
+        "It doesn't have a background image"
+      ],
+      "correct": 2,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "Identity"
+      ]
+    },
+    {
+      "question": "You receive an email saying 'Your account was compromised, click here to reset your password.' What's the most important thing to check first?",
+      "choices": [
+        "How urgent the message sounds",
+        "If your name is capitalized",
+        "The sender's address and the URL link",
+        "Whether the email has a logo"
+      ],
+      "correct": 2,
+      "level": "easy",
+      "technical": false,
+      "tags": []
+    },
+    {
+      "question": "You're building a login page. What design choice can help users detect phishing?",
+      "choices": [
+        "Minimize text and use emojis",
+        "Add animations and sound effects",
+        "Randomize button placements for security",
+        "Use clear domain branding and avoid redirects"
+      ],
+      "correct": 3,
+      "level": "hard",
+      "technical": true,
+      "tags": [
+        "Login Flows",
+        "Identity"
+      ]
+    },
+    {
+      "question": "A phishing site tricks a user into logging in. What can the attacker now do?",
+      "choices": [
+        "Back up the user\u2019s cloud photos",
+        "Automatically upgrade the user's plan",
+        "Use the stolen credentials to impersonate the user",
+        "Improve their SEO ranking"
+      ],
+      "correct": 2,
+      "level": "easy",
+      "technical": false,
+      "tags": []
+    },
+    {
+      "question": "Which of these is a common trait of a spear phishing attempt?",
+      "choices": [
+        "It only targets your spam folder",
+        "It contains lots of emojis",
+        "It references something specific you did recently",
+        "It\u2019s sent to thousands of users at once"
+      ],
+      "correct": 2,
+      "level": "hard",
+      "technical": true,
+      "tags": [
+        "Identity"
+      ]
+    },
+    {
+      "question": "Why might phishing emails intentionally include typos or poor grammar?",
+      "choices": [
+        "Because English is banned in some regions",
+        "To avoid triggering spam filters",
+        "To appear more relatable",
+        "To filter out more tech-savvy users"
+      ],
+      "correct": 3,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "Social Engineering"
+      ]
+    },
+    {
+      "question": "Which statement about HTTPS is true when it comes to phishing?",
+      "choices": [
+        "A phishing site can still have a valid HTTPS certificate",
+        "HTTPS guarantees the site is legitimate",
+        "HTTPS is only used by banks and e-commerce",
+        "If it\u2019s HTTPS, phishing is impossible"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "Certificates"
+      ]
+    },
+    {
+      "question": "Why is multi-factor authentication a strong defense against phishing?",
+      "choices": [
+        "It encrypts the entire email thread",
+        "It hides your email address from attackers",
+        "It blocks phishing emails from loading images",
+        "It requires an attacker to steal something beyond just your password"
+      ],
+      "correct": 3,
+      "level": "medium",
+      "technical": false,
+      "tags": []
+    },
+    {
+      "question": "Which statement about HTTPS is true when it comes to phishing?",
+      "choices": [
+        "If it\u2019s HTTPS, phishing is impossible",
+        "HTTPS is only used by banks and e-commerce",
+        "A phishing site can still have a valid HTTPS certificate",
+        "HTTPS guarantees the site is legitimate"
+      ],
+      "correct": 2,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "Certificates"
+      ]
+    },
+    {
+      "question": "Which statement about HTTPS is true when it comes to phishing?",
+      "choices": [
+        "A phishing site can still have a valid HTTPS certificate",
+        "HTTPS is only used by banks and e-commerce",
+        "If it\u2019s HTTPS, phishing is impossible",
+        "HTTPS guarantees the site is legitimate"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "Certificates"
+      ]
+    },
+    {
+      "question": "Why might phishing emails intentionally include typos or poor grammar?",
+      "choices": [
+        "To appear more relatable",
+        "To filter out more tech-savvy users",
+        "To avoid triggering spam filters",
+        "Because English is banned in some regions"
+      ],
+      "correct": 1,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "Social Engineering"
+      ]
+    },
+    {
+      "question": "What is one reason attackers often use shortened URLs in phishing emails?",
+      "choices": [
+        "To improve deliverability in spam filters",
+        "To avoid using images",
+        "To hide the actual destination domain",
+        "To allow multiple links in one message"
+      ],
+      "correct": 2,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "Encryption",
+        "Login Flows"
+      ]
+    },
+    {
+      "question": "Why is multi-factor authentication a strong defense against phishing?",
+      "choices": [
+        "It blocks phishing emails from loading images",
+        "It encrypts the entire email thread",
+        "It hides your email address from attackers",
+        "It requires an attacker to steal something beyond just your password"
+      ],
+      "correct": 3,
+      "level": "medium",
+      "technical": false,
+      "tags": []
+    },
+    {
+      "question": "You receive an email saying 'Your account was compromised, click here to reset your password.' What's the most important thing to check first?",
+      "choices": [
+        "Whether the email has a logo",
+        "If your name is capitalized",
+        "The sender's address and the URL link",
+        "How urgent the message sounds"
+      ],
+      "correct": 2,
+      "level": "easy",
+      "technical": false,
+      "tags": []
+    },
+    {
+      "question": "Your coworker received an email asking for gift cards 'as a surprise for the CEO.' What should they do?",
+      "choices": [
+        "Buy the gift cards and expense it",
+        "Forward it to the CEO to ask",
+        "Report it as phishing to the security team",
+        "Reply asking which kind of gift cards"
+      ],
+      "correct": 2,
+      "level": "easy",
+      "technical": false,
+      "tags": []
+    },
+    {
+      "question": "Why is multi-factor authentication a strong defense against phishing?",
+      "choices": [
+        "It hides your email address from attackers",
+        "It requires an attacker to steal something beyond just your password",
+        "It encrypts the entire email thread",
+        "It blocks phishing emails from loading images"
+      ],
+      "correct": 1,
+      "level": "medium",
+      "technical": false,
+      "tags": []
+    },
+    {
+      "question": "A phishing site perfectly mimics a bank\u2019s login page. What\u2019s a key way to identify it\u2019s fake?",
+      "choices": [
+        "The URL doesn't match the real domain",
+        "The login form is too simple",
+        "It doesn't have a background image",
+        "It uses dark mode by default"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "Identity"
+      ]
+    },
+    {
+      "question": "What is one reason attackers often use shortened URLs in phishing emails?",
+      "choices": [
+        "To avoid using images",
+        "To improve deliverability in spam filters",
+        "To hide the actual destination domain",
+        "To allow multiple links in one message"
+      ],
+      "correct": 2,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "Encryption",
+        "Login Flows"
+      ]
+    }
+  ]
+}

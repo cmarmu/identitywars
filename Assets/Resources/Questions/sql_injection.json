@@ -1,0 +1,167 @@
+{
+  "category": "sql_injection",
+  "questions": [
+    {
+      "question": "What is SQL Injection?",
+      "choices": [
+        "Injecting malicious SQL queries into input fields to manipulate databases",
+        "Font injection",
+        "Theme swapping",
+        "VPN bypass"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "sql_injection"
+      ]
+    },
+    {
+      "question": "What is the main goal of SQL Injection?",
+      "choices": [
+        "Accessing, modifying, or deleting database information",
+        "Font customization",
+        "Theme enhancement",
+        "Color coding"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "sql_injection"
+      ]
+    },
+    {
+      "question": "What is a common sign of a successful SQL Injection?",
+      "choices": [
+        "Unexpected database errors or unauthorized data access",
+        "Font resizing",
+        "Theme reset",
+        "WiFi lag"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "sql_injection"
+      ]
+    },
+    {
+      "question": "Which database command is often abused in SQL Injection?",
+      "choices": [
+        "SELECT",
+        "RESIZE",
+        "PALETTE",
+        "CONNECT"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "sql_injection"
+      ]
+    },
+    {
+      "question": "What is a fun but ineffective way to prevent SQL Injection?",
+      "choices": [
+        "Naming your tables 'UnhackableData'",
+        "Using prepared statements",
+        "Input validation",
+        "Parameter binding"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "sql_injection"
+      ]
+    },
+    {
+      "question": "What are prepared statements?",
+      "choices": [
+        "SQL queries that safely handle user inputs",
+        "Font presets",
+        "Theme templates",
+        "Color presets"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "sql_injection"
+      ]
+    },
+    {
+      "question": "How can Okta or Auth0 help defend against SQL Injection indirectly?",
+      "choices": [
+        "By securing authentication and preventing unauthorized access",
+        "Font auditing",
+        "Theme fixing",
+        "VPN logging"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "sql_injection",
+        "Okta",
+        "Auth0"
+      ]
+    },
+    {
+      "question": "What is input validation?",
+      "choices": [
+        "Checking and sanitizing user input to prevent malicious data",
+        "Font correction",
+        "Theme checking",
+        "Color testing"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "sql_injection"
+      ]
+    },
+    {
+      "question": "What is the OWASP Top 10 in relation to SQL Injection?",
+      "choices": [
+        "A list highlighting major web application risks including SQL Injection",
+        "Font list",
+        "Theme ranking",
+        "VPN categories"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "sql_injection"
+      ]
+    },
+    {
+      "question": "What is the best practice to prevent SQL Injection?",
+      "choices": [
+        "Use prepared statements, input validation, ORM frameworks",
+        "Update fonts",
+        "Change themes",
+        "Encrypt colors"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "sql_injection"
+      ]
+    }
+  ]
+}

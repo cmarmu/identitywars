@@ -1,0 +1,341 @@
+{
+  "category": "token_theft",
+  "questions": [
+    {
+      "question": "What is token theft in the context of cybersecurity?",
+      "choices": [
+        "Stealing a concert ticket",
+        "Stealing authentication tokens to impersonate users",
+        "Downloading memes without permission",
+        "Stealing physical security tokens"
+      ],
+      "correct": 1,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "identity",
+        "cybersecurity",
+        "authentication"
+      ]
+    },
+    {
+      "question": "Which protocol is commonly exploited in token theft attacks?",
+      "choices": [
+        "SMTP",
+        "OAuth",
+        "FTP",
+        "Morse Code"
+      ],
+      "correct": 1,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "OAuth",
+        "identity",
+        "cybersecurity"
+      ]
+    },
+    {
+      "question": "What is a bearer token?",
+      "choices": [
+        "A token carried by a bear",
+        "A token that grants access without additional verification",
+        "A password in disguise",
+        "A deprecated form of MFA"
+      ],
+      "correct": 1,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "identity",
+        "authentication",
+        "cybersecurity"
+      ]
+    },
+    {
+      "question": "Which best practice can help mitigate token theft in OAuth implementations?",
+      "choices": [
+        "Use of PKCE",
+        "Using plaintext tokens",
+        "Sharing tokens via email",
+        "Avoiding MFA"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "OAuth",
+        "identity",
+        "cybersecurity"
+      ]
+    },
+    {
+      "question": "Which of these is NOT a method to secure tokens?",
+      "choices": [
+        "Setting HttpOnly on cookies",
+        "Storing tokens in localStorage",
+        "Using SameSite cookie attributes",
+        "Encrypting tokens in transit"
+      ],
+      "correct": 1,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "web security",
+        "cybersecurity",
+        "authentication"
+      ]
+    },
+    {
+      "question": "What is the role of token expiration in security?",
+      "choices": [
+        "It makes tokens reusable forever",
+        "It limits the time window for token misuse",
+        "It makes sessions longer",
+        "It prevents need for re-authentication"
+      ],
+      "correct": 1,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "authentication",
+        "identity"
+      ]
+    },
+    {
+      "question": "How can token theft impact identity providers like Okta or Auth0?",
+      "choices": [
+        "It can lead to unauthorized access",
+        "It improves login speed",
+        "It reduces server load",
+        "It promotes stronger encryption by itself"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "Okta",
+        "Auth0",
+        "identity",
+        "cybersecurity"
+      ]
+    },
+    {
+      "question": "Which is a recommended storage for access tokens in browsers?",
+      "choices": [
+        "localStorage",
+        "sessionStorage",
+        "HttpOnly cookies",
+        "Clipboard"
+      ],
+      "correct": 2,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "web security",
+        "cybersecurity",
+        "identity"
+      ]
+    },
+    {
+      "question": "What is the main risk of storing tokens in localStorage?",
+      "choices": [
+        "They get lonely",
+        "They are vulnerable to XSS attacks",
+        "They expire faster",
+        "They convert to cookies"
+      ],
+      "correct": 1,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "web security",
+        "cybersecurity"
+      ]
+    },
+    {
+      "question": "How does MFA help prevent damage from token theft?",
+      "choices": [
+        "It blocks XSS automatically",
+        "It adds a second layer of verification even if tokens are stolen",
+        "It replaces tokens entirely",
+        "It removes the need for HTTPS"
+      ],
+      "correct": 1,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "MFA",
+        "cybersecurity",
+        "identity"
+      ]
+    },
+    {
+      "question": "Which header helps protect against token theft via cross-site attacks?",
+      "choices": [
+        "Content-Type",
+        "X-Content-Type-Options",
+        "Content-Security-Policy",
+        "Authorization"
+      ],
+      "correct": 2,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "web security",
+        "cybersecurity"
+      ]
+    },
+    {
+      "question": "What is 'refresh token rotation'?",
+      "choices": [
+        "Rotating tokens in a washing machine",
+        "Changing refresh tokens after each use to prevent theft impact",
+        "Resetting all user passwords",
+        "Encrypting tokens with Base64"
+      ],
+      "correct": 1,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "OAuth",
+        "identity",
+        "cybersecurity"
+      ]
+    },
+    {
+      "question": "Which attack technique often leads to token theft?",
+      "choices": [
+        "SQL Injection",
+        "Cross-Site Scripting (XSS)",
+        "Phishing",
+        "Brute Force"
+      ],
+      "correct": 1,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "web security",
+        "cybersecurity"
+      ]
+    },
+    {
+      "question": "What is the purpose of the 'audience' claim in tokens?",
+      "choices": [
+        "To entertain the user",
+        "To specify the intended recipient of the token",
+        "To encrypt the token",
+        "To prolong token validity"
+      ],
+      "correct": 1,
+      "level": "hard",
+      "technical": true,
+      "tags": [
+        "OAuth",
+        "identity",
+        "cybersecurity"
+      ]
+    },
+    {
+      "question": "What is a sign your token might have been stolen?",
+      "choices": [
+        "You get logged out unexpectedly",
+        "Your tokens start tweeting",
+        "You receive login alerts from unknown devices",
+        "Both A and C"
+      ],
+      "correct": 3,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "identity",
+        "cybersecurity"
+      ]
+    },
+    {
+      "question": "What can Okta or Auth0 do to mitigate token theft?",
+      "choices": [
+        "Provide refresh token rotation",
+        "Allow unlimited token reuse",
+        "Ignore login anomalies",
+        "Remove HTTPS enforcement"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "Okta",
+        "Auth0",
+        "identity",
+        "cybersecurity"
+      ]
+    },
+    {
+      "question": "Why is SameSite cookie attribute important?",
+      "choices": [
+        "Prevents cross-site token leakage",
+        "It makes cookies tastier",
+        "It disables XSS",
+        "It prevents all phishing"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "web security",
+        "cybersecurity"
+      ]
+    },
+    {
+      "question": "Which is a wrong way to handle tokens?",
+      "choices": [
+        "Store tokens in HttpOnly cookies",
+        "Send tokens over HTTP instead of HTTPS",
+        "Set token expiration",
+        "Implement MFA"
+      ],
+      "correct": 1,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "identity",
+        "authentication"
+      ]
+    },
+    {
+      "question": "What does PKCE stand for?",
+      "choices": [
+        "Proof Key for Code Exchange",
+        "Public Key for Cookie Encryption",
+        "Pretty Kool Cyber Exchange",
+        "Proof of Knowledge for Certified Encryption"
+      ],
+      "correct": 0,
+      "level": "hard",
+      "technical": true,
+      "tags": [
+        "OAuth",
+        "cybersecurity",
+        "identity"
+      ]
+    },
+    {
+      "question": "What is a fun but ineffective way to secure tokens?",
+      "choices": [
+        "Implement PKCE",
+        "Set HttpOnly cookies",
+        "Name them 'DoNotSteal'",
+        "Use SameSite attributes"
+      ],
+      "correct": 2,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "authentication"
+      ]
+    }
+  ]
+}

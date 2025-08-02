@@ -1,0 +1,100 @@
+{
+  "spells": [
+    {
+      "type": "frost_of_friction",
+      "name": "Frost of Friction",
+      "description": "Chill out, hackers! Freezes shady sessions with a flurry of security snowflakes ❄️🔒.",
+      "effect": "Slows all viruses by 50% for 10 seconds.",
+      "iconPath": "Sprites/Spells/frost_of_friction_ico",
+      "unlockAt": 0,
+      "cost": 20,
+      "banter": [
+        "Time to cool off these threats!",
+        "Freeze! Security is coming!",
+        "Let’s ice those vulnerabilities!",
+        "Cold as a revoked session!",
+        "Hackers hate winter — here it comes!"
+      ]
+    },
+    {
+      "type": "token_overload",
+      "name": "Token Overload",
+      "description": "Flood the system with authentication tokens! The firewall flexes harder than a password reset at midnight.",
+      "effect": "Doubles firewall resistance for 12 seconds.",
+      "iconPath": "Sprites/Spells/token_overload_ico",
+      "unlockAt": 200,
+      "cost": 30,
+      "banter": [
+        "Hope they brought an umbrella — token storm incoming!",
+        "Overloading tokens like it’s 2FA day!",
+        "Token tsunami approaching!",
+        "Let’s drown them in credentials!",
+        "Extra layers? Extra safe!"
+      ]
+    },
+    {
+      "type": "scope_sniper",
+      "name": "Scope Sniper",
+      "description": "Trim the token scopes! Weak viruses get sniped like over-permissioned OAuth requests.",
+      "effect": "Instantly defeats viruses with resistance < 5.",
+      "iconPath": "Sprites/Spells/scope_sniper_ico",
+      "unlockAt": 400,
+      "cost": 40,
+      "banter": [
+        "Scope narrowed — threat zeroed!",
+        "Sniped those sloppy scopes!",
+        "Too many permissions? Too bad!",
+        "Pop! Goes the over-scoped virus!",
+        "Zero trust, zero tolerance!"
+      ]
+    },
+    {
+      "type": "session_rotation",
+      "name": "Session Rotation",
+      "description": "Rotate those sessions! Viruses get lost in the shuffle like a confused hacker at a security conference.",
+      "effect": "Warp near firewall. Viruses teleport back to spawn.",
+      "iconPath": "Sprites/Spells/session_rotation_ico",
+      "unlockAt": 600,
+      "cost": 50,
+      "banter": [
+        "Session rotated! Viruses disoriented!",
+        "Whoosh! Right back where you started!",
+        "Spin cycle activated!",
+        "New session, who dis?",
+        "Round trip ticket to spawn city!"
+      ]
+    },
+    {
+      "type": "protector_patch",
+      "name": "Protector Patch",
+      "description": "Patch your protectors mid-battle! Restores some resistance to all active defenders.",
+      "effect": "Heals all protectors by 30% of max resistance.",
+      "iconPath": "Sprites/Spells/protector_patch_ico",
+      "unlockAt": 800,
+      "cost": 35,
+      "banter": [
+        "Time for some digital duct tape!",
+        "Patch it up, squad!",
+        "Fix deployed, stay frosty!",
+        "Security update — live and direct!",
+        "Patch party, everyone's invited!"
+      ]
+    },
+    {
+      "type": "risk_engine_surge",
+      "name": "Risk Engine Surge",
+      "description": "Unleash the Risk Engine to zap anomalies! Suspicious viruses take a direct hit.",
+      "effect": "Damages all rare viruses by 3.",
+      "iconPath": "Sprites/Spells/risk_engine_surge_ico",
+      "unlockAt": 1000,
+      "cost": 40,
+      "banter": [
+        "Risk Engine online — let’s sniff the weirdos!",
+        "Analyzing... zapping now!",
+        "Suspicious? Zapped.",
+        "Paranoia mode: engaged!",
+        "When in doubt, surge it out!"
+      ]
+    }
+  ]
+}

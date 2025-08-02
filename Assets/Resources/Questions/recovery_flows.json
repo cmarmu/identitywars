@@ -1,0 +1,311 @@
+{
+  "category": "recovery_flows",
+  "questions": [
+    {
+      "question": "What are recovery flows in cybersecurity?",
+      "choices": [
+        "Processes to regain access to accounts or services",
+        "Font restoration",
+        "Theme resetting",
+        "VPN restarting"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "recovery_flows"
+      ]
+    },
+    {
+      "question": "What is the most common recovery flow?",
+      "choices": [
+        "Password reset via email link",
+        "Font reinstall",
+        "Theme reapplication",
+        "VPN reconfig"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "recovery_flows"
+      ]
+    },
+    {
+      "question": "Why are secure recovery flows important?",
+      "choices": [
+        "To prevent account takeover",
+        "To preserve fonts",
+        "To maintain themes",
+        "To keep VPN logs"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "recovery_flows"
+      ]
+    },
+    {
+      "question": "What is a recovery key?",
+      "choices": [
+        "A special code for account recovery",
+        "Font key",
+        "Theme reset",
+        "VPN unlock"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "recovery_flows"
+      ]
+    },
+    {
+      "question": "What is a fun but insecure recovery method?",
+      "choices": [
+        "Having users shout their password to the cloud",
+        "Email verification",
+        "Authenticator apps",
+        "SMS codes"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "recovery_flows"
+      ]
+    },
+    {
+      "question": "What is a common risk with weak recovery flows?",
+      "choices": [
+        "They can be exploited to hijack accounts",
+        "Fonts can be hijacked",
+        "Themes can be duplicated",
+        "VPNs can crash"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "recovery_flows"
+      ]
+    },
+    {
+      "question": "How can Auth0 help secure recovery flows?",
+      "choices": [
+        "By implementing secure password reset mechanisms",
+        "By securing fonts",
+        "By updating themes",
+        "By optimizing VPNs"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "recovery_flows",
+        "Auth0"
+      ]
+    },
+    {
+      "question": "How does Okta support recovery flow security?",
+      "choices": [
+        "By providing customizable recovery workflows with MFA",
+        "Font management",
+        "Theme customization",
+        "VPN scaling"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "recovery_flows",
+        "Okta"
+      ]
+    },
+    {
+      "question": "What is step-up authentication in recovery flows?",
+      "choices": [
+        "Requesting stronger verification during recovery",
+        "Font upgrades",
+        "Theme enhancements",
+        "VPN boosts"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "recovery_flows"
+      ]
+    },
+    {
+      "question": "What is a backup code?",
+      "choices": [
+        "A code provided to users for emergency account recovery",
+        "Font backup",
+        "Theme revert",
+        "VPN backup"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "recovery_flows"
+      ]
+    },
+    {
+      "question": "What is email verification in recovery flows?",
+      "choices": [
+        "Verifying user identity via a link sent to email",
+        "Verifying fonts",
+        "Verifying themes",
+        "Verifying VPN"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "recovery_flows"
+      ]
+    },
+    {
+      "question": "What is the danger of using security questions for recovery?",
+      "choices": [
+        "Answers can be easily guessed or researched",
+        "Fonts may degrade",
+        "Themes may break",
+        "VPNs may fail"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "recovery_flows"
+      ]
+    },
+    {
+      "question": "What is multi-channel recovery?",
+      "choices": [
+        "Using multiple methods (email, SMS, apps) for recovery",
+        "Font recovery",
+        "Theme switching",
+        "VPN reallocation"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "recovery_flows"
+      ]
+    },
+    {
+      "question": "What is progressive profiling in recovery?",
+      "choices": [
+        "Gradually collecting more user information to enhance security",
+        "Font profiling",
+        "Theme profiling",
+        "VPN monitoring"
+      ],
+      "correct": 0,
+      "level": "hard",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "recovery_flows"
+      ]
+    },
+    {
+      "question": "What is the best practice for secure recovery flows?",
+      "choices": [
+        "Use MFA, backup codes, and secure email verification",
+        "Update fonts",
+        "Reset themes",
+        "Optimize VPN"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "recovery_flows"
+      ]
+    },
+    {
+      "question": "What is recovery via trusted contacts?",
+      "choices": [
+        "Using pre-designated people to help with account recovery",
+        "Font advisors",
+        "Theme designers",
+        "VPN admins"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "recovery_flows"
+      ]
+    },
+    {
+      "question": "What is self-service recovery?",
+      "choices": [
+        "Allowing users to recover access without admin intervention",
+        "Self-repair fonts",
+        "Theme auto-fix",
+        "VPN auto-repair"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "recovery_flows"
+      ]
+    },
+    {
+      "question": "What does time-based lockout mean in recovery flows?",
+      "choices": [
+        "Preventing repeated recovery attempts within a short time",
+        "Font lockout",
+        "Theme lockdown",
+        "VPN freeze"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "recovery_flows"
+      ]
+    },
+    {
+      "question": "What is the purpose of audit logs in recovery?",
+      "choices": [
+        "To track and monitor recovery attempts",
+        "Font change logs",
+        "Theme change logs",
+        "VPN logs"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "recovery_flows"
+      ]
+    }
+  ]
+}

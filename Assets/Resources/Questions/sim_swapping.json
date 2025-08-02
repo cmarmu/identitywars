@@ -1,0 +1,168 @@
+{
+  "category": "sim_swapping",
+  "questions": [
+    {
+      "question": "What is SIM swapping in cybersecurity?",
+      "choices": [
+        "A fraud where attackers take over a phone number by duplicating the SIM",
+        "Switching fonts",
+        "Color replacements",
+        "Theme swapping"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "sim_swapping"
+      ]
+    },
+    {
+      "question": "What can SIM swapping lead to?",
+      "choices": [
+        "Access to SMS-based 2FA codes and account takeovers",
+        "Font updates",
+        "Theme updates",
+        "WiFi speed boosts"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "sim_swapping"
+      ]
+    },
+    {
+      "question": "How is a SIM swap typically executed?",
+      "choices": [
+        "By tricking a mobile provider into transferring a number to a new SIM",
+        "Font reinstallation",
+        "Theme recoloring",
+        "VPN remapping"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "sim_swapping"
+      ]
+    },
+    {
+      "question": "What is a sign of a SIM swap attack?",
+      "choices": [
+        "Sudden loss of mobile service",
+        "Font mismatch",
+        "Color shift",
+        "Theme distortion"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "sim_swapping"
+      ]
+    },
+    {
+      "question": "What is a fun but ineffective way to prevent SIM swapping?",
+      "choices": [
+        "Naming your SIM 'DoNotSwap'",
+        "Enabling carrier PINs and account security",
+        "Using MFA apps",
+        "Monitoring account changes"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "sim_swapping"
+      ]
+    },
+    {
+      "question": "What is a more secure alternative to SMS-based MFA?",
+      "choices": [
+        "Authenticator apps and hardware keys",
+        "Font encryption",
+        "Theme lockdown",
+        "Color coding"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "sim_swapping",
+        "MFA"
+      ]
+    },
+    {
+      "question": "How can Okta or Auth0 help mitigate SIM swapping risks?",
+      "choices": [
+        "By supporting strong MFA methods like hardware keys",
+        "Font management",
+        "Theme integrity",
+        "VPN monitoring"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "sim_swapping",
+        "Okta",
+        "Auth0"
+      ]
+    },
+    {
+      "question": "What is a carrier PIN?",
+      "choices": [
+        "A security code set with a mobile provider to prevent SIM swaps",
+        "Font license code",
+        "Theme password",
+        "VPN PIN"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "sim_swapping"
+      ]
+    },
+    {
+      "question": "What should you do if you suspect a SIM swap?",
+      "choices": [
+        "Contact your carrier immediately and secure accounts",
+        "Update fonts",
+        "Change themes",
+        "Boost WiFi"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "sim_swapping"
+      ]
+    },
+    {
+      "question": "What is the best practice to protect against SIM swapping?",
+      "choices": [
+        "Carrier PINs, app-based MFA, account monitoring",
+        "Font resetting",
+        "Theme reloading",
+        "Color inversion"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "sim_swapping"
+      ]
+    }
+  ]
+}

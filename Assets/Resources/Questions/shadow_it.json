@@ -1,0 +1,167 @@
+{
+  "category": "shadow_it",
+  "questions": [
+    {
+      "question": "What is Shadow IT?",
+      "choices": [
+        "Use of unauthorized technology solutions within an organization",
+        "IT that works only in the dark",
+        "Font duplication",
+        "Theme hacking"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "shadow_it"
+      ]
+    },
+    {
+      "question": "What is a risk associated with Shadow IT?",
+      "choices": [
+        "Data leaks and compliance violations",
+        "Font fading",
+        "Color overflows",
+        "VPN spikes"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "shadow_it"
+      ]
+    },
+    {
+      "question": "Why do employees engage in Shadow IT?",
+      "choices": [
+        "To quickly solve problems without IT approval",
+        "To fix fonts",
+        "To recolor themes",
+        "To speed up WiFi"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "shadow_it"
+      ]
+    },
+    {
+      "question": "What is an example of Shadow IT?",
+      "choices": [
+        "Using unauthorized cloud storage for work files",
+        "Font updates",
+        "Theme patches",
+        "VPN resets"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "shadow_it"
+      ]
+    },
+    {
+      "question": "What is a fun but ineffective way to stop Shadow IT?",
+      "choices": [
+        "Posting 'Don't Install Stuff' signs",
+        "Implementing clear IT policies",
+        "Providing approved tools",
+        "Monitoring network traffic"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "shadow_it"
+      ]
+    },
+    {
+      "question": "What is the role of IT governance in preventing Shadow IT?",
+      "choices": [
+        "Enforcing approved technologies and tracking usage",
+        "Font governance",
+        "Theme styling",
+        "VPN curation"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "shadow_it"
+      ]
+    },
+    {
+      "question": "How can Okta or Auth0 help control Shadow IT?",
+      "choices": [
+        "By managing access and providing visibility into app usage",
+        "Font monitoring",
+        "Theme detection",
+        "VPN visibility"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "shadow_it",
+        "Okta",
+        "Auth0"
+      ]
+    },
+    {
+      "question": "What is CASB?",
+      "choices": [
+        "Cloud Access Security Broker",
+        "Cloud Authorized Software Base",
+        "Color Adjustment Settings Bar",
+        "Font Asset Bundle"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "shadow_it"
+      ]
+    },
+    {
+      "question": "What is the best way to reduce Shadow IT?",
+      "choices": [
+        "Offer secure, approved alternatives and educate users",
+        "Update fonts",
+        "Change themes",
+        "Enhance WiFi"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "shadow_it"
+      ]
+    },
+    {
+      "question": "What is the best practice to manage Shadow IT risks?",
+      "choices": [
+        "Monitoring, governance policies, user education",
+        "Font upgrades",
+        "Theme adjustments",
+        "Color tuning"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "shadow_it"
+      ]
+    }
+  ]
+}

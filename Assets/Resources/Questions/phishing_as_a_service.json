@@ -1,0 +1,168 @@
+{
+  "category": "phishing_as_a_service",
+  "questions": [
+    {
+      "question": "What is Phishing-as-a-Service (PhaaS)?",
+      "choices": [
+        "A service offering phishing tools and kits to attackers",
+        "Font installation service",
+        "Theme marketplace",
+        "VPN provider"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "phishing_as_a_service"
+      ]
+    },
+    {
+      "question": "What is the primary goal of PhaaS?",
+      "choices": [
+        "Enable non-technical users to launch phishing campaigns",
+        "Distribute fonts",
+        "Theme upgrades",
+        "VPN acceleration"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "phishing_as_a_service"
+      ]
+    },
+    {
+      "question": "What can PhaaS include?",
+      "choices": [
+        "Phishing kits, hosting, and stolen data collection",
+        "Font packs",
+        "Theme bundles",
+        "WiFi enhancers"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "phishing_as_a_service"
+      ]
+    },
+    {
+      "question": "What is a common feature in phishing kits provided via PhaaS?",
+      "choices": [
+        "Cloned login pages",
+        "Font emulation",
+        "Theme mimicry",
+        "VPN routing"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "phishing_as_a_service"
+      ]
+    },
+    {
+      "question": "What is a fun but ineffective way to stop PhaaS?",
+      "choices": [
+        "Sending 'Please don't phish me' emails",
+        "Implementing email filtering",
+        "Employee training",
+        "MFA enforcement"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "phishing_as_a_service"
+      ]
+    },
+    {
+      "question": "How does MFA help against PhaaS attacks?",
+      "choices": [
+        "By adding a second authentication step after credentials are phished",
+        "Font encryption",
+        "Theme isolation",
+        "VPN hardening"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "phishing_as_a_service",
+        "MFA"
+      ]
+    },
+    {
+      "question": "How can Okta or Auth0 defend against phishing risks including PhaaS?",
+      "choices": [
+        "By enforcing strong MFA and detecting login anomalies",
+        "Font monitoring",
+        "Theme scanning",
+        "VPN filters"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "phishing_as_a_service",
+        "Okta",
+        "Auth0"
+      ]
+    },
+    {
+      "question": "What is email filtering?",
+      "choices": [
+        "Technology to block or quarantine suspicious emails",
+        "Font filters",
+        "Theme filters",
+        "Color filters"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "phishing_as_a_service"
+      ]
+    },
+    {
+      "question": "What is a common indicator of a phishing email?",
+      "choices": [
+        "Unexpected requests for credentials or money",
+        "Font mismatches",
+        "Theme glitches",
+        "WiFi resets"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "phishing_as_a_service"
+      ]
+    },
+    {
+      "question": "What is the best practice to defend against PhaaS?",
+      "choices": [
+        "Email filtering, MFA, user training, anomaly detection",
+        "Update fonts",
+        "Change themes",
+        "Speed up VPN"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "phishing_as_a_service"
+      ]
+    }
+  ]
+}

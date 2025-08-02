@@ -1,0 +1,327 @@
+{
+  "category": "mitm",
+  "questions": [
+    {
+      "question": "What does 'MITM' stand for in cybersecurity?",
+      "choices": [
+        "Man-In-The-Middle",
+        "Machine In The Matrix",
+        "Middleware-In-The-Machine",
+        "Monkey In The Mainframe"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "network security"
+      ]
+    },
+    {
+      "question": "Which of these is a typical goal of a MITM attack?",
+      "choices": [
+        "Intercept communication between two parties",
+        "Speed up internet connection",
+        "Optimize battery life",
+        "Boost wifi signal"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "network security"
+      ]
+    },
+    {
+      "question": "Which protocol can help prevent MITM attacks?",
+      "choices": [
+        "HTTP",
+        "FTP",
+        "TLS",
+        "SMTP"
+      ],
+      "correct": 2,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "web security",
+        "cybersecurity"
+      ]
+    },
+    {
+      "question": "Which method do attackers commonly use in MITM attacks on public Wi-Fi?",
+      "choices": [
+        "Fake Hotspots",
+        "DNS Spoofing",
+        "ARP Spoofing",
+        "All of the above"
+      ],
+      "correct": 3,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "network security",
+        "cybersecurity"
+      ]
+    },
+    {
+      "question": "What is ARP spoofing used for in MITM attacks?",
+      "choices": [
+        "To reroute traffic through the attacker's device",
+        "To speed up ARP requests",
+        "To enhance WiFi signal",
+        "To encrypt traffic"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "network security",
+        "cybersecurity"
+      ]
+    },
+    {
+      "question": "Why is HTTPS important in preventing MITM attacks?",
+      "choices": [
+        "It encrypts data between client and server",
+        "It makes websites faster",
+        "It reduces CPU usage",
+        "It disables ads"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "web security",
+        "cybersecurity"
+      ]
+    },
+    {
+      "question": "Which tool might be used by attackers for a MITM attack?",
+      "choices": [
+        "Wireshark",
+        "Ettercap",
+        "Cain & Abel",
+        "All of the above"
+      ],
+      "correct": 3,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "network security"
+      ]
+    },
+    {
+      "question": "What is DNS Spoofing in the context of MITM?",
+      "choices": [
+        "Redirecting users to fake websites",
+        "Speeding up domain resolution",
+        "Creating secure connections",
+        "Encrypting DNS queries"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "network security"
+      ]
+    },
+    {
+      "question": "Which feature of TLS helps detect MITM attacks?",
+      "choices": [
+        "Public Key Encryption",
+        "Session Tokens",
+        "Digital Certificates",
+        "Base64 Encoding"
+      ],
+      "correct": 2,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "TLS",
+        "cybersecurity",
+        "web security"
+      ]
+    },
+    {
+      "question": "What is a common defense against MITM on open WiFi networks?",
+      "choices": [
+        "Using VPN",
+        "Disabling Bluetooth",
+        "Using public DNS",
+        "Installing more RAM"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "network security"
+      ]
+    },
+    {
+      "question": "What is SSL stripping in MITM attacks?",
+      "choices": [
+        "Removing SSL encryption from connections",
+        "Enhancing SSL security",
+        "Installing additional SSL certificates",
+        "None of the above"
+      ],
+      "correct": 0,
+      "level": "hard",
+      "technical": true,
+      "tags": [
+        "web security",
+        "cybersecurity"
+      ]
+    },
+    {
+      "question": "Which cybersecurity best practice helps reduce MITM risk?",
+      "choices": [
+        "Enabling MFA",
+        "Implementing HTTPS",
+        "Avoiding public Wi-Fi",
+        "All of the above"
+      ],
+      "correct": 3,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "web security"
+      ]
+    },
+    {
+      "question": "How does certificate pinning help prevent MITM?",
+      "choices": [
+        "It prevents fake certificates from being accepted",
+        "It makes SSL certificates expire faster",
+        "It allows any certificate",
+        "It disables encryption"
+      ],
+      "correct": 0,
+      "level": "hard",
+      "technical": true,
+      "tags": [
+        "TLS",
+        "cybersecurity",
+        "web security"
+      ]
+    },
+    {
+      "question": "Which OSI layer does a typical MITM attack target?",
+      "choices": [
+        "Application Layer",
+        "Transport Layer",
+        "Network Layer",
+        "All of the above"
+      ],
+      "correct": 3,
+      "level": "hard",
+      "technical": true,
+      "tags": [
+        "network security",
+        "cybersecurity"
+      ]
+    },
+    {
+      "question": "What is a sign that you may be under a MITM attack?",
+      "choices": [
+        "Security certificate warnings in browser",
+        "Sudden disconnections",
+        "Slower internet speed",
+        "All of the above"
+      ],
+      "correct": 3,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "network security"
+      ]
+    },
+    {
+      "question": "What is one limitation of VPNs against MITM?",
+      "choices": [
+        "VPNs can\u2019t prevent MITM if endpoint devices are compromised",
+        "VPNs always slow down connections",
+        "VPNs make passwords weaker",
+        "VPNs disable HTTPS"
+      ],
+      "correct": 0,
+      "level": "hard",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "network security"
+      ]
+    },
+    {
+      "question": "Which of the following is NOT a MITM mitigation technique?",
+      "choices": [
+        "Certificate Pinning",
+        "MFA",
+        "Using HTTP instead of HTTPS",
+        "VPN"
+      ],
+      "correct": 2,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "network security"
+      ]
+    },
+    {
+      "question": "Which network protocol is often targeted in MITM attacks for intercepting data?",
+      "choices": [
+        "HTTPS",
+        "FTP",
+        "Telnet",
+        "Both B and C"
+      ],
+      "correct": 3,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "network security",
+        "cybersecurity"
+      ]
+    },
+    {
+      "question": "How does MFA help in mitigating MITM attacks?",
+      "choices": [
+        "It adds an extra layer of authentication that is hard to intercept",
+        "It encrypts network traffic",
+        "It replaces certificates",
+        "It enables faster login"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "MFA",
+        "cybersecurity"
+      ]
+    },
+    {
+      "question": "What is a fun but useless way to prevent MITM?",
+      "choices": [
+        "Wrapping your router in tinfoil",
+        "Using HTTPS",
+        "Employing VPN",
+        "Certificate Pinning"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "network security"
+      ]
+    }
+  ]
+}

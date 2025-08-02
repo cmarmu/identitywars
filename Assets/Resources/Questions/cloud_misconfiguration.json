@@ -1,0 +1,167 @@
+{
+  "category": "cloud_misconfiguration",
+  "questions": [
+    {
+      "question": "What is cloud misconfiguration?",
+      "choices": [
+        "Incorrect setup of cloud resources leading to security risks",
+        "Cloudy weather forecast",
+        "Font misalignment",
+        "VPN settings"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "cloud_misconfiguration"
+      ]
+    },
+    {
+      "question": "What is a common outcome of cloud misconfiguration?",
+      "choices": [
+        "Data exposure or leakage",
+        "Font rendering errors",
+        "Theme mismatches",
+        "Color glitches"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "cloud_misconfiguration"
+      ]
+    },
+    {
+      "question": "What is a common cause of cloud misconfiguration?",
+      "choices": [
+        "Default settings and lack of access controls",
+        "Font defaults",
+        "Theme presets",
+        "VPN defaults"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "cloud_misconfiguration"
+      ]
+    },
+    {
+      "question": "Which cloud storage service is notorious for misconfiguration incidents?",
+      "choices": [
+        "AWS S3",
+        "FontCloud",
+        "ThemeDrive",
+        "ColorCloud"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "cloud_misconfiguration"
+      ]
+    },
+    {
+      "question": "What is a fun but ineffective way to prevent cloud misconfigurations?",
+      "choices": [
+        "Naming buckets 'DoNotHack'",
+        "Implementing proper IAM policies",
+        "Using configuration monitoring",
+        "Applying encryption"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "cloud_misconfiguration"
+      ]
+    },
+    {
+      "question": "What is IAM in the context of cloud security?",
+      "choices": [
+        "Identity and Access Management",
+        "International Association of Fonts",
+        "Image Access Manager",
+        "Internet Acceleration Mode"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "cloud_misconfiguration"
+      ]
+    },
+    {
+      "question": "How can Okta or Auth0 help prevent cloud misconfiguration issues?",
+      "choices": [
+        "By providing secure identity management and access control",
+        "Font optimization",
+        "Theme security",
+        "Color filtering"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "cloud_misconfiguration",
+        "Okta",
+        "Auth0"
+      ]
+    },
+    {
+      "question": "What is a security group in cloud services?",
+      "choices": [
+        "A virtual firewall controlling inbound/outbound traffic",
+        "Font group",
+        "Theme organizer",
+        "VPN cluster"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "cloud_misconfiguration"
+      ]
+    },
+    {
+      "question": "What is the role of cloud configuration monitoring tools?",
+      "choices": [
+        "Detect and alert on risky configurations",
+        "Monitor fonts",
+        "Track themes",
+        "Speed up VPN"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "cloud_misconfiguration"
+      ]
+    },
+    {
+      "question": "What is the best practice to prevent cloud misconfigurations?",
+      "choices": [
+        "Enforce least privilege, monitor settings, use encryption",
+        "Update fonts",
+        "Change themes",
+        "Encrypt colors"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "cloud_misconfiguration"
+      ]
+    }
+  ]
+}

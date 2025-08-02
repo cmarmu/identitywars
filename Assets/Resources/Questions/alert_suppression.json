@@ -1,0 +1,327 @@
+{
+  "category": "alert_suppression",
+  "questions": [
+    {
+      "question": "What is alert suppression in cybersecurity?",
+      "choices": [
+        "Tactics to prevent detection by suppressing security alerts",
+        "Turning off email notifications",
+        "Changing UI themes",
+        "Font resizing"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "alert_suppression"
+      ]
+    },
+    {
+      "question": "Why is alert suppression dangerous?",
+      "choices": [
+        "It hides malicious activity from security teams",
+        "It boosts login speed",
+        "It enhances UI",
+        "It encrypts cookies"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "alert_suppression"
+      ]
+    },
+    {
+      "question": "Which tool is often targeted for alert suppression?",
+      "choices": [
+        "SIEM systems",
+        "Font managers",
+        "VPNs",
+        "Theme changers"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "alert_suppression"
+      ]
+    },
+    {
+      "question": "What is a common method to suppress alerts?",
+      "choices": [
+        "Disabling logging services",
+        "Changing passwords",
+        "Installing fonts",
+        "Boosting WiFi"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "alert_suppression"
+      ]
+    },
+    {
+      "question": "What is log tampering?",
+      "choices": [
+        "Altering logs to hide evidence",
+        "Changing UI colors",
+        "Encrypting fonts",
+        "Improving typing speed"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "alert_suppression"
+      ]
+    },
+    {
+      "question": "Which detection technique helps identify alert suppression?",
+      "choices": [
+        "Integrity monitoring",
+        "Color detection",
+        "Font smoothing",
+        "Network boosting"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "alert_suppression"
+      ]
+    },
+    {
+      "question": "What is a fun but ineffective way to prevent alert suppression?",
+      "choices": [
+        "Naming logs 'SuperSecret'",
+        "Using integrity checks",
+        "Enabling audit logs",
+        "Monitoring SIEM health"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "alert_suppression"
+      ]
+    },
+    {
+      "question": "How does endpoint protection help prevent alert suppression?",
+      "choices": [
+        "Prevents tampering of logs and alerts",
+        "Boosts fonts",
+        "Enhances VPN speed",
+        "Adds dark mode"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "alert_suppression"
+      ]
+    },
+    {
+      "question": "Why is redundant logging important?",
+      "choices": [
+        "Ensures logs exist in multiple locations for integrity",
+        "Changes font style",
+        "Improves UI themes",
+        "Boosts WiFi"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "alert_suppression"
+      ]
+    },
+    {
+      "question": "What is a security information and event management (SIEM) system?",
+      "choices": [
+        "Tool for aggregating and analyzing security data",
+        "Font management tool",
+        "UI customizer",
+        "Network accelerator"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "alert_suppression"
+      ]
+    },
+    {
+      "question": "What is anomaly detection in the context of alert suppression?",
+      "choices": [
+        "Detects unusual patterns that indicate suppression",
+        "Font analysis",
+        "Theme optimization",
+        "VPN acceleration"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "alert_suppression"
+      ]
+    },
+    {
+      "question": "How can Okta or Auth0 help mitigate alert suppression risks?",
+      "choices": [
+        "Monitor authentication anomalies and ensure robust logging",
+        "Boost font styles",
+        "Increase token speed",
+        "Optimize themes"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "alert_suppression",
+        "Okta",
+        "Auth0"
+      ]
+    },
+    {
+      "question": "What is a tamper-evident log?",
+      "choices": [
+        "Logs that show signs of unauthorized modifications",
+        "Font-based logs",
+        "Encrypted UI logs",
+        "Cookie trackers"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "alert_suppression"
+      ]
+    },
+    {
+      "question": "What is the role of audit logs?",
+      "choices": [
+        "Track user and system actions for investigation",
+        "Change UI themes",
+        "Font adjustment",
+        "MFA optimization"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "alert_suppression"
+      ]
+    },
+    {
+      "question": "What is an indicator of alert suppression in a system?",
+      "choices": [
+        "Sudden gaps in log data",
+        "Font mismatches",
+        "Slower UI",
+        "Missing captchas"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "alert_suppression"
+      ]
+    },
+    {
+      "question": "What is a complete strategy against alert suppression?",
+      "choices": [
+        "Integrity monitoring, redundancy, EDR, anomaly detection",
+        "Font upgrades",
+        "VPN switching",
+        "UI themes"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "alert_suppression"
+      ]
+    },
+    {
+      "question": "What is an example of operational security against alert suppression?",
+      "choices": [
+        "Restrict access to logging systems",
+        "Changing fonts",
+        "Theme coloring",
+        "Disabling WiFi"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "alert_suppression"
+      ]
+    },
+    {
+      "question": "How does log forwarding to a secure server help?",
+      "choices": [
+        "Prevents attackers from tampering with all copies",
+        "Font backups",
+        "UI synchronization",
+        "VPN acceleration"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "alert_suppression"
+      ]
+    },
+    {
+      "question": "What is SIEM hardening?",
+      "choices": [
+        "Strengthening SIEM to resist tampering",
+        "Font encryption",
+        "Theme boosting",
+        "Cookie protection"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "alert_suppression"
+      ]
+    },
+    {
+      "question": "What is the ultimate goal of alert suppression by attackers?",
+      "choices": [
+        "Remain undetected while maintaining control",
+        "Change UI",
+        "Speed up WiFi",
+        "Enhance fonts"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "alert_suppression"
+      ]
+    }
+  ]
+}

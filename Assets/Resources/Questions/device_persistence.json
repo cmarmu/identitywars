@@ -1,0 +1,327 @@
+{
+  "category": "device_persistence",
+  "questions": [
+    {
+      "question": "What is device persistence in cybersecurity?",
+      "choices": [
+        "Techniques to maintain malware presence on a device after reboots",
+        "Improving device battery life",
+        "Keeping WiFi connected",
+        "Speeding up devices"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "device_persistence"
+      ]
+    },
+    {
+      "question": "Why is device persistence dangerous?",
+      "choices": [
+        "It allows attackers to maintain long-term access",
+        "It enhances security",
+        "It optimizes UI",
+        "It speeds up logins"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "device_persistence"
+      ]
+    },
+    {
+      "question": "Which of these is a persistence technique?",
+      "choices": [
+        "Registry modifications",
+        "Font adjustments",
+        "Password changes",
+        "Changing desktop themes"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "device_persistence"
+      ]
+    },
+    {
+      "question": "What is a rootkit in the context of persistence?",
+      "choices": [
+        "Stealthy malware enabling persistent access",
+        "UI customizer",
+        "Font loader",
+        "Network accelerator"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "device_persistence"
+      ]
+    },
+    {
+      "question": "What can bootkits do?",
+      "choices": [
+        "Infect the boot process to stay hidden",
+        "Change fonts",
+        "Enhance MFA",
+        "Optimize WiFi"
+      ],
+      "correct": 0,
+      "level": "hard",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "device_persistence"
+      ]
+    },
+    {
+      "question": "What is the risk of firmware-level persistence?",
+      "choices": [
+        "It can survive OS reinstallation",
+        "It improves device speed",
+        "It encrypts passwords",
+        "It changes screen brightness"
+      ],
+      "correct": 0,
+      "level": "hard",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "device_persistence"
+      ]
+    },
+    {
+      "question": "What security tool can detect persistence mechanisms?",
+      "choices": [
+        "EDR (Endpoint Detection and Response)",
+        "VPN booster",
+        "Font manager",
+        "Theme installer"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "device_persistence"
+      ]
+    },
+    {
+      "question": "What is a fun but ineffective way to stop persistence?",
+      "choices": [
+        "Naming your device 'UnhackableDevice'",
+        "Using EDR",
+        "Applying security patches",
+        "Regular malware scans"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "device_persistence"
+      ]
+    },
+    {
+      "question": "How does persistence aid attackers?",
+      "choices": [
+        "Maintains access for data exfiltration",
+        "Boosts WiFi",
+        "Encrypts cookies",
+        "Increases font sizes"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "device_persistence"
+      ]
+    },
+    {
+      "question": "Which of these is NOT a persistence method?",
+      "choices": [
+        "Scheduled tasks",
+        "Auto-start entries",
+        "Captcha prompts",
+        "Registry keys"
+      ],
+      "correct": 2,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "device_persistence"
+      ]
+    },
+    {
+      "question": "What is a persistence backdoor?",
+      "choices": [
+        "Hidden method for remote access",
+        "New wallpaper",
+        "WiFi enhancer",
+        "Font loader"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "device_persistence"
+      ]
+    },
+    {
+      "question": "How can Okta or Auth0 mitigate risks tied to device persistence?",
+      "choices": [
+        "Enforcing MFA and anomaly detection",
+        "Changing font settings",
+        "Boosting token speed",
+        "Adding dark mode"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "device_persistence",
+        "Okta",
+        "Auth0"
+      ]
+    },
+    {
+      "question": "What is a practical method to prevent device persistence?",
+      "choices": [
+        "Apply firmware updates",
+        "Change fonts",
+        "Disable MFA",
+        "Boost VPN speed"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "device_persistence"
+      ]
+    },
+    {
+      "question": "What is BIOS/UEFI persistence?",
+      "choices": [
+        "Malware that infects firmware for lasting control",
+        "Font configuration",
+        "Network shaping",
+        "UI optimization"
+      ],
+      "correct": 0,
+      "level": "hard",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "device_persistence"
+      ]
+    },
+    {
+      "question": "Why is persistence detection challenging?",
+      "choices": [
+        "Malware often hides in legitimate system areas",
+        "Fonts interfere",
+        "Colors change",
+        "Cookies reset"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "device_persistence"
+      ]
+    },
+    {
+      "question": "What is the danger of fileless persistence?",
+      "choices": [
+        "Leaves no traditional files for detection",
+        "Files are encrypted",
+        "Fonts are unreadable",
+        "Passwords are colored"
+      ],
+      "correct": 0,
+      "level": "hard",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "device_persistence"
+      ]
+    },
+    {
+      "question": "Which tool can help clean persistence threats?",
+      "choices": [
+        "Antivirus with rootkit scanning",
+        "Font changer",
+        "VPN",
+        "Color calibrator"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "device_persistence"
+      ]
+    },
+    {
+      "question": "What is a sign of possible device persistence malware?",
+      "choices": [
+        "Reinfection after cleanup",
+        "Font change",
+        "Slow WiFi",
+        "UI glitch"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "device_persistence"
+      ]
+    },
+    {
+      "question": "What does secure boot help prevent?",
+      "choices": [
+        "Boot-level malware persistence",
+        "Font corruption",
+        "VPN slowdown",
+        "Password resets"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "device_persistence"
+      ]
+    },
+    {
+      "question": "What is a complete defense strategy against device persistence?",
+      "choices": [
+        "Patching, secure boot, EDR, firmware integrity checks",
+        "Changing themes",
+        "Enabling dark mode",
+        "Using faster fonts"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "device_persistence"
+      ]
+    }
+  ]
+}

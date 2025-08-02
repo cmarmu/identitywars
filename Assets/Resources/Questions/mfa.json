@@ -1,0 +1,485 @@
+{
+  "category": "MFA",
+  "questions": [
+    {
+      "question": "How does Okta's Adaptive MFA improve login security?",
+      "choices": [
+        "By adjusting the required authentication factors based on login context and risk",
+        "By disabling MFA on known devices permanently",
+        "By only requiring passwords during business hours",
+        "By forcing users to change MFA methods daily"
+      ],
+      "correct": 0,
+      "level": "hard",
+      "technical": true,
+      "tags": [
+        "Okta",
+        "MFA",
+        "Identity"
+      ]
+    },
+    {
+      "question": "What feature does Auth0 provide to implement flexible MFA policies?",
+      "choices": [
+        "MFA API and rules engine for contextual MFA enforcement",
+        "Hardcoded MFA methods per application",
+        "MFA bypass tokens stored in local storage",
+        "Automatic MFA deactivation on mobile devices"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "Auth0",
+        "MFA"
+      ]
+    },
+    {
+      "question": "How does WebAuthn enhance MFA compared to traditional methods?",
+      "choices": [
+        "It uses cryptographic credentials bound to the device and origin, resisting phishing",
+        "It replaces authentication with QR codes only",
+        "It rotates passwords silently",
+        "It requires SMS fallback on all devices"
+      ],
+      "correct": 0,
+      "level": "hard",
+      "technical": true,
+      "tags": [
+        "WebAuthn",
+        "MFA"
+      ]
+    },
+    {
+      "question": "Which protocol provides built-in support for enforcing MFA during the authentication process?",
+      "choices": [
+        "SAML with AuthnContextClassRef",
+        "OAuth with bearer tokens",
+        "DNS over HTTPS",
+        "IMAP with STARTTLS"
+      ],
+      "correct": 0,
+      "level": "hard",
+      "technical": true,
+      "tags": [
+        "SAML",
+        "MFA"
+      ]
+    },
+    {
+      "question": "What is a limitation of SMS-based MFA in identity platforms like Auth0 or Okta?",
+      "choices": [
+        "It is vulnerable to SIM swapping and interception attacks",
+        "It cannot be implemented for SAML flows",
+        "It forces users to reset their accounts weekly",
+        "It disables encryption during transmission"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "MFA",
+        "Identity"
+      ]
+    },
+    {
+      "question": "In OAuth 2.0 flows, where is MFA most effectively applied?",
+      "choices": [
+        "At the authorization server before token issuance",
+        "During client credential exchanges",
+        "When refreshing access tokens silently",
+        "In the redirect URI validation phase"
+      ],
+      "correct": 0,
+      "level": "hard",
+      "technical": true,
+      "tags": [
+        "OAuth",
+        "MFA"
+      ]
+    },
+    {
+      "question": "How does Auth0 support passwordless MFA options?",
+      "choices": [
+        "Through biometrics and device-based authenticators integrated with WebAuthn",
+        "By emailing users a static code for reuse",
+        "By logging users in without any verification",
+        "By storing recovery codes in browser cookies"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "Auth0",
+        "Passwordless",
+        "MFA"
+      ]
+    },
+    {
+      "question": "Which Okta feature complements MFA to enhance session security?",
+      "choices": [
+        "Device Trust policies ensuring only managed devices can complete login",
+        "Weekly mandatory password rotations",
+        "Single Sign-On enforced browser resets",
+        "Two-factor via email verification only"
+      ],
+      "correct": 0,
+      "level": "hard",
+      "technical": true,
+      "tags": [
+        "Okta",
+        "MFA"
+      ]
+    },
+    {
+      "question": "What is an advantage of using FIDO2 for MFA in identity systems?",
+      "choices": [
+        "It enables passwordless logins with strong phishing resistance",
+        "It disables session expiration by default",
+        "It allows static passwords to be more secure",
+        "It requires weekly token reissuance"
+      ],
+      "correct": 0,
+      "level": "hard",
+      "technical": true,
+      "tags": [
+        "FIDO2",
+        "MFA",
+        "WebAuthn"
+      ]
+    },
+    {
+      "question": "Which identity protocol allows specifying required authentication strengths like MFA?",
+      "choices": [
+        "SAML via AuthnContext",
+        "LDAP binds",
+        "POP3 sessions",
+        "OAuth 1.0 plaintext tokens"
+      ],
+      "correct": 0,
+      "level": "hard",
+      "technical": true,
+      "tags": [
+        "SAML",
+        "MFA",
+        "Identity"
+      ]
+    },
+    {
+      "question": "Which of the following offers the strongest MFA protection?",
+      "choices": [
+        "A text message code",
+        "An email verification link",
+        "A hardware security key using WebAuthn",
+        "A question about your pet's name"
+      ],
+      "correct": 2,
+      "level": "hard",
+      "technical": true,
+      "tags": [
+        "MFA",
+        "WebAuthn"
+      ]
+    },
+    {
+      "question": "Why is MFA a critical part of modern identity systems?",
+      "choices": [
+        "It protects accounts even if the password is compromised",
+        "It removes the need for passwords",
+        "It replaces encryption entirely",
+        "It prevents device theft"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": false,
+      "tags": [
+        "MFA",
+        "Identity"
+      ]
+    },
+    {
+      "question": "What type of factor is a fingerprint scan in an MFA system?",
+      "choices": [
+        "Something you are",
+        "Something you have",
+        "Something you like",
+        "Something you know"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "MFA",
+        "Biometrics"
+      ]
+    },
+    {
+      "question": "How does WebAuthn improve MFA security?",
+      "choices": [
+        "It emails your credentials securely",
+        "It stores passwords in the cloud",
+        "It uses device-bound credentials that cannot be phished",
+        "It replaces the need for browsers"
+      ],
+      "correct": 2,
+      "level": "hard",
+      "technical": true,
+      "tags": [
+        "MFA",
+        "WebAuthn"
+      ]
+    },
+    {
+      "question": "Which attack does MFA most effectively mitigate?",
+      "choices": [
+        "Credential theft through phishing",
+        "Browser fingerprinting",
+        "Distributed denial of service (DDoS)",
+        "SQL injection"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "MFA",
+        "Phishing"
+      ]
+    },
+    {
+      "question": "Which of the following offers the strongest MFA protection?",
+      "choices": [
+        "A question about your pet's name",
+        "An email verification link",
+        "A text message code",
+        "A hardware security key using WebAuthn"
+      ],
+      "correct": 3,
+      "level": "hard",
+      "technical": true,
+      "tags": [
+        "MFA",
+        "WebAuthn"
+      ]
+    },
+    {
+      "question": "Which of the following offers the strongest MFA protection?",
+      "choices": [
+        "A hardware security key using WebAuthn",
+        "An email verification link",
+        "A question about your pet's name",
+        "A text message code"
+      ],
+      "correct": 0,
+      "level": "hard",
+      "technical": true,
+      "tags": [
+        "MFA",
+        "WebAuthn"
+      ]
+    },
+    {
+      "question": "Why is MFA a critical part of modern identity systems?",
+      "choices": [
+        "It removes the need for passwords",
+        "It replaces encryption entirely",
+        "It protects accounts even if the password is compromised",
+        "It prevents device theft"
+      ],
+      "correct": 2,
+      "level": "medium",
+      "technical": false,
+      "tags": [
+        "MFA",
+        "Identity"
+      ]
+    },
+    {
+      "question": "What type of factor is a fingerprint scan in an MFA system?",
+      "choices": [
+        "Something you like",
+        "Something you know",
+        "Something you have",
+        "Something you are"
+      ],
+      "correct": 3,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "MFA",
+        "Biometrics"
+      ]
+    },
+    {
+      "question": "How does WebAuthn improve MFA security?",
+      "choices": [
+        "It uses device-bound credentials that cannot be phished",
+        "It stores passwords in the cloud",
+        "It replaces the need for browsers",
+        "It emails your credentials securely"
+      ],
+      "correct": 0,
+      "level": "hard",
+      "technical": true,
+      "tags": [
+        "MFA",
+        "WebAuthn"
+      ]
+    },
+    {
+      "question": "Which of the following offers the strongest MFA protection?",
+      "choices": [
+        "A question about your pet's name",
+        "An email verification link",
+        "A text message code",
+        "A hardware security key using WebAuthn"
+      ],
+      "correct": 3,
+      "level": "hard",
+      "technical": true,
+      "tags": [
+        "MFA",
+        "WebAuthn"
+      ]
+    },
+    {
+      "question": "Which of the following is considered a second factor in MFA?",
+      "choices": [
+        "Your username",
+        "Your browser history",
+        "The website's domain name",
+        "A code sent to your mobile device"
+      ],
+      "correct": 3,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "MFA"
+      ]
+    },
+    {
+      "question": "What does multi-factor authentication (MFA) add to a typical login process?",
+      "choices": [
+        "A second layer of verification beyond just a password",
+        "A longer password field",
+        "A secret question about your childhood",
+        "A CAPTCHA every time you log in"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "MFA"
+      ]
+    },
+    {
+      "question": "How does WebAuthn improve MFA security?",
+      "choices": [
+        "It stores passwords in the cloud",
+        "It emails your credentials securely",
+        "It uses device-bound credentials that cannot be phished",
+        "It replaces the need for browsers"
+      ],
+      "correct": 2,
+      "level": "hard",
+      "technical": true,
+      "tags": [
+        "MFA",
+        "WebAuthn"
+      ]
+    },
+    {
+      "question": "What could be a sign of an MFA fatigue attack?",
+      "choices": [
+        "You need to verify your email twice",
+        "The MFA app crashes during login",
+        "Receiving many unexpected MFA prompts in a short time",
+        "The login form turns gray"
+      ],
+      "correct": 2,
+      "level": "hard",
+      "technical": true,
+      "tags": [
+        "MFA",
+        "Attack Vectors"
+      ]
+    },
+    {
+      "question": "Which attack does MFA most effectively mitigate?",
+      "choices": [
+        "Browser fingerprinting",
+        "SQL injection",
+        "Credential theft through phishing",
+        "Distributed denial of service (DDoS)"
+      ],
+      "correct": 2,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "MFA",
+        "Phishing"
+      ]
+    },
+    {
+      "question": "What could be a sign of an MFA fatigue attack?",
+      "choices": [
+        "Receiving many unexpected MFA prompts in a short time",
+        "You need to verify your email twice",
+        "The MFA app crashes during login",
+        "The login form turns gray"
+      ],
+      "correct": 0,
+      "level": "hard",
+      "technical": true,
+      "tags": [
+        "MFA",
+        "Attack Vectors"
+      ]
+    },
+    {
+      "question": "What does multi-factor authentication (MFA) add to a typical login process?",
+      "choices": [
+        "A second layer of verification beyond just a password",
+        "A CAPTCHA every time you log in",
+        "A secret question about your childhood",
+        "A longer password field"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "MFA"
+      ]
+    },
+    {
+      "question": "Which of the following is considered a second factor in MFA?",
+      "choices": [
+        "The website's domain name",
+        "Your username",
+        "Your browser history",
+        "A code sent to your mobile device"
+      ],
+      "correct": 3,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "MFA"
+      ]
+    },
+    {
+      "question": "Why is MFA a critical part of modern identity systems?",
+      "choices": [
+        "It protects accounts even if the password is compromised",
+        "It replaces encryption entirely",
+        "It prevents device theft",
+        "It removes the need for passwords"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": false,
+      "tags": [
+        "MFA",
+        "Identity"
+      ]
+    }
+  ]
+}

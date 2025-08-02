@@ -1,0 +1,167 @@
+{
+  "category": "iot_hijacking",
+  "questions": [
+    {
+      "question": "What is IoT hijacking?",
+      "choices": [
+        "Taking control of Internet of Things (IoT) devices without authorization",
+        "Font control",
+        "Theme management",
+        "VPN hijacking"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "iot_hijacking"
+      ]
+    },
+    {
+      "question": "What is a common risk of IoT hijacking?",
+      "choices": [
+        "Turning devices into bots for DDoS attacks",
+        "Font injection",
+        "Theme corruption",
+        "WiFi boosting"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "iot_hijacking"
+      ]
+    },
+    {
+      "question": "What is an example of an IoT device?",
+      "choices": [
+        "Smart thermostats",
+        "Font scanners",
+        "Theme switchers",
+        "VPN boosters"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "iot_hijacking"
+      ]
+    },
+    {
+      "question": "What is a fun but ineffective way to prevent IoT hijacking?",
+      "choices": [
+        "Naming devices 'DoNotHackMe'",
+        "Changing default passwords",
+        "Updating firmware",
+        "Network segmentation"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "iot_hijacking"
+      ]
+    },
+    {
+      "question": "What is the Mirai botnet?",
+      "choices": [
+        "A botnet that hijacked IoT devices for massive DDoS attacks",
+        "Font collection",
+        "Theme engine",
+        "VPN pool"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "iot_hijacking"
+      ]
+    },
+    {
+      "question": "How can Okta or Auth0 help mitigate IoT hijacking risks?",
+      "choices": [
+        "By managing device identities and access controls",
+        "Font management",
+        "Theme checks",
+        "VPN speed tests"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "iot_hijacking",
+        "Okta",
+        "Auth0"
+      ]
+    },
+    {
+      "question": "What is network segmentation?",
+      "choices": [
+        "Separating networks to limit the impact of compromised devices",
+        "Font separation",
+        "Theme partitioning",
+        "Color grouping"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "iot_hijacking"
+      ]
+    },
+    {
+      "question": "What is a critical step to secure IoT devices?",
+      "choices": [
+        "Regular firmware updates",
+        "Font patches",
+        "Theme resets",
+        "WiFi updates"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "iot_hijacking"
+      ]
+    },
+    {
+      "question": "What is the role of default credentials in IoT hijacking?",
+      "choices": [
+        "They are easy targets for attackers to gain device control",
+        "Font default settings",
+        "Theme defaults",
+        "Color presets"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "iot_hijacking"
+      ]
+    },
+    {
+      "question": "What is the best practice to prevent IoT hijacking?",
+      "choices": [
+        "Change default passwords, update firmware, segment networks",
+        "Update fonts",
+        "Change themes",
+        "Boost VPN"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "iot_hijacking"
+      ]
+    }
+  ]
+}

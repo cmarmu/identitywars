@@ -1,0 +1,313 @@
+{
+  "category": "geo_restrictions",
+  "questions": [
+    {
+      "question": "What are geo restrictions in cybersecurity?",
+      "choices": [
+        "Restricting access based on geographic location",
+        "Font localization",
+        "Theme customization",
+        "VPN throttling"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "geo_restrictions"
+      ]
+    },
+    {
+      "question": "Why are geo restrictions used?",
+      "choices": [
+        "To prevent access from high-risk regions",
+        "To adjust fonts",
+        "To switch themes",
+        "To reroute VPNs"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "geo_restrictions"
+      ]
+    },
+    {
+      "question": "What is a common implementation of geo restrictions?",
+      "choices": [
+        "Blocking IP addresses from certain countries",
+        "Blocking fonts",
+        "Blocking themes",
+        "Blocking VPNs"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "geo_restrictions"
+      ]
+    },
+    {
+      "question": "What is a fun but ineffective way to enforce geo restrictions?",
+      "choices": [
+        "Asking users to self-report their location",
+        "Using IP-based blocking",
+        "Geolocation APIs",
+        "VPN detection tools"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "geo_restrictions"
+      ]
+    },
+    {
+      "question": "What is geofencing in cybersecurity?",
+      "choices": [
+        "Creating a virtual perimeter to restrict access by location",
+        "Font boundaries",
+        "Theme zoning",
+        "VPN fencing"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "geo_restrictions"
+      ]
+    },
+    {
+      "question": "How does Okta support geo restrictions?",
+      "choices": [
+        "By enforcing access policies based on location",
+        "Font restrictions",
+        "Theme limitations",
+        "VPN controls"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "geo_restrictions",
+        "Okta"
+      ]
+    },
+    {
+      "question": "How does Auth0 handle geo-based security?",
+      "choices": [
+        "By providing rules that restrict logins from certain regions",
+        "Font localization",
+        "Theme variations",
+        "VPN geo-routing"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "geo_restrictions",
+        "Auth0"
+      ]
+    },
+    {
+      "question": "What is a VPN's role in bypassing geo restrictions?",
+      "choices": [
+        "It masks the user's real location",
+        "It re-renders fonts",
+        "It switches themes",
+        "It refreshes WiFi"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "geo_restrictions"
+      ]
+    },
+    {
+      "question": "What is IP geolocation?",
+      "choices": [
+        "Determining a user's location based on their IP address",
+        "Identifying font styles",
+        "Locating themes",
+        "Tracking VPN servers"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "geo_restrictions"
+      ]
+    },
+    {
+      "question": "What risk is associated with geo restrictions?",
+      "choices": [
+        "Users may use VPNs to circumvent them",
+        "Fonts may not render",
+        "Themes may clash",
+        "VPNs may overheat"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "geo_restrictions"
+      ]
+    },
+    {
+      "question": "What is geo-blocking?",
+      "choices": [
+        "Completely denying access based on location",
+        "Blocking fonts",
+        "Blocking themes",
+        "Blocking VPN access"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "geo_restrictions"
+      ]
+    },
+    {
+      "question": "What is a challenge in geo restrictions enforcement?",
+      "choices": [
+        "Accurate detection of user location",
+        "Accurate font size",
+        "Correct theme application",
+        "Stable VPN connection"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "geo_restrictions"
+      ]
+    },
+    {
+      "question": "What is a geo-aware risk engine?",
+      "choices": [
+        "A system that adapts security measures based on user location",
+        "Font risk engine",
+        "Theme security",
+        "VPN auditing"
+      ],
+      "correct": 0,
+      "level": "hard",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "geo_restrictions",
+        "risk_engine"
+      ]
+    },
+    {
+      "question": "What is the purpose of geo restrictions in finance apps?",
+      "choices": [
+        "Prevent access from sanctioned regions",
+        "Block fancy fonts",
+        "Restrict themes",
+        "Throttle VPNs"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "geo_restrictions"
+      ]
+    },
+    {
+      "question": "What is the best practice for enforcing geo restrictions?",
+      "choices": [
+        "Combine IP filtering with behavioral analysis",
+        "Enforce font policies",
+        "Theme strictness",
+        "VPN monitoring"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "geo_restrictions"
+      ]
+    },
+    {
+      "question": "What is geolocation spoofing?",
+      "choices": [
+        "Faking location data to bypass restrictions",
+        "Faking font data",
+        "Theme mimicking",
+        "VPN replication"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "geo_restrictions"
+      ]
+    },
+    {
+      "question": "What protocol is often combined with geo restrictions for secure access?",
+      "choices": [
+        "MFA (Multi-Factor Authentication)",
+        "Font rendering",
+        "Theme protection",
+        "VPN layering"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "geo_restrictions",
+        "MFA"
+      ]
+    },
+    {
+      "question": "What data helps enforce geo restrictions?",
+      "choices": [
+        "IP address, GPS data, and network info",
+        "Font metrics",
+        "Theme IDs",
+        "VPN logs"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "geo_restrictions"
+      ]
+    },
+    {
+      "question": "What is the main goal of geo restrictions in security?",
+      "choices": [
+        "To limit access from potentially risky locations",
+        "To limit fonts",
+        "To restrict themes",
+        "To reduce VPN use"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "geo_restrictions"
+      ]
+    }
+  ]
+}

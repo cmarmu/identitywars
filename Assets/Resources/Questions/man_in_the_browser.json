@@ -1,0 +1,168 @@
+{
+  "category": "man_in_the_browser",
+  "questions": [
+    {
+      "question": "What is a Man-in-the-Browser (MitB) attack?",
+      "choices": [
+        "Malware that intercepts and manipulates browser activity",
+        "Changing browser themes",
+        "Font rendering tweak",
+        "VPN throttling"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "man_in_the_browser"
+      ]
+    },
+    {
+      "question": "How does a MitB attack typically operate?",
+      "choices": [
+        "Injects code into the browser to alter transactions",
+        "Injects new fonts",
+        "Speeds up UI",
+        "Changes themes"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "man_in_the_browser"
+      ]
+    },
+    {
+      "question": "What is a common goal of MitB attacks?",
+      "choices": [
+        "Stealing credentials and session data",
+        "Changing color themes",
+        "VPN speedups",
+        "Font tracking"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "man_in_the_browser"
+      ]
+    },
+    {
+      "question": "Which malware is associated with MitB attacks?",
+      "choices": [
+        "Zeus Trojan",
+        "Heartbleed",
+        "Mirai",
+        "BlueKeep"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "man_in_the_browser"
+      ]
+    },
+    {
+      "question": "What is a fun but ineffective way to stop MitB attacks?",
+      "choices": [
+        "Naming the browser 'UnHackableBrowser'",
+        "Using up-to-date antivirus",
+        "Secure browser extensions",
+        "MFA enforcement"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "man_in_the_browser"
+      ]
+    },
+    {
+      "question": "How can MFA help defend against MitB attacks?",
+      "choices": [
+        "Adds an extra layer beyond just captured credentials",
+        "Encrypts fonts",
+        "Enhances UI",
+        "Color encryption"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "man_in_the_browser",
+        "MFA"
+      ]
+    },
+    {
+      "question": "What is a secure browser extension?",
+      "choices": [
+        "An extension verified and free of malicious code",
+        "Font extension",
+        "Theme booster",
+        "VPN dialer"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "man_in_the_browser"
+      ]
+    },
+    {
+      "question": "How can Okta or Auth0 reduce MitB impact?",
+      "choices": [
+        "Enforcing MFA and monitoring session integrity",
+        "Font scaling",
+        "Theme adjustments",
+        "VPN filtering"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "man_in_the_browser",
+        "Okta",
+        "Auth0"
+      ]
+    },
+    {
+      "question": "What is a sign of a possible MitB infection?",
+      "choices": [
+        "Unexpected form changes in the browser",
+        "Font misalignment",
+        "Color shifts",
+        "Slow WiFi"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "man_in_the_browser"
+      ]
+    },
+    {
+      "question": "What is the best comprehensive defense against MitB attacks?",
+      "choices": [
+        "Secure endpoints, browser integrity checks, MFA, user education",
+        "Font upgrades",
+        "Theme switching",
+        "Color patches"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "man_in_the_browser"
+      ]
+    }
+  ]
+}

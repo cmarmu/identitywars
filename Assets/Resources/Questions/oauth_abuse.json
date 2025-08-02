@@ -1,0 +1,334 @@
+{
+  "category": "oauth_abuse",
+  "questions": [
+    {
+      "question": "What is OAuth primarily used for?",
+      "choices": [
+        "User authentication delegation",
+        "Encrypting databases",
+        "Creating memes",
+        "Speeding up WiFi"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "OAuth",
+        "cybersecurity",
+        "identity"
+      ]
+    },
+    {
+      "question": "What is OAuth abuse?",
+      "choices": [
+        "Exploiting OAuth flows to gain unauthorized access",
+        "Using OAuth to share cat photos",
+        "Speeding up HTTP requests",
+        "Encrypting CSS files"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "OAuth",
+        "cybersecurity",
+        "identity"
+      ]
+    },
+    {
+      "question": "Which OAuth flow is more secure for mobile apps?",
+      "choices": [
+        "Implicit flow",
+        "Authorization Code with PKCE",
+        "Password grant",
+        "QR code scanning"
+      ],
+      "correct": 1,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "OAuth",
+        "cybersecurity",
+        "identity"
+      ]
+    },
+    {
+      "question": "How can attackers abuse OAuth?",
+      "choices": [
+        "Phishing via malicious OAuth apps",
+        "Improving page speed",
+        "Encrypting tokens twice",
+        "Disabling HTTPS"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "OAuth",
+        "cybersecurity",
+        "identity"
+      ]
+    },
+    {
+      "question": "Which OAuth grant type is NOT recommended for SPAs?",
+      "choices": [
+        "Implicit grant",
+        "Authorization Code with PKCE",
+        "Client Credentials",
+        "None of the above"
+      ],
+      "correct": 0,
+      "level": "hard",
+      "technical": true,
+      "tags": [
+        "OAuth",
+        "cybersecurity"
+      ]
+    },
+    {
+      "question": "What is PKCE in OAuth?",
+      "choices": [
+        "Proof Key for Code Exchange",
+        "Public Key for Cookie Encryption",
+        "Pretty Kool Code Enhancement",
+        "Password Key Control Encryption"
+      ],
+      "correct": 0,
+      "level": "hard",
+      "technical": true,
+      "tags": [
+        "OAuth",
+        "cybersecurity"
+      ]
+    },
+    {
+      "question": "What role does consent play in preventing OAuth abuse?",
+      "choices": [
+        "Ensures users approve app access",
+        "Makes apps load faster",
+        "Adds new fonts to the UI",
+        "Encrypts passwords"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "OAuth",
+        "cybersecurity",
+        "identity"
+      ]
+    },
+    {
+      "question": "What is a common OAuth abuse tactic?",
+      "choices": [
+        "Creating fake OAuth apps for phishing",
+        "Upgrading user permissions silently",
+        "Redirecting tokens to attacker servers",
+        "All of the above"
+      ],
+      "correct": 3,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "OAuth",
+        "cybersecurity"
+      ]
+    },
+    {
+      "question": "What is token replay in OAuth abuse?",
+      "choices": [
+        "Reusing stolen tokens to access user accounts",
+        "Speeding up re-authentication",
+        "Encrypting tokens twice",
+        "Blocking repeated logins"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "OAuth",
+        "cybersecurity",
+        "identity"
+      ]
+    },
+    {
+      "question": "Which header protects tokens in OAuth?",
+      "choices": [
+        "Authorization header",
+        "Content-Type",
+        "X-Powered-By",
+        "Server-Timing"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "OAuth",
+        "cybersecurity"
+      ]
+    },
+    {
+      "question": "What can Okta and Auth0 do to mitigate OAuth abuse?",
+      "choices": [
+        "Strict redirect URI validation",
+        "Implement PKCE",
+        "Monitor suspicious app registrations",
+        "All of the above"
+      ],
+      "correct": 3,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "Okta",
+        "Auth0",
+        "OAuth",
+        "cybersecurity"
+      ]
+    },
+    {
+      "question": "Which is NOT an OAuth abuse prevention method?",
+      "choices": [
+        "PKCE",
+        "Secure redirect URIs",
+        "Allowing any redirect URI",
+        "MFA"
+      ],
+      "correct": 2,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "OAuth",
+        "cybersecurity"
+      ]
+    },
+    {
+      "question": "Why is the implicit flow discouraged in OAuth?",
+      "choices": [
+        "It exposes tokens in URLs",
+        "It enhances encryption",
+        "It simplifies code",
+        "It disables cookies"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "OAuth",
+        "cybersecurity"
+      ]
+    },
+    {
+      "question": "What is the purpose of state parameters in OAuth?",
+      "choices": [
+        "Prevent CSRF attacks",
+        "Style the UI",
+        "Store passwords",
+        "Encrypt tokens"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "OAuth",
+        "cybersecurity"
+      ]
+    },
+    {
+      "question": "What is a potential risk of overly permissive OAuth scopes?",
+      "choices": [
+        "Excessive access to user data",
+        "Faster login",
+        "Reduced encryption",
+        "None"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "OAuth",
+        "cybersecurity",
+        "identity"
+      ]
+    },
+    {
+      "question": "What is a fun but ineffective way to prevent OAuth abuse?",
+      "choices": [
+        "Naming your app 'VerySecureApp'",
+        "Implementing PKCE",
+        "Validating redirect URIs",
+        "Using MFA"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "OAuth",
+        "cybersecurity"
+      ]
+    },
+    {
+      "question": "Which type of token is less prone to OAuth abuse?",
+      "choices": [
+        "Short-lived tokens",
+        "Long-lived tokens without expiry",
+        "Hardcoded tokens",
+        "Plaintext tokens"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "OAuth",
+        "cybersecurity"
+      ]
+    },
+    {
+      "question": "What is the main benefit of refresh token rotation?",
+      "choices": [
+        "Minimizes impact if tokens are stolen",
+        "Speeds up token refresh",
+        "Disables MFA",
+        "Encrypts passwords"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "OAuth",
+        "cybersecurity"
+      ]
+    },
+    {
+      "question": "Which is an example of OAuth abuse in the wild?",
+      "choices": [
+        "Malicious apps tricking users into granting broad permissions",
+        "Installing fonts dynamically",
+        "Changing UI colors",
+        "Encrypting cookies manually"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": false,
+      "tags": [
+        "OAuth",
+        "cybersecurity"
+      ]
+    },
+    {
+      "question": "What helps mitigate token interception in OAuth?",
+      "choices": [
+        "Using HTTPS",
+        "PKCE",
+        "Secure storage of tokens",
+        "All of the above"
+      ],
+      "correct": 3,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "OAuth",
+        "cybersecurity"
+      ]
+    }
+  ]
+}

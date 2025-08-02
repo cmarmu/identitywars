@@ -1,0 +1,167 @@
+{
+  "category": "watering_hole_attack",
+  "questions": [
+    {
+      "question": "What is a watering hole attack?",
+      "choices": [
+        "Compromising a website frequently visited by the target group",
+        "Enhancing hydration levels",
+        "Font hydrating tool",
+        "Theme boosting"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "watering_hole_attack"
+      ]
+    },
+    {
+      "question": "What is the goal of a watering hole attack?",
+      "choices": [
+        "Infect users with malware via a trusted site",
+        "Boost fonts",
+        "Change themes",
+        "Encrypt colors"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "watering_hole_attack"
+      ]
+    },
+    {
+      "question": "How do attackers select sites for watering hole attacks?",
+      "choices": [
+        "By identifying sites frequently accessed by targets",
+        "Popular font sites",
+        "Theme marketplaces",
+        "VPN portals"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "watering_hole_attack"
+      ]
+    },
+    {
+      "question": "What is a common method to compromise a watering hole site?",
+      "choices": [
+        "Injecting malicious JavaScript or exploit kits",
+        "Font injections",
+        "Theme overlays",
+        "VPN redirection"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "watering_hole_attack"
+      ]
+    },
+    {
+      "question": "What is a fun but ineffective way to prevent watering hole attacks?",
+      "choices": [
+        "Avoiding all websites",
+        "Using updated browsers",
+        "Employing endpoint protection",
+        "Web content filtering"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "watering_hole_attack"
+      ]
+    },
+    {
+      "question": "What is the role of threat intelligence in watering hole defense?",
+      "choices": [
+        "Identifies compromised websites frequented by users",
+        "Font mapping",
+        "Theme tracking",
+        "VPN analysis"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "watering_hole_attack"
+      ]
+    },
+    {
+      "question": "How can Okta or Auth0 help mitigate watering hole threats?",
+      "choices": [
+        "Monitoring authentication anomalies and enforcing MFA",
+        "Font scaling",
+        "Theme swapping",
+        "VPN monitoring"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "watering_hole_attack",
+        "Okta",
+        "Auth0"
+      ]
+    },
+    {
+      "question": "What is an exploit kit?",
+      "choices": [
+        "A collection of tools to exploit vulnerabilities in users' systems",
+        "Font designer tool",
+        "Theme creator",
+        "Color calibrator"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "watering_hole_attack"
+      ]
+    },
+    {
+      "question": "What is a behavioral sign of a watering hole attack?",
+      "choices": [
+        "Unexpected prompts or downloads from trusted sites",
+        "Font distortions",
+        "Theme shifts",
+        "WiFi slowdowns"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "watering_hole_attack"
+      ]
+    },
+    {
+      "question": "What is the best practice to prevent watering hole attacks?",
+      "choices": [
+        "Regular patching, threat intelligence, endpoint security",
+        "Update fonts",
+        "Change UI themes",
+        "Encrypt colors"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "watering_hole_attack"
+      ]
+    }
+  ]
+}

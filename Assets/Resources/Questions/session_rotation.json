@@ -1,0 +1,327 @@
+{
+  "category": "session_rotation",
+  "questions": [
+    {
+      "question": "What is session rotation in cybersecurity?",
+      "choices": [
+        "Changing session tokens periodically to prevent hijacking",
+        "Rotating fonts",
+        "Cycling themes",
+        "Restarting VPNs"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "session_rotation"
+      ]
+    },
+    {
+      "question": "Why is session rotation important?",
+      "choices": [
+        "To mitigate risks of session theft",
+        "To improve font rendering",
+        "To enhance themes",
+        "To accelerate VPNs"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "session_rotation"
+      ]
+    },
+    {
+      "question": "What triggers session rotation?",
+      "choices": [
+        "Sensitive actions like password changes",
+        "Font refresh",
+        "Theme reload",
+        "VPN reconnect"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "session_rotation"
+      ]
+    },
+    {
+      "question": "What is a fun but ineffective session rotation method?",
+      "choices": [
+        "Spinning the user\u2019s device physically",
+        "Token regeneration on login",
+        "Rotation after privileged action",
+        "Timeout-based renewal"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "session_rotation"
+      ]
+    },
+    {
+      "question": "How does session rotation prevent session hijacking?",
+      "choices": [
+        "By invalidating old session tokens",
+        "By reloading fonts",
+        "By changing themes",
+        "By rotating VPNs"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "session_rotation"
+      ]
+    },
+    {
+      "question": "What is a session token?",
+      "choices": [
+        "A unique identifier to maintain a user's session",
+        "A font license",
+        "A theme asset",
+        "A VPN key"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "session_rotation"
+      ]
+    },
+    {
+      "question": "How can Okta implement session rotation?",
+      "choices": [
+        "Through security policies that force session renewal",
+        "Font rotation",
+        "Theme resetting",
+        "VPN cycling"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "session_rotation",
+        "Okta"
+      ]
+    },
+    {
+      "question": "What is Auth0's approach to session management?",
+      "choices": [
+        "Configurable session lifetime and rotation policies",
+        "Font sessions",
+        "Theme sessions",
+        "VPN sessions"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "session_rotation",
+        "Auth0"
+      ]
+    },
+    {
+      "question": "What is a session fixation attack?",
+      "choices": [
+        "Forcing a user to use a known session token",
+        "Fixing fonts",
+        "Fixing themes",
+        "Fixing VPNs"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "session_rotation"
+      ]
+    },
+    {
+      "question": "When should session rotation ideally occur?",
+      "choices": [
+        "After login, privilege elevation, or timeouts",
+        "After font changes",
+        "After theme changes",
+        "After VPN resets"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "session_rotation"
+      ]
+    },
+    {
+      "question": "What is the benefit of rotating sessions on login?",
+      "choices": [
+        "Prevents reuse of stolen session tokens",
+        "Refreshes fonts",
+        "Resets themes",
+        "Reloads VPN"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "session_rotation"
+      ]
+    },
+    {
+      "question": "What is token invalidation?",
+      "choices": [
+        "Marking a session token as unusable",
+        "Invalidating fonts",
+        "Breaking themes",
+        "Disconnecting VPN"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "session_rotation"
+      ]
+    },
+    {
+      "question": "What is a rolling session?",
+      "choices": [
+        "Session expiry extends with user activity",
+        "Fonts that evolve",
+        "Themes that rotate",
+        "VPNs that shift"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "session_rotation"
+      ]
+    },
+    {
+      "question": "What should be done on detecting suspicious activity?",
+      "choices": [
+        "Force session rotation and reauthentication",
+        "Change fonts",
+        "Swap themes",
+        "Restart VPN"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "session_rotation"
+      ]
+    },
+    {
+      "question": "What is session expiration?",
+      "choices": [
+        "Automatic invalidation of a session after a time period",
+        "Font expiration",
+        "Theme expiry",
+        "VPN timeout"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "session_rotation"
+      ]
+    },
+    {
+      "question": "What is the best practice for session rotation timing?",
+      "choices": [
+        "On login, MFA, and sensitive actions",
+        "On font load",
+        "On theme install",
+        "On VPN connect"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "session_rotation"
+      ]
+    },
+    {
+      "question": "What is a nonce in session security?",
+      "choices": [
+        "A unique number used once to prevent replay attacks",
+        "Font counter",
+        "Theme ID",
+        "VPN handshake"
+      ],
+      "correct": 0,
+      "level": "hard",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "session_rotation"
+      ]
+    },
+    {
+      "question": "What is the goal of session rotation?",
+      "choices": [
+        "Reduce the window of token theft exploitation",
+        "Keep fonts fresh",
+        "Make themes dynamic",
+        "Boost VPN"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "session_rotation"
+      ]
+    },
+    {
+      "question": "What does a session store contain?",
+      "choices": [
+        "Active session tokens and associated metadata",
+        "Font data",
+        "Theme cache",
+        "VPN logs"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "session_rotation"
+      ]
+    },
+    {
+      "question": "What is the best practice for securing session stores?",
+      "choices": [
+        "Encrypt stored tokens and restrict access",
+        "Secure fonts",
+        "Lock themes",
+        "Encrypt VPNs"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "session_rotation"
+      ]
+    }
+  ]
+}

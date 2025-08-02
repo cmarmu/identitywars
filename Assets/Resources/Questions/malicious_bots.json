@@ -1,0 +1,334 @@
+{
+  "category": "malicious_bots",
+  "questions": [
+    {
+      "question": "What are malicious bots typically designed to do?",
+      "choices": [
+        "Water your plants",
+        "Automate attacks like scraping, spamming, or credential stuffing",
+        "Fetch you coffee",
+        "Boost your WiFi"
+      ],
+      "correct": 1,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "bots",
+        "identity"
+      ]
+    },
+    {
+      "question": "Which of these is a common type of malicious bot attack?",
+      "choices": [
+        "Credential stuffing",
+        "Captcha solving",
+        "Data scraping",
+        "All of the above"
+      ],
+      "correct": 3,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "bots",
+        "identity"
+      ]
+    },
+    {
+      "question": "What is a key defense mechanism against malicious bots?",
+      "choices": [
+        "MFA",
+        "Web Application Firewall (WAF)",
+        "Disabling JavaScript",
+        "Buying a robot vacuum"
+      ],
+      "correct": 1,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "bots",
+        "WAF"
+      ]
+    },
+    {
+      "question": "What does CAPTCHA help prevent?",
+      "choices": [
+        "Human login fatigue",
+        "Bots from automating tasks",
+        "Faster page loading",
+        "Better cookie storage"
+      ],
+      "correct": 1,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "bots",
+        "identity"
+      ]
+    },
+    {
+      "question": "Which platform feature can help mitigate bot-based credential stuffing?",
+      "choices": [
+        "MFA",
+        "SSO",
+        "Okta's ThreatInsight",
+        "All of the above"
+      ],
+      "correct": 3,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "Okta",
+        "cybersecurity",
+        "identity"
+      ]
+    },
+    {
+      "question": "What is the risk of allowing bots to bypass rate limiting?",
+      "choices": [
+        "They may slow your site down",
+        "They can flood your authentication endpoints",
+        "They start posting memes automatically",
+        "They improve SEO"
+      ],
+      "correct": 1,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "bots"
+      ]
+    },
+    {
+      "question": "Which is NOT a valid bot mitigation strategy?",
+      "choices": [
+        "Implementing CAPTCHA",
+        "Monitoring traffic anomalies",
+        "Using public APIs without rate limits",
+        "Blocking known malicious IPs"
+      ],
+      "correct": 2,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "bots"
+      ]
+    },
+    {
+      "question": "What is reCAPTCHA?",
+      "choices": [
+        "A tool to stop bots",
+        "A type of coffee",
+        "A botnet control mechanism",
+        "A memory game"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "bots"
+      ]
+    },
+    {
+      "question": "How does bot traffic differ from human traffic?",
+      "choices": [
+        "Higher request rates",
+        "Predictable patterns",
+        "Odd interaction behaviors",
+        "All of the above"
+      ],
+      "correct": 3,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "bots"
+      ]
+    },
+    {
+      "question": "Which security layer helps detect malicious bot patterns?",
+      "choices": [
+        "Behavioral analysis",
+        "Firewall logs",
+        "CDN analytics",
+        "All of the above"
+      ],
+      "correct": 3,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "bots",
+        "WAF"
+      ]
+    },
+    {
+      "question": "Which of these is a malicious bot behavior?",
+      "choices": [
+        "Filling forms rapidly",
+        "Accessing APIs excessively",
+        "Scraping data without permission",
+        "All of the above"
+      ],
+      "correct": 3,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "bots"
+      ]
+    },
+    {
+      "question": "What does Okta's ThreatInsight help with?",
+      "choices": [
+        "Detecting bot-driven credential attacks",
+        "Managing passwords",
+        "Making UI prettier",
+        "Encrypting databases"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "Okta",
+        "cybersecurity",
+        "bots"
+      ]
+    },
+    {
+      "question": "What is the main purpose of a botnet?",
+      "choices": [
+        "Distributed computing for fun",
+        "Coordinated malicious attacks like DDoS",
+        "Backup internet connections",
+        "Enhancing CAPTCHA effectiveness"
+      ],
+      "correct": 1,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "bots"
+      ]
+    },
+    {
+      "question": "How can Auth0 help protect against bot attacks?",
+      "choices": [
+        "Bot detection with anomaly detection",
+        "By enabling MFA",
+        "Rate limiting APIs",
+        "All of the above"
+      ],
+      "correct": 3,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "Auth0",
+        "cybersecurity",
+        "bots"
+      ]
+    },
+    {
+      "question": "Which of these is NOT typically associated with malicious bots?",
+      "choices": [
+        "SEO manipulation",
+        "Data scraping",
+        "Brute forcing logins",
+        "Online game matchmaking"
+      ],
+      "correct": 3,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "bots"
+      ]
+    },
+    {
+      "question": "What is the key challenge in blocking malicious bots?",
+      "choices": [
+        "Bots disguise as legitimate traffic",
+        "Bots are always polite",
+        "Bots never use JavaScript",
+        "Bots require WiFi"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "bots"
+      ]
+    },
+    {
+      "question": "What can behavioral analytics detect?",
+      "choices": [
+        "Unusual login patterns indicating bots",
+        "When users are happy",
+        "When cookies are stale",
+        "Preferred browser themes"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "bots"
+      ]
+    },
+    {
+      "question": "Why might CAPTCHA fail to block sophisticated bots?",
+      "choices": [
+        "Bots can use AI to solve them",
+        "CAPTCHA has limited fonts",
+        "Bots refuse to play games",
+        "None of the above"
+      ],
+      "correct": 0,
+      "level": "hard",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "bots"
+      ]
+    },
+    {
+      "question": "What is a fun but ineffective way to block bots?",
+      "choices": [
+        "Setting rate limits",
+        "Using MFA",
+        "Naming endpoints 'NoBotsAllowed'",
+        "Deploying WAF"
+      ],
+      "correct": 2,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "bots"
+      ]
+    },
+    {
+      "question": "Which standard security feature helps against credential stuffing bots?",
+      "choices": [
+        "MFA",
+        "OAuth",
+        "Captcha",
+        "All of the above"
+      ],
+      "correct": 3,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "bots",
+        "identity"
+      ]
+    }
+  ]
+}

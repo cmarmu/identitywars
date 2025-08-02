@@ -1,0 +1,327 @@
+{
+  "category": "ddos",
+  "questions": [
+    {
+      "question": "What does DDoS stand for?",
+      "choices": [
+        "Distributed Denial of Service",
+        "Data Delivery on Schedule",
+        "Double Dose of Security",
+        "Distributed Data Optimization Service"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "ddos"
+      ]
+    },
+    {
+      "question": "What is a DDoS attack?",
+      "choices": [
+        "Overwhelming a service with traffic to make it unavailable",
+        "Speeding up website traffic",
+        "Encrypting data for security",
+        "Increasing font size"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "ddos"
+      ]
+    },
+    {
+      "question": "What is a botnet in the context of DDoS?",
+      "choices": [
+        "A network of compromised devices used to launch attacks",
+        "A secure VPN network",
+        "A UI design tool",
+        "A font rendering library"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "ddos"
+      ]
+    },
+    {
+      "question": "Which type of DDoS targets the application layer?",
+      "choices": [
+        "Layer 7 attacks",
+        "Layer 3 attacks",
+        "Layer 1 attacks",
+        "Layer 4 attacks"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "ddos"
+      ]
+    },
+    {
+      "question": "Which protocol is commonly abused in DDoS amplification attacks?",
+      "choices": [
+        "DNS",
+        "HTTP",
+        "FTP",
+        "SSH"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "ddos"
+      ]
+    },
+    {
+      "question": "What is a mitigation strategy against DDoS?",
+      "choices": [
+        "Traffic filtering and rate limiting",
+        "Installing fonts",
+        "Changing UI colors",
+        "Speeding up WiFi"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "ddos"
+      ]
+    },
+    {
+      "question": "What is the goal of a DDoS attack?",
+      "choices": [
+        "Disrupt service availability",
+        "Increase internet speed",
+        "Enhance UX",
+        "Optimize fonts"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "ddos"
+      ]
+    },
+    {
+      "question": "What is a fun but ineffective way to stop DDoS attacks?",
+      "choices": [
+        "Naming your server 'Unstoppable'",
+        "Using traffic filtering",
+        "Implementing rate limiting",
+        "Deploying CDNs"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "ddos"
+      ]
+    },
+    {
+      "question": "How can CDNs help mitigate DDoS?",
+      "choices": [
+        "Distributing traffic across multiple servers",
+        "Encrypting fonts",
+        "Improving UI speed",
+        "Increasing cookie size"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "ddos"
+      ]
+    },
+    {
+      "question": "What is SYN Flood in DDoS context?",
+      "choices": [
+        "Sending a flood of SYN requests to exhaust server resources",
+        "Font flooding",
+        "Color overflow",
+        "VPN packet injection"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "ddos"
+      ]
+    },
+    {
+      "question": "What is a volumetric DDoS attack?",
+      "choices": [
+        "Flooding the network with massive amounts of traffic",
+        "Changing theme colors",
+        "Speeding up CPU",
+        "Encrypting fonts"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "ddos"
+      ]
+    },
+    {
+      "question": "Which of these is NOT a DDoS mitigation method?",
+      "choices": [
+        "Increasing bandwidth",
+        "Traffic filtering",
+        "Installing more fonts",
+        "Rate limiting"
+      ],
+      "correct": 2,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "ddos"
+      ]
+    },
+    {
+      "question": "How can anomaly detection help against DDoS?",
+      "choices": [
+        "Identifies unusual traffic patterns",
+        "Font detection",
+        "UI adjustment",
+        "VPN optimization"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "ddos"
+      ]
+    },
+    {
+      "question": "What is the impact of a DDoS attack on businesses?",
+      "choices": [
+        "Revenue loss and service downtime",
+        "Better font rendering",
+        "Improved UX",
+        "Faster VPN"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "ddos"
+      ]
+    },
+    {
+      "question": "What is Cloudflare's role in DDoS protection?",
+      "choices": [
+        "Provides network protection and traffic filtering",
+        "Offers UI templates",
+        "Optimizes fonts",
+        "Speeds up VPNs"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "ddos"
+      ]
+    },
+    {
+      "question": "What is an example of a protocol layer targeted by DDoS?",
+      "choices": [
+        "Network Layer (Layer 3)",
+        "Font Layer",
+        "Color Layer",
+        "Theme Layer"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "ddos"
+      ]
+    },
+    {
+      "question": "What is a reflection attack in DDoS?",
+      "choices": [
+        "Using third-party servers to flood the victim",
+        "UI reflection",
+        "Font duplication",
+        "Cookie bouncing"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "ddos"
+      ]
+    },
+    {
+      "question": "What can Okta or Auth0 implement to handle DDoS resilience?",
+      "choices": [
+        "Traffic scaling and anomaly detection",
+        "Font scaling",
+        "Color scaling",
+        "Cookie scaling"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "ddos",
+        "Okta",
+        "Auth0"
+      ]
+    },
+    {
+      "question": "What is blackholing in DDoS mitigation?",
+      "choices": [
+        "Dropping malicious traffic before it reaches the target",
+        "Encrypting fonts",
+        "Boosting WiFi",
+        "Color blocking"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "ddos"
+      ]
+    },
+    {
+      "question": "What is the best comprehensive approach to DDoS defense?",
+      "choices": [
+        "Layered security with filtering, rate limiting, CDNs, and anomaly detection",
+        "UI enhancements",
+        "Font upgrades",
+        "Theme expansions"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "ddos"
+      ]
+    }
+  ]
+}

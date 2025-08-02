@@ -1,0 +1,326 @@
+{
+  "category": "data_exfiltration",
+  "questions": [
+    {
+      "question": "What is data exfiltration?",
+      "choices": [
+        "Unauthorized transfer of data out of an organization",
+        "Importing data quickly",
+        "Enhancing data encryption",
+        "Uploading memes"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "data_exfiltration"
+      ]
+    },
+    {
+      "question": "Which of these is a common method of data exfiltration?",
+      "choices": [
+        "Emailing sensitive data to external accounts",
+        "Using secure FTP",
+        "Patching systems",
+        "Installing antivirus"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "data_exfiltration"
+      ]
+    },
+    {
+      "question": "What is the primary risk of data exfiltration?",
+      "choices": [
+        "Loss of confidential information",
+        "Faster networks",
+        "Improved passwords",
+        "Enhanced UI"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "data_exfiltration"
+      ]
+    },
+    {
+      "question": "Which tool can help detect data exfiltration?",
+      "choices": [
+        "Data Loss Prevention (DLP)",
+        "VPN",
+        "Captcha",
+        "Password managers"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "data_exfiltration"
+      ]
+    },
+    {
+      "question": "What is an example of covert data exfiltration?",
+      "choices": [
+        "Using DNS tunneling to sneak data out",
+        "Uploading via secure portals",
+        "Sending encrypted data within company policy",
+        "Syncing cloud storage"
+      ],
+      "correct": 0,
+      "level": "hard",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "data_exfiltration"
+      ]
+    },
+    {
+      "question": "What is the role of network monitoring in preventing data exfiltration?",
+      "choices": [
+        "Detects unusual outbound traffic",
+        "Speeds up networks",
+        "Blocks UI changes",
+        "Encrypts cookies"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "data_exfiltration"
+      ]
+    },
+    {
+      "question": "Which insider threat can lead to data exfiltration?",
+      "choices": [
+        "Disgruntled employee stealing data",
+        "Brute force attacks",
+        "Captcha bypass",
+        "Font changes"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "data_exfiltration"
+      ]
+    },
+    {
+      "question": "Which is NOT a method of data exfiltration?",
+      "choices": [
+        "USB data transfer",
+        "Email attachments",
+        "Encrypted tunnels",
+        "Running antivirus scans"
+      ],
+      "correct": 3,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "data_exfiltration"
+      ]
+    },
+    {
+      "question": "How does encryption help in data exfiltration defense?",
+      "choices": [
+        "Makes stolen data unreadable",
+        "Speeds up transfers",
+        "Hides passwords",
+        "Blocks UI changes"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "data_exfiltration"
+      ]
+    },
+    {
+      "question": "What is a fun but ineffective way to prevent data exfiltration?",
+      "choices": [
+        "Naming files 'DoNotSteal'",
+        "Implementing DLP",
+        "Monitoring network traffic",
+        "Restricting USB access"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "data_exfiltration"
+      ]
+    },
+    {
+      "question": "What type of attack is data exfiltration part of?",
+      "choices": [
+        "Data breach",
+        "UI enhancement",
+        "Captcha challenge",
+        "Font attack"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "data_exfiltration"
+      ]
+    },
+    {
+      "question": "What is the risk of cloud storage in data exfiltration?",
+      "choices": [
+        "Easy unauthorized data transfer",
+        "Faster networks",
+        "Better password protection",
+        "Improved UI themes"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "data_exfiltration"
+      ]
+    },
+    {
+      "question": "What is an effective policy against data exfiltration?",
+      "choices": [
+        "Restrict data access to least privilege",
+        "Enable dark mode",
+        "Increase font sizes",
+        "Disable WiFi"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "data_exfiltration"
+      ]
+    },
+    {
+      "question": "What is the role of endpoint protection in data exfiltration defense?",
+      "choices": [
+        "Detects and blocks unauthorized data transfers",
+        "Changes desktop themes",
+        "Boosts CPU speed",
+        "Encrypts fonts"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "data_exfiltration"
+      ]
+    },
+    {
+      "question": "How can MFA help mitigate data exfiltration risks?",
+      "choices": [
+        "Prevents unauthorized access to sensitive systems",
+        "Encrypts all data",
+        "Speeds up login",
+        "Changes password length"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "data_exfiltration",
+        "MFA"
+      ]
+    },
+    {
+      "question": "What is data leakage vs. data exfiltration?",
+      "choices": [
+        "Leakage is accidental, exfiltration is intentional",
+        "Leakage is faster",
+        "Exfiltration is always encrypted",
+        "Leakage boosts networks"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "data_exfiltration"
+      ]
+    },
+    {
+      "question": "What is beaconing in data exfiltration?",
+      "choices": [
+        "Small data pings sent to an attacker\u2019s server",
+        "Changing UI themes",
+        "Enabling dark mode",
+        "Blocking VPN"
+      ],
+      "correct": 0,
+      "level": "hard",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "data_exfiltration"
+      ]
+    },
+    {
+      "question": "What is a common sign of data exfiltration?",
+      "choices": [
+        "Unusual outbound network traffic",
+        "Font changes",
+        "Faster login",
+        "New desktop wallpaper"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "data_exfiltration"
+      ]
+    },
+    {
+      "question": "What can DLP solutions monitor?",
+      "choices": [
+        "Data leaving the network",
+        "Password complexity",
+        "Font sizes",
+        "Captcha responses"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "data_exfiltration"
+      ]
+    },
+    {
+      "question": "What is the best holistic defense against data exfiltration?",
+      "choices": [
+        "Combination of DLP, encryption, access control, and monitoring",
+        "Installing fonts",
+        "Using dark mode",
+        "VPN speed test"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "data_exfiltration"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "category": "ransomware",
+  "questions": [
+    {
+      "question": "What is ransomware?",
+      "choices": [
+        "Malware that encrypts data and demands payment for decryption",
+        "Font encryption tool",
+        "Theme switcher",
+        "VPN updater"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "ransomware"
+      ]
+    },
+    {
+      "question": "What is the primary goal of ransomware?",
+      "choices": [
+        "To extort money from victims by encrypting their data",
+        "To improve fonts",
+        "To recolor themes",
+        "To speed up VPNs"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "ransomware"
+      ]
+    },
+    {
+      "question": "Which file type is often targeted by ransomware?",
+      "choices": [
+        "Documents and images",
+        "Fonts",
+        "Themes",
+        "Color palettes"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "ransomware"
+      ]
+    },
+    {
+      "question": "What is double extortion in ransomware?",
+      "choices": [
+        "Encrypting data and threatening to leak it",
+        "Doubling font size",
+        "Theme replication",
+        "VPN throttling"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "ransomware"
+      ]
+    },
+    {
+      "question": "What is a fun but ineffective way to prevent ransomware?",
+      "choices": [
+        "Naming folders 'NothingToEncrypt'",
+        "Regular backups",
+        "Anti-malware solutions",
+        "Network segmentation"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "ransomware"
+      ]
+    },
+    {
+      "question": "How can backups help against ransomware?",
+      "choices": [
+        "They allow recovery without paying the ransom",
+        "Font restoration",
+        "Theme recoloring",
+        "VPN resets"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "ransomware"
+      ]
+    },
+    {
+      "question": "How can Okta or Auth0 reduce ransomware risks?",
+      "choices": [
+        "By securing access to critical systems with MFA and monitoring",
+        "Font tracking",
+        "Theme optimization",
+        "VPN balancing"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "ransomware",
+        "Okta",
+        "Auth0"
+      ]
+    },
+    {
+      "question": "What is phishing in the context of ransomware?",
+      "choices": [
+        "A method to deliver ransomware via deceptive emails",
+        "Font baiting",
+        "Theme hijacking",
+        "VPN phishing"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "ransomware"
+      ]
+    },
+    {
+      "question": "What is a common indicator of ransomware activity?",
+      "choices": [
+        "Sudden file encryption and ransom notes",
+        "Font errors",
+        "Theme corruption",
+        "WiFi speed drop"
+      ],
+      "correct": 0,
+      "level": "easy",
+      "technical": false,
+      "tags": [
+        "cybersecurity",
+        "ransomware"
+      ]
+    },
+    {
+      "question": "What is the best practice to defend against ransomware?",
+      "choices": [
+        "Regular backups, MFA, anti-malware, user education",
+        "Update fonts",
+        "Change themes",
+        "Boost WiFi"
+      ],
+      "correct": 0,
+      "level": "medium",
+      "technical": true,
+      "tags": [
+        "cybersecurity",
+        "ransomware"
+      ]
+    }
+  ]
+}
